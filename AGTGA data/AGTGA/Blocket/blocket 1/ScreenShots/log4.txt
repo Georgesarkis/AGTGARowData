@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 90425872-71f9-461f-bc8f-6bb25f9b4a57with location: 471,48 with string value: FILTRERA has been clicked
+new View has been created with view id: 2
+button with id: 9afe3129-1e4b-40bf-a525-625f15a12348with location: 48,1156 with string value: Visa 526 548 annonser has been clicked
+new View has been created with view id: 3
+button with id: 7b920fe3-3a77-4606-bfa3-428c06085baewith location: 570,654 with string value: 1 av 6 has been clicked
+new View has been created with view id: 4
+button with id: 917a23eb-1a10-43b5-875a-af71625d2584with location: 448,530 with string value:  has been clicked
+button with id: 23077756-b414-4b7d-af2f-1f609128d4b6with location: 592,530 with string value:  has been clicked
+new View has been created with view id: 5

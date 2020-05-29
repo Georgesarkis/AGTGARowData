@@ -1,0 +1,28 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: bd4d2232-eb5d-49a2-99f8-a77ede92213awith location: 481,1051 with string value: DELIVERY has been clicked
+button with id: b4f15c59-e12d-4b1f-8cec-965254bb3cc2with location: 384,313 with string value: to your pizza profile to access saved contact and payment information. has been clicked
+button with id: a08ede0f-7a49-46e6-b5e1-fb6513c7c579with location: 48,765 with string value: Apartment has been clicked
+button with id: 3884777a-5cba-435a-8f38-00500754d0adwith location: 30,803 with string value: City has been clicked
+new View has been created with view id: 4
+button with id: b75ed63b-6002-4b7b-b78f-1433b4180c40with location: 30,655 with string value: Suite/Apt # has been clicked
+new View has been created with view id: 5
+button with id: 34205dd4-9aff-4fae-8e34-e899a5fea4e8with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 9278e251-ac85-4fdc-968b-9ca5d046c3d2with location: 15,1611 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: e65cc3e8-25e4-4c85-9923-f2b170675efdwith location: 881,1537 with string value: CHECKOUT has been clicked
+button with id: 43be3fb9-6b1e-44f6-85e4-7e1cb9f6211fwith location: 147,375 with string value:  has been clicked
+button with id: cc0457d0-2b9f-4590-8cbf-b8cd78fb4861with location: 494,1417 with string value:  has been clicked
+new View has been created with view id: 8
+EditView with id: 27aa74fa-ff63-48b6-9afd-fd89b6784866 has been clicked and filled with string: 
+EditView with id: 27aa74fa-ff63-48b6-9afd-fd89b6784866 has been clicked and filled with string: 
+button with id: bd18ee61-e91e-4150-94ff-74e8d88a15dewith location: 900,899 with string value:  has been clicked
+new View has been created with view id: 9
+EditView with id: 5b0b0702-d65b-472b-b5e6-494873b3be72 has been clicked and filled with string: 
+EditView with id: 5b0b0702-d65b-472b-b5e6-494873b3be72 has been clicked and filled with string: 
+button with id: 9447a018-d57c-4ef4-983e-d8a85e625835with location: 549,1131 with string value: SUBMIT has been clicked
+new View has been created with view id: 10
+button with id: 354e092c-8426-49f7-96fe-aeff32a164f9with location: 123,661 with string value:  has been clicked
+button with id: 1638e731-750b-475a-9086-0a73d9d28147with location: 75,1076 with string value: Got it. Thanks. has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

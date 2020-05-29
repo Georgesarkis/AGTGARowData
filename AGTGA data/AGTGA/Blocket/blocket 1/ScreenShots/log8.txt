@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 2f35c30f-3b6f-4d21-b935-19203fe0cb72with location: 531,162 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: cc2608df-bfad-4848-a48d-240b96fef773with location: 32,497 with string value: IKEA Pocketresårmadrass Hövåg has been clicked
+new View has been created with view id: 3
+button with id: afe06a1c-460a-410f-a967-414e64113272with location: 0,48 with string value:  has been clicked
+button with id: 59209533-9cd0-43ff-b5d6-156ec030d44cwith location: 432,550 with string value: Meddelanden has been clicked
+new View has been created with view id: 3
+button with id: f30fd2b7-6830-4d7e-8ee7-d39f20461685with location: 118,544 with string value: Svara, skicka och ha koll has been clicked
+button with id: f0e663f4-910b-4fbe-86ae-d851beebbe4awith location: 0,614 with string value: Alla dina meddelanden till köpare och säljare på ett och samma ställe. has been clicked
+button with id: f74ed849-93cc-482f-99c1-3e91923e02ddwith location: 260,282 with string value:  has been clicked
+button with id: 100057f0-d59c-465c-8ad5-a1f29a276553with location: 32,78 with string value: Meddelanden has been clicked
+new View has been created with view id: 4
+button with id: f26a941b-df07-4b40-bd0a-6fc66e4d408fwith location: 118,544 with string value: Svara, skicka och ha koll has been clicked
+new View has been created with view id: 5
+button with id: 424cb947-72e4-4fd8-8d1f-ff12dce92c56with location: 144,1168 with string value: Sparade has been clicked
+button with id: 60887264-6e1a-400c-8641-d5c463841467with location: 260,282 with string value:  has been clicked
+button with id: 9c5ae134-0167-4356-bfe4-1d78c372e265with location: 144,1168 with string value: Sparade has been clicked
+button with id: 48931ccd-be73-4d8b-ae5c-62580aa0c17ewith location: 288,1168 with string value: Ny annons has been clicked
+new View has been created with view id: 3
+button with id: 7c802950-4561-464b-96e5-7715734beea5with location: 110,953 with string value: NEJ TACK, INTE DEN HÄR GÅNGEN has been clicked
+button with id: 089eb400-c1a6-43f8-930d-58bd7f8352dbwith location: 624,375 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 5c5c3ead-bf83-440a-965d-1b22ed1cf0b4with location: 50,863 with string value: Jobb has been clicked
+new View has been created with view id: 8

@@ -1,0 +1,18 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: c91c8155-32c9-430f-abf9-cb1e110ba0b7with location: 266,1017 with string value: SONGESAND has been clicked
+new View has been created with view id: 2
+button with id: ba64eeff-a656-46ab-9f26-73ea580b7d22with location: 60,1200 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 96231fdc-1cf3-43b1-91bc-8a9e6d7fac6awith location: 633,1057 with string value:  has been clicked
+button with id: 43e97fa3-7509-4021-ad8d-49260429657ewith location: 32,1008 with string value:  has been clicked
+button with id: eb455d41-fb5a-4373-9c92-d45cca8cc1a8with location: 48,943 with string value: byrå med 6 lådor, vit, 82x126 cm has been clicked
+button with id: 90e25a8f-a2ec-49c5-917f-39acd29b4b5dwith location: 592,56 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: de2a50a1-a730-4fd6-b3b5-8070aadef0a8with location: 368,976 with string value: Registrera dig has been clicked
+button with id: 47172253-a415-4163-beff-2a9eca7bd692with location: 0,208 with string value: Skapa ett konto has been clicked
+button with id: 18032671-0498-4799-a4ea-483af22199f6with location: 471,1200 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: eb69c4ea-89de-4c6d-80c2-c3f5c157e6efwith location: 60,1200 with string value:  has been clicked
+button with id: a86d5fe3-0891-4458-af8d-0ad98267d61ewith location: 496,56 with string value:  has been clicked
+new View has been created with view id: 3

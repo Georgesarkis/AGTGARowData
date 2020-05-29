@@ -1,0 +1,42 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 0768cce5-a2a9-4a5d-964a-299e7ed9d245with location: 656,264 with string value:  has been clicked
+button with id: 310a1700-1e01-458b-a381-794afd6cb514with location: 608,1200 with string value:  has been clicked
+button with id: 60396862-6c8f-48ff-b372-f186e32738e0with location: 288,858 with string value: Giltigt till 11 aug. 2020 has been clicked
+new View has been created with view id: 4
+button with id: 89faf4bc-acd9-4ed1-b063-833220646a0fwith location: 32,1008 with string value:  has been clicked
+button with id: e1c3e3ad-43f7-4a93-982d-758e80b2c8e6with location: 16,48 with string value:  has been clicked
+button with id: 049b07e7-6d4f-42b9-ad9a-a4be36e2aed3with location: 60,1200 with string value:  has been clicked
+button with id: 0cfd0e23-4218-486c-a650-23ba652ff877with location: 32,911 with string value: Nytt lägre pris has been clicked
+button with id: 2f351bb0-6c65-4e2a-a6de-b4a30e1e2d8awith location: 48,859 with string value: Nytt lägre pris has been clicked
+button with id: cf3e94a4-942d-4da0-bffc-ce57c767ac4awith location: 0,162 with string value: Giltigt till 11 aug, 2020 has been clicked
+button with id: 75a17b36-5e1b-4529-827e-8280b4724ffewith location: 96,310 with string value:  has been clicked
+button with id: dba5e55b-a0f0-44dd-a65d-619ca2a8849ewith location: 0,48 with string value:  has been clicked
+button with id: 20aeaafb-f29a-4531-adb2-874507d1002cwith location: 608,1200 with string value:  has been clicked
+button with id: 49e2aab4-eddc-40c6-9ae0-fc6e8d3a1a6awith location: 288,284 with string value: Tablett, röd/mönstrad, 45x33 cm has been clicked
+button with id: a63a9920-f635-45d2-9bd1-faa15510a635with location: 334,1200 with string value:  has been clicked
+button with id: 95b67959-c955-4908-bf5b-09bca25c5cb2with location: 334,1200 with string value:  has been clicked
+button with id: 448d4d3b-0744-4d71-a3c5-2e08c986c1b8with location: 48,920 with string value: Inställningar has been clicked
+new View has been created with view id: 7
+button with id: 0b35aa5b-470b-4f35-b5c1-a9aa5210ee4fwith location: 48,587 with string value: Om has been clicked
+new View has been created with view id: 8
+button with id: 5bb4b18b-b5ea-4d29-849d-77bb1218a1c5with location: 48,231 with string value: Version has been clicked
+button with id: 572a5a27-a292-48b3-9907-cdab8c0dac87with location: 16,48 with string value:  has been clicked
+button with id: 36a6e23a-bf33-4209-ab49-8eef41feb640with location: 640,404 with string value:  has been clicked
+button with id: ba74dacb-d9c4-48ba-aeda-f502c314fd32with location: 197,1200 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: a21dd499-bfc2-4bdb-8e69-8a3e20464bafwith location: 48,647 with string value: Nyhet på IKEA has been clicked
+button with id: 32d3a558-7a70-4a64-868d-38edbc385a82with location: 32,80 with string value:  has been clicked
+button with id: f5bc3b1c-af41-4ae2-bdf4-64ecbdfda519with location: 471,1200 with string value:  has been clicked
+button with id: 806592cd-0455-4532-8cd9-5545fc99f5dewith location: 197,1200 with string value:  has been clicked
+button with id: 4a80c31a-b149-4272-8358-bf163dc81499with location: 48,936 with string value: Möbler has been clicked
+button with id: 51f94202-28ef-4224-b98d-6093a4bce9dawith location: 608,1200 with string value:  has been clicked
+button with id: 65460fc0-7b4e-4bfe-977f-538b6ae23057with location: 48,893 with string value: GALLRA has been clicked
+button with id: ec87c318-a133-4395-a6f8-a6e9b3d26691with location: 249,1052 with string value: Lägg i varukorg has been clicked
+button with id: ee2fd7fd-7dff-4e74-be20-8b7552cefe7bwith location: 48,943 with string value: tablett, röd/mönstrad, 45x33 cm has been clicked
+button with id: ab04af33-4bf8-47b8-addb-8a6c86cdc1ddwith location: 60,1200 with string value:  has been clicked
+button with id: 5562ed92-7923-40dd-bc92-707364a7bac2with location: 471,1200 with string value:  has been clicked
+button with id: 70c9985f-84a9-40cf-8078-5d88235e28e8with location: 608,1200 with string value:  has been clicked
+button with id: 5eb6a227-3c02-4277-9f12-ec15471a7a50with location: 471,1200 with string value:  has been clicked
+button with id: e8b3ea27-6d9c-4528-b9c1-73ab901dc9d3with location: 334,1200 with string value:  has been clicked
+button with id: 1f52a013-0aaa-4975-8654-ace83c847c75with location: 334,1200 with string value:  has been clicked

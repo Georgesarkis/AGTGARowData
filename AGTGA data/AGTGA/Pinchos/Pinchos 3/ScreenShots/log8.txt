@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 9f901fe3-123a-4ead-a370-32ee31e4491ewith location: 777,940 with string value: OK has been clicked
+new View has been created with view id: 2
+button with id: e0cf6ec2-3b20-4868-b7ac-220a6c3fa867with location: 48,1450 with string value: ARANÄS ALLE 2 has been clicked
+button with id: a47ff42d-a757-4081-87fa-3315606bcbefwith location: 841,283 with string value: FOOD  has been clicked
+button with id: b73c7c73-414f-496a-8f15-82fcf469c8cbwith location: 780,1208 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: e057d5a4-0a1d-46a3-8410-3a55953b906cwith location: 978,411 with string value:  has been clicked
+button with id: f482c95b-14b3-4492-928d-915d50be9bdewith location: 0,276 with string value: Here you can choose if you want to see all or specific allergens that are added in our products. All the food and beverages are prepared in the same environment and because of that, traces of all allergens can occur in all the products fried products included. Due to GDPR, the information you fill in below will not be shared with the staff.
+Do you have questions? Please contact someone in the staff! has been clicked
+button with id: b74c5b00-6ec8-4309-94df-93fc30941262with location: 0,1424 with string value:  has been clicked
+Exception aquired with message: 'charmap' codec can't encode characters in position 103-104: character maps to <undefined>

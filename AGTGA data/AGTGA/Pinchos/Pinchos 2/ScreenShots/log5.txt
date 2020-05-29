@@ -1,0 +1,9 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 9721ccc8-ca28-46fc-b003-7ddf45b1b985with location: 48,1183 with string value: ÖVRE MAJORSGATAN 4 has been clicked
+new View has been created with view id: 2
+button with id: 293df63b-fe49-43cf-b940-121d8ec4b16ewith location: 972,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: dc1287af-36af-4025-b1a7-e5dd49f5dd18with location: 972,72 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

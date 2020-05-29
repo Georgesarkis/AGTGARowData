@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: e5f47a44-0f59-493b-b57e-6e3132fe7ab5with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 0bf1799f-772f-4873-8717-3f39df7cc17cwith location: 16,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 3f19df16-fd08-46d6-b80d-93a6ff5bfff0with location: 32,306 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 3dd72cde-c563-4e61-8396-8c8d346e6358with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: a7bb5e88-3a38-4f65-857b-58e3750092b7with location: 319,894 with string value: Lantbruksmaskiner has been clicked
+button with id: b67b809b-5df0-424b-9f5e-d3123d92fe4dwith location: 610,1052 with string value: 1987 has been clicked
+button with id: 02a0fc6d-851a-4e96-88be-9e9a812bdae6with location: 0,48 with string value:  has been clicked
+button with id: 4968325f-e5b9-4acb-a63c-56eb17e97821with location: 592,530 with string value:  has been clicked
+new View has been created with view id: 5

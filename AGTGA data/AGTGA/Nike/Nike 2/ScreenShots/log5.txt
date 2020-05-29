@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: b1247857-024d-4ee2-a86f-586a2d006ae5with location: 618,286 with string value: Boys has been clicked
+new View has been created with view id: 2
+button with id: ee51ed31-a130-42e9-a7c7-c870de4c97cdwith location: 0,72 with string value:  has been clicked
+button with id: cd43ffd0-5bb2-4e59-9d87-3ddd7414b431with location: 0,72 with string value:  has been clicked
+button with id: acd66de1-97d1-4eca-9f21-162db9553301with location: 338,1168 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 611ffc05-3061-461d-8690-24217e536ee8with location: 180,706 with string value:  has been clicked
+button with id: bc9dc1d0-5545-46a0-af2b-6994922864ebwith location: 338,554 with string value: Member Since April 2020 has been clicked
+button with id: 631b4ff1-9a01-44e1-aec3-0626191df54fwith location: 150,1606 with string value: Check in easily and get personalized service at Nike stores and events. Learn more. has been clicked
+new View has been created with view id: 5
+Exception aquired with message: 'charmap' codec can't encode character '\u2060' in position 110: character maps to <undefined>

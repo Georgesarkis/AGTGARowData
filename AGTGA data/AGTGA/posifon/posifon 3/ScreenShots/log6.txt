@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is md5dccfc7716c9297b278a85628ec83026a.LoginActivity
+EditView with id: ad4ab570-42c1-4b80-b8a0-bc820c6382ec has been clicked and filled with string: demo4@konto.se
+EditView with id: ad4ab570-42c1-4b80-b8a0-bc820c6382ec has been clicked and filled with string: Sommar2018
+button with id: cd629fae-4d4a-43a9-9dcd-c88f52908896with location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: f67b4c5a-eff8-4ac6-a08e-76f545d73c13with location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+button with id: 13ec06d1-3663-4bd2-82af-01f76e2add0ewith location: 177,905 with string value: Anna Granqvist has been clicked
+new View has been created with view id: 2
+button with id: 16584c94-d270-4531-8653-ab94a39d3d0fwith location: 567,115 with string value: Anna has been clicked
+new View has been created with view id: 3
+button with id: 13bd6001-f564-4077-97d1-89578f4f03a2with location: 950,1540 with string value:  has been clicked

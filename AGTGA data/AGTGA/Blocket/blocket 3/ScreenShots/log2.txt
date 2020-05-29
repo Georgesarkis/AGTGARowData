@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: ec9aac58-5210-4b37-97f8-849f384f5d6awith location: 32,306 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 41343df7-32df-4e6d-b752-a65ef546edccwith location: 0,48 with string value:  has been clicked

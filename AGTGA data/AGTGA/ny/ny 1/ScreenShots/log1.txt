@@ -1,0 +1,19 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 63348f88-12c1-4280-9d35-0a3acb371903with location: 478,1707 with string value: For You has been clicked
+button with id: 3290e08b-5ad6-4001-af99-a59fe186deaawith location: 131,1707 with string value: Today has been clicked
+button with id: 934b3878-f2a6-4485-a856-8773175ed86cwith location: 48,282 with string value: Spiking Death Rates Suggest Pandemic Toll Is Undercounted has been clicked
+new View has been created with view id: 11
+button with id: b2f0f54f-3884-450d-b56f-cf309476376cwith location: 216,122 with string value: Top Stories has been clicked
+new View has been created with view id: 12
+button with id: 6b3cd488-2687-44fb-b045-2968f811e566with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: 899f5ef7-a300-41c5-af38-d1202ff2caaewith location: 99,1629 with string value: World Cases has been clicked
+button with id: db271cc3-a5b7-4037-9419-1a8c2fb0bfe6with location: 48,282 with string value: Spiking Death Rates Suggest Pandemic Toll Is Undercounted has been clicked
+button with id: 64099db5-278c-4ad4-99f9-aaae0193f94dwith location: 60,1661 with string value: Subscribe to The New York Times. has been clicked
+new View has been created with view id: 13
+button with id: 6f2dc85b-98e1-4cdf-9d4f-222e0371b382with location: 45,973 with string value:  has been clicked
+button with id: fcc14993-6001-4df8-8933-3c232bda6bd2with location: 48,124 with string value:  has been clicked
+button with id: 1c80d4f0-150a-4f07-9f30-d91758f362fawith location: 216,122 with string value: Top Stories has been clicked
+button with id: f4474207-5ea8-4af0-8ae5-459048808216with location: 816,84 with string value:  has been clicked
+new View has been created with view id: 13

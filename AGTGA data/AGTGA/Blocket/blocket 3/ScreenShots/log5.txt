@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: ac3915ff-3bab-4259-8481-7336c092afffwith location: 144,1168 with string value: Sparade has been clicked
+new View has been created with view id: 2
+button with id: 34f0d654-fc01-47b1-b89d-aaa82fa81bf9with location: 144,1168 with string value: Sparade has been clicked
+button with id: 4c644305-ac74-4afb-acd6-c6e06ed7de31with location: 0,614 with string value: Skapa en bevakning. Få ett push-meddelande när din drömannons läggs in! has been clicked
+button with id: 2e980d59-f328-4858-b8a6-28ab1d4912a6with location: 260,282 with string value:  has been clicked
+button with id: 1133657d-f72b-4f70-b76b-d7aeed188858with location: 162,826 with string value: Logga in & kom igång! has been clicked

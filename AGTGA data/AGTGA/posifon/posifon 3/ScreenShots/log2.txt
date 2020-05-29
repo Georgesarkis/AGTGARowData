@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: 0042fb1c-27da-465b-a45d-6a080246a458with location: 177,1128 with string value: Kerstin Karlsson has been clicked
+new View has been created with view id: 2
+button with id: 331ea285-3f00-4985-b4b8-fd864bbdcb4ewith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: ad59ca7d-5799-4e33-a019-9b10289698dbwith location: 504,1632 with string value:  has been clicked
+button with id: 0f461986-f2e5-40b8-9132-80f75bf96c4cwith location: 48,1101 with string value: Logga ut has been clicked

@@ -1,0 +1,10 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 91ef3e13-3191-4201-85f3-1f9faa0ca8c5with location: 658,1253 with string value:  has been clicked
+button with id: 9146a641-85da-478e-99b5-2c995081847bwith location: 224,769 with string value: How's 1Weather? has been clicked
+button with id: 4d4f2775-b1bb-442d-800e-57b7829c8fb2with location: 183,932 with string value:  has been clicked
+button with id: 969a99bb-8cc2-45d0-a8bd-fbcad53c945awith location: 421,1253 with string value: Needs work has been clicked
+new View has been created with view id: 2
+button with id: 7a888bee-5624-4111-bf5c-a3124fbb3485with location: 460,1145 with string value: CANCEL has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

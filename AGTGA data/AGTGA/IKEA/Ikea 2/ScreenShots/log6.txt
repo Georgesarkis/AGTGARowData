@@ -1,0 +1,51 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: e341da8e-d309-4e95-8619-6cb303f08e37with location: 592,80 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 44fcaed5-686d-49ec-8d76-1042e416d3f5with location: 48,418 with string value: Nyligen visade has been clicked
+button with id: 6bb94ef1-cc56-4b97-930d-e27bb3878b14with location: 32,56 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 558eb845-0f63-4f05-a631-d0407f2efa11with location: 0,598 with string value: Bli inspirerad has been clicked
+button with id: 29346b9b-04f4-4447-97a7-6ce9f1139396with location: 592,80 with string value:  has been clicked
+button with id: 866ab364-75c6-4c7b-ad4c-638802e6332awith location: 48,256 with string value:  has been clicked
+button with id: 30dff835-ca71-44f7-9e4e-b50f9074e173with location: 328,505 with string value:  has been clicked
+button with id: 2675d882-b707-4dac-86df-fae005a1f489with location: 48,1034 with string value: krukväxt med kruka, Orkidé/blandade färger, 6 cm has been clicked
+button with id: c1d02386-32c1-4d13-b96c-28620f41b1cdwith location: 334,1200 with string value:  has been clicked
+button with id: ac937c41-a82f-4c0b-9bb5-1d6f94093de0with location: 60,1200 with string value:  has been clicked
+button with id: cfac8514-c69c-4077-9aa6-7b55fa88e1fdwith location: 48,1103 with string value: Ordinarie pris 69 kr has been clicked
+button with id: 6587e07b-346a-4514-afa3-84fe62e36270with location: 60,1200 with string value:  has been clicked
+button with id: bf6d6cd4-a1ac-432b-8661-4444023e0d39with location: 344,264 with string value:  has been clicked
+button with id: be6f51b4-0f4e-4bf0-858e-362c8d1cd8e2with location: 32,1048 with string value: Ordinarie pris 59 kr has been clicked
+new View has been created with view id: 3
+button with id: 2c045a8a-6f36-40a3-bea0-5d3b71b3dcaewith location: 96,310 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: f8761ee5-b808-4d7a-9a8a-625e1c713474with location: 16,48 with string value:  has been clicked
+button with id: c11aaf39-6657-46b9-9d40-914135be6115with location: 560,984 with string value: 19 kr has been clicked
+button with id: 88701029-6379-4dba-a66b-23f504fb8dacwith location: 334,1200 with string value:  has been clicked
+button with id: cc6356e5-3651-486c-bc4c-ac09b2dd7b66with location: 48,742 with string value: Datakontroller och villkor has been clicked
+new View has been created with view id: 7
+button with id: b8752d84-a0df-47b3-a572-9c704f9a8017with location: 172,84 with string value: Datakontroller och villkor has been clicked
+button with id: 4be23b52-e86e-48cc-b7f0-3cee164ff588with location: 48,869 with string value: Din data tillhör dig. Därför kan du välja när du vill dela den. Hantera dina datapreferenser nedan. has been clicked
+button with id: 3251a4b4-c7be-4ca0-9617-63f118bfe621with location: 16,48 with string value:  has been clicked
+button with id: 9a2ab1c9-b2fb-4150-bf20-9b3bf7129f28with location: 471,1200 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 5506d344-f04f-4a18-8313-efb83eb08f22with location: 60,1200 with string value:  has been clicked
+button with id: 6081000f-65fe-4744-be90-c96854c0bed4with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 26cfa875-bc7f-4f59-aa4e-5426c113b11ewith location: 592,569 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 9a633f1f-2331-47cd-81f6-b403af61b691with location: 32,976 with string value: Logga in has been clicked
+button with id: 348d5315-c035-46b1-9d1a-52e8dac85197with location: 48,873 with string value: Glömt lösenordet? has been clicked
+new View has been created with view id: 8
+button with id: 4847a1de-3d92-4fab-922d-3af1c1a9ddb0with location: 48,88 with string value:  has been clicked
+button with id: e944ea0c-eb81-44dd-bd35-e298715d5a79with location: 0,208 with string value: Logga in has been clicked
+button with id: 55be85e7-93c9-4455-a926-86bd0cd744aawith location: 48,88 with string value:  has been clicked
+button with id: 0045d18a-89db-4efd-b81f-0bd2f2e0cbebwith location: 0,408 with string value: Erbjudanden has been clicked
+button with id: 757b2d6e-2232-4947-ba24-d966d7a6943ewith location: 32,979 with string value: Krukväxt, 12 cm has been clicked
+button with id: 7f6c5a78-5b21-4b22-b423-65a359c3b1d9with location: 471,1200 with string value:  has been clicked
+button with id: a7519e01-2453-41fd-8b8d-35581c5fb81fwith location: 471,1200 with string value:  has been clicked
+button with id: fde9111c-c1b0-4357-92cc-ccd56f6b7a22with location: 368,1008 with string value: Logga in has been clicked
+new View has been created with view id: 8
+button with id: 53e08b6f-7a3f-4408-8883-de3c6eda6741with location: 474,80 with string value: Registrera dig has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

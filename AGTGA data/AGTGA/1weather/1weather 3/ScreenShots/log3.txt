@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 670acd30-de6b-4bcc-82aa-6af195bb572dwith location: 151,1184 with string value: Visibility has been clicked
+new View has been created with view id: 2
+button with id: da6b8b25-7dd1-488c-b041-eff55c085976with location: 163,998 with string value: Visibility is the distance at which an object or light can be clearly discerned. has been clicked
+Exception aquired with message: Message: A session is either terminated or not started
+

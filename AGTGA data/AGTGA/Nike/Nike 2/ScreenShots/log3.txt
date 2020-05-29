@@ -1,0 +1,35 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: 8c2fdfd1-f3b1-4f15-a79d-a2d0bfcf5e70with location: 0,992 with string value:  has been clicked
+button with id: beff272c-9d44-4ba6-a6c8-eb53cb0961a9with location: 0,848 with string value: New In: Shop All has been clicked
+new View has been created with view id: 5
+button with id: 96578c03-8df7-4902-8778-8fc0d9c73800with location: 948,1390 with string value:  has been clicked
+button with id: 53339732-2b9f-4bdb-9cfd-886d44452453with location: 546,1354 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 5009ded5-f45b-4a38-9b6a-96e1369da80ewith location: 0,72 with string value:  has been clicked
+button with id: fc13f716-349c-4349-b46c-04ea8d68fae7with location: 546,384 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 72d97888-36d7-47ef-aa9a-105587deea9dwith location: 0,72 with string value:  has been clicked
+button with id: d2476fa7-540b-41be-854f-1ff3c2c03e73with location: 0,1354 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: fd3f0d96-71f9-45bb-8640-bfdebe4f2826with location: 0,72 with string value:  has been clicked
+button with id: 9cbac597-d7c4-4e4d-9bf7-f88511f963dfwith location: 951,120 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 3fa200fc-6c17-4b21-a768-998bd6eb81adwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 0e99cf4e-bcaf-4783-a07b-bcabe970c713with location: 951,120 with string value:  has been clicked
+button with id: 3f446e4e-e558-4314-be36-29bef0464de4with location: 180,940 with string value: When you add products, they'll appear here. has been clicked
+button with id: 42c9d2ea-a615-481a-af31-f5b66c3902cfwith location: 450,624 with string value:  has been clicked
+button with id: 0553e027-1d4d-44c9-8895-2a99567ba1d4with location: 60,1532 with string value: Shop Now has been clicked
+new View has been created with view id: 7
+button with id: 95cc21a9-7983-4d95-a365-f8f34241dc4dwith location: 216,123 with string value: SHOP has been clicked
+button with id: b999b906-e5c8-4fd4-8c7d-6025b0b0506dwith location: 0,72 with string value:  has been clicked
+button with id: 542ace90-7bdf-443c-bb69-1bd0c39ad6d2with location: 86,286 with string value: Men has been clicked
+new View has been created with view id: 3
+button with id: d267df41-b02e-4e5d-bfa0-c2a0c34f09dewith location: 0,72 with string value:  has been clicked
+button with id: 1f047e5e-3b7c-4f18-ae42-c7a9e4e33153with location: 0,408 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 5718d6d9-c804-4871-9b81-2a4f7afbeadbwith location: 0,240 with string value:  has been clicked
+button with id: 1793af38-9c0b-466f-a7c9-6bf9cb59de20with location: 321,286 with string value: Women has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

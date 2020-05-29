@@ -1,0 +1,38 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 30459dd5-e6e1-4e14-85d9-4167939c2598with location: 656,508 with string value: Nytt lägre pris has been clicked
+new View has been created with view id: 2
+button with id: e5f4d99c-c650-4015-911b-3d6e80fd41ecwith location: 64,665 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 4d4e7b1b-402e-4b55-b988-a5377ed27caewith location: 560,893 with string value: 189 kr has been clicked
+button with id: af97afeb-0a3c-4b2d-91bd-8909f6bb2836with location: 16,48 with string value:  has been clicked
+button with id: 5187661c-d93d-421b-9466-cbd6691401eewith location: 549,420 with string value: Filter has been clicked
+new View has been created with view id: 3
+button with id: 7daf81b6-9cb9-41da-b922-6588a2ebae64with location: 592,380 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 7c48559d-9470-49bb-8331-68bd43ef874ewith location: 184,679 with string value: beige has been clicked
+button with id: d1e5a1b2-5b79-4346-bdf2-ef1c5fdd62c7with location: 452,1136 with string value: Visa 24 has been clicked
+new View has been created with view id: 5
+button with id: 378598ae-d7f0-44db-8736-edce74736aa9with location: 32,911 with string value: Nytt lägre pris has been clicked
+new View has been created with view id: 6
+button with id: a023e26e-8066-477d-863f-8ee56d73d57dwith location: 16,48 with string value:  has been clicked
+button with id: baa7e1c8-94c9-4955-9563-b6b29407c745with location: 32,979 with string value: 2 sektioner/hyllor/skåp, 134x30x179 cm has been clicked
+button with id: f61ca9be-75fc-4ab5-ba7f-d0ff5ef11d38with location: 592,56 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 873813df-bed5-4b15-a3c6-89f355953126with location: 368,976 with string value: Registrera dig has been clicked
+button with id: 5f878fbe-a12c-450a-89e0-5316957df009with location: 96,310 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: a2cefdc4-2511-4f17-8ff6-7341d8c4c573with location: 0,48 with string value:  has been clicked
+button with id: 7296fcf3-e307-4e6d-9426-58ef10098ec5with location: 16,48 with string value:  has been clicked
+button with id: 84360988-21c4-40bb-9661-1b829738955bwith location: 48,907 with string value: 2 sektioner/hyllor/skåp, furu/vit, 134x30x179 cm has been clicked
+button with id: 35d3d7ac-84a2-4694-a92f-d90a47b1bce7with location: 32,1008 with string value:  has been clicked
+button with id: fba48e65-fd00-427b-91b0-7857926e81aawith location: 560,857 with string value: 2 344 kr has been clicked
+button with id: f7dc317d-51ab-49bc-b572-be8ce4d74849with location: 608,1200 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 6a4bd782-3193-450e-bbcb-187379cab63ewith location: 287,84 with string value: Varukorg has been clicked
+button with id: 63873e09-4009-4d59-855e-28d52923442dwith location: 608,1200 with string value:  has been clicked
+button with id: 65442566-7435-45d3-8ae9-6ff9a39e48dawith location: 334,1200 with string value:  has been clicked
+button with id: 533ac256-deaf-4447-a4a3-b2674c812f56with location: 640,915 with string value:  has been clicked
+button with id: ad7bdec8-7ae3-42ab-91db-7b5955d33c99with location: 640,404 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

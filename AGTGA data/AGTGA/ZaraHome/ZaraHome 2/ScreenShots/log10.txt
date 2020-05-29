@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 559ec160-4084-483b-ac77-b230bf26d788with location: 626,66 with string value:  has been clicked
+Exception aquired with message: Message: A session is either terminated or not started
+

@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is md5dccfc7716c9297b278a85628ec83026a.LoginActivity
+EditView with id: 802927b0-aaf1-485b-8ace-d5154ce849db has been clicked and filled with string: demo4@konto.se
+EditView with id: 802927b0-aaf1-485b-8ace-d5154ce849db has been clicked and filled with string: Sommar2018
+button with id: 70b18a8f-6a3d-40af-874c-533875086113with location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: 8703793b-6a56-49e2-83b0-d2df725a25fcwith location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+button with id: 12b7ff05-3d12-47d5-a39e-f3b13c9e7e9awith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 17c0fe76-2510-4080-8748-fb2ce0e6245awith location: 48,366 with string value: Demo 4 has been clicked
+button with id: cf0fe45e-613f-4b1f-9a81-ad9145203e70with location: 936,84 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 7bc9f265-0617-4fa0-8816-3321c357e653with location: 0,72 with string value:  has been clicked
+button with id: 2904f5c8-6961-4b15-81b7-ce39aedf522ewith location: 0,72 with string value:  has been clicked
+button with id: a324f69f-2139-4278-a1a3-c9c19e6f19c8with location: 969,312 with string value:  has been clicked
+button with id: a5b96d3e-60c8-4ab3-8619-9ba86568c4b7with location: 165,753 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: c25d66bd-fe02-4934-8d2c-b5da81ea1da8with location: 542,115 with string value: Charlie has been clicked
+new View has been created with view id: 5
+button with id: 13b1a1e4-de66-42e8-8590-b8d67ae8e33fwith location: 969,1739 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 319ec2aa-4fa3-430a-b008-53ced41d8728with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 0cb5665f-ac08-4dea-9e89-0fd345d874fawith location: 15,927 with string value: Trygghetsområden has been clicked
+new View has been created with view id: 8
+button with id: 366dd64e-f3dc-4b66-a686-6bcf21a912d7with location: 936,640 with string value:  has been clicked
+new View has been created with view id: 9

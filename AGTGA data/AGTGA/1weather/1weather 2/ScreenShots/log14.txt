@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: cadf3fba-98ab-4a78-8f17-f1b6f4902163with location: 778,1299 with string value: 1,020 Mb has been clicked
+new View has been created with view id: 2
+Exception aquired with message: 'charmap' codec can't encode character '\u25bc' in position 167: character maps to <undefined>

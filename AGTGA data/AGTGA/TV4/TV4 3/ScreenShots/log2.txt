@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: ec9a1011-fac1-4f27-bf27-6b97aa19c23dwith location: 0,48 with string value:  has been clicked
+button with id: f31b350f-5a70-4fbe-b82f-9f6e48d7c3ecwith location: 318,412 with string value:  has been clicked
+button with id: 82f2e599-2be2-4d0b-a46d-7783aa8b7743with location: 221,724 with string value:  Vanliga frågor  has been clicked
+new View has been created with view id: 5

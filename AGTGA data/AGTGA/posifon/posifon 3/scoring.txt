@@ -1,0 +1,32 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n             ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *      HIGH      *         63         *       17         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase00.py", line 30, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase01.py  *       LOW      *         22         *       4         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase02.py  *       LOW      *         22         *       4         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+* TestCase03.py  *      HIGH      *         90         *       26         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase03.py", line 13, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase04.py  *       LOW      *         31         *       7         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase05.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase06.py  *      HIGH      *         36         *       8         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase06.py", line 30, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase07.py  *      MEDIUM      *         61         *       17         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+* TestCase08.py  *       LOW      *         28         *       6         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase09.py  *      MEDIUM      *         97         *       29         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase10.py  *       LOW      *         34         *       8         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase11.py  *       LOW      *         10         *       0         *       False     *  None
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         45.72727272727273
+*   Average Action per Test-case           =                         11.727272727272727
+*****************************************************************************************************************

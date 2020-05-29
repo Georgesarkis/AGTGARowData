@@ -1,0 +1,23 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: f94a1885-b78e-4dcc-b382-773e0a96c5c1with location: 0,72 with string value:  has been clicked
+button with id: daf95792-8262-4c85-8592-cbacce483bb0with location: 165,1404 with string value:  has been clicked
+button with id: 29aad20f-4a0e-4ee3-adae-31fdfab0dc7awith location: 48,513 with string value: Mina avdelningar has been clicked
+new View has been created with view id: 3
+button with id: b3d41da0-5746-4ac4-b239-95f87c3b82c8with location: 180,561 with string value: Boende B has been clicked
+new View has been created with view id: 4
+button with id: 793efb02-201c-4bfe-9e0b-1c3d8468d5aawith location: 936,84 with string value:  has been clicked
+button with id: d3763d3f-1f55-4758-9523-8539e32861b0with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 42e1bfad-e202-4ed3-99cb-b77d41f137ebwith location: 216,115 with string value: Mina avdelningar has been clicked
+button with id: 6a6999ee-48d6-4ce0-b717-a785b890a39ewith location: 48,660 with string value: Larmlista has been clicked
+button with id: 87dfd1b1-d769-44e5-a307-230cca818951with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 581db1c9-1943-4d07-8862-b362e4175900with location: 39,682 with string value:  has been clicked
+button with id: 0c419ae2-0fdb-48ba-9932-d12b042bef51with location: 48,513 with string value: Mina avdelningar has been clicked
+button with id: d86f737f-961e-4fb0-a248-ed06c575015dwith location: 48,310 with string value:  has been clicked
+button with id: 6c617b7d-5108-43d4-9498-2e4c512b2f17with location: 15,264 with string value: Brukare has been clicked
+button with id: d68e6747-c9a9-4a44-9a7c-bdf6e78393a9with location: 969,312 with string value:  has been clicked
+button with id: bf2376f6-6d15-4249-b9f5-7f5d7bcb93b6with location: 237,1404 with string value: 1% has been clicked
+button with id: a4644b77-59e7-4151-95b4-b4f3b4746383with location: 410,96 with string value:  has been clicked
+button with id: 1c240cf2-e5c7-4639-a17b-33fc81396248with location: 950,1491 with string value:  has been clicked

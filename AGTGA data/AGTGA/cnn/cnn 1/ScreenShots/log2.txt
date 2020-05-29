@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is .features.splash.SplashActivity
+new View has been created with view id: 1
+button with id: 750492f1-e8bc-4b3c-9f3b-ffcc35e0829awith location: 860,277 with string value: Business has been clicked
+new View has been created with view id: 2
+button with id: 153a8b53-ad58-4e07-bc0e-c7e19197a93awith location: 369,1656 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 1d17a03e-c92d-49a9-9be2-7ac37b631770with location: 639,1656 with string value:  has been clicked
+button with id: 3ba019c6-c2b8-4220-b2ea-e096d2cda2aawith location: 369,118 with string value: Saved Stories has been clicked
+button with id: 4d9cd04f-6036-442f-8391-a17cc8bf275dwith location: 363,504 with string value: Saved on Apr 29, 2020 has been clicked
+button with id: aec779a0-fb08-491b-b9fd-8d72bd4a2934with location: 972,111 with string value:  has been clicked
+button with id: b4a6fc96-e5b2-4bb1-8dd5-0dd0f816ad2cwith location: 48,1270 with string value: Analysis by Stephen Collinson, CNN has been clicked
+button with id: 453fb405-1c2c-4d0a-9dad-374cabd13227with location: 369,1656 with string value:  has been clicked
+button with id: 15548b55-1bf1-4c98-97bf-05ede25935b0with location: 867,286 with string value:  has been clicked

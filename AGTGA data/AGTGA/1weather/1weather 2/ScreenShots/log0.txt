@@ -1,0 +1,9 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 66bafebb-970a-4a4e-967e-4952ea754807with location: 474,1184 with string value: Dew Point has been clicked
+new View has been created with view id: 2
+button with id: d5c5e473-2d28-44bc-bb54-55036836ee31with location: 12,884 with string value: The dewpoint temperature is the temperature at which the air can no longer "hold" all of the water vapor which is mixed with it, and some of the water vapor must condense into liquid water. has been clicked
+button with id: 6d97543a-8add-437b-a37c-118daca08ccawith location: 38,1633 with string value:  has been clicked
+new View has been created with view id: 1
+button with id: 2ec1cb9c-cb2f-468e-804c-cc05f1c7e480with location: 52,1277 with string value:  has been clicked
+new View has been created with view id: 2

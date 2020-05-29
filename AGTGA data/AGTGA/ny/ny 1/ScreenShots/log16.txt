@@ -1,0 +1,39 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 3e483206-739d-4cf5-9084-1910e299a55bwith location: 131,1707 with string value: Today has been clicked
+button with id: 72995afc-eaae-4b72-b7f0-d5b0025febbewith location: 263,117 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: cd6bad09-37ef-4882-bfaf-d4d1ef8baea2with location: 478,1707 with string value: For You has been clicked
+button with id: 9a0705da-9569-4b44-b74f-56fb944b4793with location: 72,1560 with string value:  has been clicked
+new View has been created with view id: 14
+button with id: c468ef5d-8f00-4caa-9083-8b4709b0798bwith location: 421,438 with string value:  has been clicked
+button with id: 23b7ca27-4830-45e3-889e-1b6ae5d2dee0with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: 9d4764cd-69eb-47cf-882b-41e5c92a3130with location: 655,1434 with string value: See Stories has been clicked
+new View has been created with view id: 16
+button with id: c8d3d8cb-d694-4561-8021-6f0b35e1b743with location: 534,940 with string value: CANCEL has been clicked
+button with id: 1da3faea-3ef6-4be9-91cb-e669c4c08430with location: 72,913 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: eafc758e-ee1c-4d8e-81ed-bf11a3e1a7c7with location: 0,72 with string value:  has been clicked
+button with id: 5677fec3-a2e7-42b0-9ea9-1413939c80ddwith location: 131,1707 with string value: Today has been clicked
+button with id: e9776924-40b1-4d0b-9089-e17142852c7dwith location: 131,1707 with string value: Today has been clicked
+button with id: 5ef92070-89e3-404a-815d-2145729bb9d7with location: 504,1632 with string value:  has been clicked
+button with id: 4762a1bd-4364-4fdc-8d1c-f20914a67d42with location: 217,1381 with string value: FOLLOW has been clicked
+button with id: f5d19d0e-6c07-4821-8dfe-4ac07c409368with location: 504,1632 with string value:  has been clicked
+button with id: 0a7e5b62-2bf4-4ef8-bf96-03c8c163ba03with location: 830,1707 with string value: Sections has been clicked
+button with id: 512fd8ad-91c6-4a27-b9fd-de264f2df1c3with location: 429,119 with string value: Sections has been clicked
+button with id: 979ebf24-6209-48cf-9ad3-cdd5747bab0bwith location: 144,1632 with string value:  has been clicked
+button with id: 2db5997b-a65f-4f30-9096-a9de1645132fwith location: 504,1632 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: eec03a95-92fe-4ab0-9e26-1f8f3c3e0b9cwith location: 576,913 with string value:  has been clicked
+new View has been created with view id: 17
+button with id: cb6de387-75d2-451a-879a-f11b08e7935fwith location: 72,1338 with string value: Brian Rea has been clicked
+new View has been created with view id: 18
+button with id: 5b373f5c-eda9-4128-ba7f-2b462d880b3dwith location: 981,1662 with string value:  has been clicked
+button with id: 31def3e6-bd37-4fb7-8ea9-f63a01d2dec1with location: 173,222 with string value: Support independent journalism has been clicked
+button with id: bf903dd0-f808-4b00-a54b-c83c2ab0cb7bwith location: 0,582 with string value: Basic has been clicked
+button with id: 47984703-fa9c-4f51-9de7-18ef18f50015with location: 45,810 with string value:  has been clicked
+button with id: 899ddf17-6653-4f21-b498-1229b801b559with location: 108,1187 with string value: NYT Cooking, featuring guides, lessons and 19,000+ recipes, available in a dedicated app and online	 has been clicked
+button with id: c8fb42ea-db5f-46a0-bfc8-38898d4a9babwith location: 902,123 with string value: LOG IN has been clicked
+button with id: b37f9221-7d84-4026-81d3-02d4ca4d130fwith location: 150,590 with string value: Log in with Google has been clicked
+new View has been created with view id: 22

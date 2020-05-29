@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: 4a4d6b42-2d96-4de0-b308-19384176d38fwith location: 15,1611 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: b6540826-2a71-4abd-8ebd-7a9976769f00with location: 48,96 with string value:  has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

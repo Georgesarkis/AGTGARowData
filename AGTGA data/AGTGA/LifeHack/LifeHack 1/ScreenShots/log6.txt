@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 2c06e65a-15a8-44ec-86b3-b1bb8e545a9bwith location: 66,813 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 6524661b-0673-43af-af76-51553db9d75bwith location: 198,370 with string value: Overcooked your bacon while making breakfast? Crumble it and add it into your scrambled eggs! has been clicked
+button with id: 8f957e1e-7b7d-4f37-9f07-31f13ab510c7with location: 12,87 with string value:  has been clicked

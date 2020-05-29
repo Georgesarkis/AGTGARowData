@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 7299e753-3fb9-446d-80f3-87bcf342d4c3with location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: 16ba2b0c-d73c-47a9-9407-4d40395d91afwith location: 0,1966 with string value: VIBER IMAGES has been clicked
+new View has been created with view id: 6
+button with id: ee9b4065-aa69-4667-a2f6-564480511ab9with location: 0,924 with string value:  has been clicked
+new View has been created with view id: 7

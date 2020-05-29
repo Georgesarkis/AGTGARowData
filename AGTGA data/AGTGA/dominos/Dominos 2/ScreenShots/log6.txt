@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 1ecc8832-4968-4181-8013-7e7771490ef4with location: 15,1611 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: affc515f-b7da-4145-91fa-b604da61980ewith location: 48,1537 with string value: LEAVE CHAT has been clicked
+new View has been created with view id: 3
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy. Proxy error: Could not proxy command to remote server. Original error: Error: socket hang up
+

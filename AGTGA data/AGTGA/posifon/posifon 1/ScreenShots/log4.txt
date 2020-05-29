@@ -1,0 +1,23 @@
+New View Has been Created, The activity name is md5dccfc7716c9297b278a85628ec83026a.LoginActivity
+EditView with id: f61ad886-7a25-4302-8581-f30f01d4564c has been clicked and filled with string: demo4@konto.se
+EditView with id: f61ad886-7a25-4302-8581-f30f01d4564c has been clicked and filled with string: Sommar2018
+button with id: 86f625ed-0db5-4f06-9078-70cd6eb8007ewith location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: e92136dc-56d9-447a-a449-e3380691a94bwith location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+button with id: 76049cbc-3bc1-462b-97a3-b074393032bawith location: 165,1193 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: b5e3e6a7-2481-42e0-821e-f3c582df751dwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 7f81f05a-dfc8-4d10-97f8-1a146a906fc5with location: 924,414 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 621a6fbf-8a52-4429-aa0f-5124e461afc9with location: 398,96 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: d6e4a10d-916a-4b20-8ced-f61bb0ea8388with location: 0,72 with string value:  has been clicked
+button with id: 1eabeabb-e4c7-4166-9bdf-cb3e34fc2672with location: 48,807 with string value: Min användarprofil has been clicked
+button with id: b2ff75d0-4c71-49ad-b58c-e5953808474fwith location: 72,444 with string value:  has been clicked
+button with id: 7441f342-52d9-4ea1-8d50-39a0a71bb3e4with location: 192,501 with string value: Avdelning A has been clicked
+button with id: 04a17597-b183-4e00-936b-553263558344with location: 72,312 with string value: Demo 4 has been clicked
+button with id: c1d3bae8-7371-401b-9156-e0aae3190ac0with location: 216,115 with string value: Min användarprofil has been clicked
+button with id: 5cddd90b-8ac3-4a9f-9655-db6b82ef02e5with location: 192,444 with string value: Hemavdelning has been clicked
+Exception aquired with message: Message: An element could not be located on the page using the given search parameters
+

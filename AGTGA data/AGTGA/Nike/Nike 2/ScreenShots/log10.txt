@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.SplashScreenActivity
+new View has been created with view id: 1
+button with id: eb2635cc-c6a8-4747-98a5-614161e1c3b6with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: a07f796e-7d1a-4bb8-9396-b8b553cae145with location: 618,286 with string value: Boys has been clicked
+button with id: b93fb17a-e87f-46f3-a5c2-98c552af0815with location: 72,1509 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: d74d49c4-981e-4e82-aa8f-08d081a6c74bwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 1afa4e84-66bd-41b7-bfe4-19ed36a56e49with location: 0,72 with string value:  has been clicked
+button with id: 3019c6bd-9ab3-402f-a993-9d48a1dce3a7with location: 618,286 with string value: Boys has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

@@ -1,0 +1,20 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 37516ed3-18e4-4e27-88b6-fcfbee91db72with location: 60,1200 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 3e29719a-59cc-452a-8b87-54dd703f3526with location: 32,264 with string value:  has been clicked
+button with id: 7345236e-155f-41be-907b-687a829f5849with location: 32,911 with string value: Nytt has been clicked
+button with id: 2289b1e7-884e-4ab0-bfab-83b6c1184790with location: 471,1200 with string value:  has been clicked
+button with id: d0232618-3b91-4c9a-b8f0-b06c8557db06with location: 197,1200 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 970ac62e-1d93-47e1-9571-49b470c034d0with location: 592,56 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 72a276dd-a2a8-437b-b6e1-cb94b278c3e0with location: 32,64 with string value:  has been clicked
+button with id: f5a98400-6937-46c9-9f14-75cf52fe8f41with location: 334,1200 with string value:  has been clicked
+button with id: 35a21f51-9ff7-4cd9-979c-bfeac13d01e4with location: 48,128 with string value: Välkommen till IKEA has been clicked
+button with id: 69c86cd1-617a-420c-add2-ca1201da6a70with location: 48,920 with string value: Inställningar has been clicked
+button with id: be4a6aa4-2a01-4de2-bc14-adcf27995fd0with location: 48,231 with string value: Region has been clicked
+new View has been created with view id: 8
+button with id: ff2f3808-0514-4feb-96f7-525f940394e4with location: 565,56 with string value: Spara has been clicked
+button with id: 929531bd-99b8-49c0-acc2-cd8b023dbe08with location: 16,48 with string value:  has been clicked
+button with id: d9df581a-ffa8-4ea9-bbba-6a6dafbd50c9with location: 608,1200 with string value:  has been clicked

@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: 1f317e4e-c771-4caa-b3a0-6eb42d59b427with location: 86,286 with string value: Men has been clicked
+new View has been created with view id: 2
+button with id: 09c4d21f-c868-4917-8dfb-1b71a83eba7fwith location: 216,123 with string value: SHOP has been clicked
+button with id: 6f4fc1cf-1e72-490a-99f8-64a8cc05bb53with location: 0,72 with string value:  has been clicked
+button with id: ab05825e-6fc0-4bca-a0cb-6c3ae67e898awith location: 834,120 with string value:  has been clicked
+button with id: 7b8ae80d-4ce9-4dbb-a764-986c3e6694b3with location: 618,286 with string value: Boys has been clicked
+button with id: 6fbaf011-18e4-4a09-baf4-3a2596a6c66cwith location: 86,286 with string value: Men has been clicked
+button with id: e0629e50-74ae-4736-a300-a720bec9768cwith location: 893,286 with string value: Girls has been clicked
+button with id: 5a539b24-40e3-4c29-933e-c939a1c06086with location: 321,286 with string value: Women has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 663ad05f-1fbb-4ece-855a-55ab048e8ac0with location: 0,326 with string value:  has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

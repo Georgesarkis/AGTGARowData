@@ -1,0 +1,12 @@
+New View Has been Created, The activity name is .features.splash.SplashActivity
+new View has been created with view id: 1
+button with id: 56312082-54ad-4d0f-97d3-87b790c1bdb8with location: 809,402 with string value: ANALYSIS has been clicked
+new View has been created with view id: 2
+button with id: ffd9079d-0fae-46c1-9fc6-18b0bf5227f0with location: 405,402 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 32a8c85c-8073-4685-9b9e-410d0493f0d7with location: 48,1069 with string value: Trump still seems to not understand how bad the coronavirus crisis is has been clicked
+new View has been created with view id: 4
+button with id: 31af3bbe-0d98-4fd3-8df0-365f150317e2with location: 48,1069 with string value: Trump still seems to not understand how bad the coronavirus crisis is has been clicked
+new View has been created with view id: 5
+button with id: 54218d7a-4e55-48f8-a39b-025cdc1f17f1with location: 840,111 with string value:  has been clicked
+new View has been created with view id: 6

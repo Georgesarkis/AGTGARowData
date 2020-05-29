@@ -1,0 +1,24 @@
+New View Has been Created, The activity name is .features.splash.SplashActivity
+new View has been created with view id: 1
+button with id: 3988eab8-b88d-467b-9dd9-3ebbc8ca8860with location: 454,112 with string value:  has been clicked
+button with id: 2cd8f7da-46f5-40de-b963-c1d619313720with location: 909,1656 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b0138cbc-f4a4-479d-9c34-473bddebe5d9with location: 48,444 with string value: Alerts has been clicked
+new View has been created with view id: 6
+button with id: 3f1ea9c0-5639-4c39-a676-d3969e9ba3fewith location: 48,72 with string value:  has been clicked
+button with id: af8f6be4-580e-414e-97fe-3e16b040e725with location: 639,1656 with string value:  has been clicked
+button with id: 75218ec9-28f2-4349-858d-bcc3f2500ea1with location: 45,279 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b4c3df26-30c3-4bb1-a869-930a8178f73fwith location: 48,1346 with string value: Updated 1 hour ago Apr 29, 2020 has been clicked
+button with id: a14baa80-91b3-4ef5-9fe1-0b5f349bde4ewith location: 405,402 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 0ec89c16-ca9d-4e81-9c5c-870031f1c338with location: 48,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 6e3ff177-0435-492b-bf22-633065d5df2awith location: 639,1656 with string value:  has been clicked
+button with id: 11f5b2be-7f24-4a24-8fa9-dada5910d336with location: 363,279 with string value: Trump still seems to not understand how bad the coronavirus crisis is has been clicked
+button with id: 1b052b9a-da48-400f-9e13-d3f49d35187awith location: 0,1509 with string value: (CNN) - Three months in -- after a million infections, nearly 60,000 US deaths and a potential economic depression -- it's still unclear whether President Donald Trump grasps the gravity of the coronavirus crisis. has been clicked
+new View has been created with view id: 6
+button with id: 248edbf9-4eb9-432c-9b72-8b5ba78f0b93with location: 405,379 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: cee5a701-2cf3-4f83-93b6-c804e65e5444with location: 840,111 with string value:  has been clicked
+new View has been created with view id: 8

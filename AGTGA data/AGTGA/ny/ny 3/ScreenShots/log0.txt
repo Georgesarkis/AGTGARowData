@@ -1,0 +1,38 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: bbb43f1f-c88e-4167-bc4f-cfed5293058awith location: 144,1632 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 1123efbc-6ce4-40f6-9cda-7771675acfabwith location: 504,1632 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 0fc4d5b6-8b01-4dcd-9136-83eaabaeaf9dwith location: 864,1632 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 69bb501d-fc5f-482e-a4f6-5e4d1b14431fwith location: 217,776 with string value: U.S. has been clicked
+new View has been created with view id: 5
+button with id: d9890a0d-0763-4097-8a5b-cab0d1c2d619with location: 48,1496 with string value: Undocumented immigrants are ineligible for federal payments to help families during the coronavirus pandemic. So are their spouses, even if they are U.S. citizens. has been clicked
+new View has been created with view id: 6
+button with id: 6aee0492-a364-4842-b9d2-560162a9ba5cwith location: 0,72 with string value:  has been clicked
+button with id: 37474257-873d-46f6-9dfe-3b88730c1f1cwith location: 49,1488 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: eec03f33-fcb3-4820-a730-c7eb2a8dd7b9with location: 0,72 with string value:  has been clicked
+button with id: dbaadec9-10b2-4e5e-9e0c-228d44215341with location: 144,1632 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 983beb83-d74c-42c4-8d4b-c7575536393ewith location: 48,610 with string value: The number of total deaths in seven states hit hard by the coronavirus is nearly 50 percent higher than normal, new C.D.C. data shows.
+ 
+President Trump declared meat processing plants “critical infrastructure,” in an effort to ensure that facilities around the country remained open.
+ 
+The United States surpassed 1 million known cases of the coronavirus. has been clicked
+new View has been created with view id: 6
+button with id: 4bcab611-8138-4032-9e31-8a14d0e7a0b6with location: 981,1662 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: ff476b19-56dd-4d9b-acfb-e572de6ab2b6with location: 0,582 with string value: Basic has been clicked
+button with id: 26174b03-c4b6-4a5f-b400-e74c5413a256with location: 540,582 with string value: All Access has been clicked
+new View has been created with view id: 8
+button with id: 5475bd8c-8566-456d-8de7-f495c3978529with location: 173,222 with string value: Support independent journalism has been clicked
+button with id: 8d5586cd-0772-4134-972b-94da2c0bab9cwith location: 0,582 with string value: Basic has been clicked
+button with id: b56668ea-3b86-487c-ad75-a885d4736701with location: 45,1419 with string value:  has been clicked
+button with id: 91cfd916-0545-4d09-8d7a-a5c4a472a9b6with location: 45,973 with string value:  has been clicked
+button with id: 3e426abd-0ead-45ec-b477-f5c561bf902dwith location: 45,1196 with string value:  has been clicked
+button with id: 138c9f8e-dca4-4c77-91d3-bb3dc7866d53with location: 48,124 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 38e05d54-2ce7-4428-b7d7-abf6f822daafwith location: 816,84 with string value:  has been clicked
+new View has been created with view id: 9

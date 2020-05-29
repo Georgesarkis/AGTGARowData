@@ -1,0 +1,18 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: dc9f05e1-7801-42d6-93c1-5d21771f8af2with location: 376,506 with string value: Släpvagn med extra stort flak has been clicked
+new View has been created with view id: 2
+button with id: 39be310f-6e90-4fc3-8d31-52acef64c8c6with location: 448,389 with string value:  has been clicked
+button with id: 180bce61-cd71-4f4a-a2a2-e5b6e0b64561with location: 32,552 with string value: Släpvagn med extra stort flak has been clicked
+new View has been created with view id: 3
+button with id: 387785ee-4334-42b9-ad76-d2551099581fwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: fc4dbc31-573b-4a3d-8069-ab1e4c5a0693with location: 16,48 with string value:  has been clicked
+button with id: 5e89d167-f069-4975-9889-d6674a5531d4with location: 48,538 with string value: Visa annonser has been clicked
+new View has been created with view id: 3
+button with id: 3825d058-5b32-4ac4-80c5-4d9d8a38d02bwith location: 0,162 with string value: Allt i hela Sverige has been clicked
+button with id: 0b56a1ab-d529-4c05-93ff-237d5fdbec1bwith location: 576,168 with string value:  has been clicked
+button with id: 68032fb2-d988-4709-b444-e7af86c25fd2with location: 584,306 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 7d7f86c2-e097-4b70-b0e4-4422f6b61109with location: 96,801 with string value: MINA INSTÄLLNINGAR has been clicked
+new View has been created with view id: 4

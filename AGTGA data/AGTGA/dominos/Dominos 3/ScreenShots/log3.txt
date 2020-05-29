@@ -1,0 +1,71 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 78052c89-567c-49fd-a5c2-e1662b4f5273with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: e6f8784c-18cb-4239-8d72-e1ef586b0499with location: 48,990 with string value: Español has been clicked
+new View has been created with view id: 3
+button with id: 17bd3d07-e041-4ebf-a52e-2b11edb8042dwith location: 123,599 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: a808fce6-7547-4de8-bb63-2e5e00e81caewith location: 75,763 with string value: Ordena Domino's en inglés o en español! Nuestra app se configura automáticamente con el idioma que has escogido para tu smartphone o tablet. has been clicked
+button with id: 189d7bea-0799-4e87-ad80-1382750cce14with location: 123,599 with string value:  has been clicked
+button with id: fc53fc8a-1bed-4552-98bf-44bccfb81c77with location: 75,1138 with string value: Me parece bien, gracias. has been clicked
+button with id: f670ae40-00b3-420a-8d5f-e2066005df71with location: 384,1218 with string value:  has been clicked
+button with id: 377d4432-c3d6-4c0f-80d8-f32fc8e0867dwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 48ed6863-6289-4556-801e-9705eba8b809with location: 242,108 with string value:  has been clicked
+button with id: 9c90d333-1b46-4929-a4f6-d7eb546aa4ebwith location: 388,1435 with string value: DOMINO'S HOTSPOTS® has been clicked
+button with id: b27f1eca-68d8-4fc2-8074-0a9105e41b2fwith location: 106,968 with string value: Meet your driver at the Domino's Hotspot by the Estimated Delivery Time to receive your order. has been clicked
+button with id: c46aee56-f384-4649-a6aa-96bce7784e4cwith location: 45,1173 with string value: Pre-pay online with credit, debit, or gift cards. We'll send you text notifications that provide updates on your order. has been clicked
+button with id: d426ed81-ab57-4397-8859-6a2fcfaa1413with location: 45,968 with string value: 3.   has been clicked
+button with id: d1eb6370-6b19-47dd-9477-4b95b2a36769with location: 45,288 with string value: INTRODUCING DOMINO'S HOTSPOTS has been clicked
+button with id: 2011b6a7-c083-45be-9c88-b4b7f4fd4d29with location: 105,887 with string value: Build and place the order of your dreams. has been clicked
+button with id: b0cb88a1-e480-4738-ae1c-f64e64ad3f4fwith location: 266,109 with string value: Domino's Hotspots® has been clicked
+button with id: 2b971a1d-1065-4082-92df-c6b06b65249cwith location: 97,688 with string value: Select "Find Nearby Domino's Hotspots" to view a map of Domino's Hotspots close to you. You will be asked to share your location. has been clicked
+button with id: a4f4a6cb-791f-4047-bde4-c4a2588efb02with location: 45,592 with string value: HOW IT WORKS has been clicked
+button with id: 433e92e9-2148-4584-962a-ca6b674be7b8with location: 45,688 with string value: 1.   has been clicked
+button with id: 2c3ec65d-8ec2-4e67-8f11-a586f7bee6b4with location: 45,887 with string value: 2.   has been clicked
+new View has been created with view id: 3
+button with id: be0b100c-d187-432c-8191-df9c53c58c36with location: 15,1611 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 9f0a0d29-aa14-4ce2-955f-bcd141f34f2fwith location: 147,375 with string value:  has been clicked
+button with id: a7257206-f799-4010-8e20-73ea74cf08b4with location: 0,72 with string value:  has been clicked
+button with id: 2ef6b2a1-c0cb-495c-96d8-339b9d78bb5dwith location: 484,1537 with string value: SIGN IN has been clicked
+new View has been created with view id: 5
+EditView with id: 3be5f132-5194-4bad-9050-49009ad51065 has been clicked and filled with string: 
+EditView with id: 3be5f132-5194-4bad-9050-49009ad51065 has been clicked and filled with string: 
+button with id: 4f5886b4-6ba1-4bae-9fd8-6c57725dbc8awith location: 99,1131 with string value: CANCEL has been clicked
+button with id: e6b46f96-c4e2-47b3-a523-f24461e239b4with location: 89,1417 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 00ca4dc1-136d-4bba-8836-9b40dbcf1bc8with location: 481,1051 with string value: DELIVERY has been clicked
+button with id: ee51782f-1b54-4a08-83da-29c448ca35d1with location: 48,1200 with string value: Business has been clicked
+button with id: 25193dd2-68bc-4844-952c-c6233b37c697with location: 390,966 with string value: Select a State - Required has been clicked
+new View has been created with view id: 6
+button with id: 62158e8f-6f68-4dd8-a66e-5ccd87c345e3with location: 390,951 with string value: ALABAMA has been clicked
+new View has been created with view id: 7
+button with id: 02b43d59-d72d-49f8-b498-2a054528daf0with location: 330,1560 with string value: CONTINUE has been clicked
+new View has been created with view id: 8
+button with id: 6637610e-a906-4dbd-9c12-f1abc94679a7with location: 75,795 with string value: We're sorry, there was a problem communicating with the store. Please call your store to place your order. has been clicked
+new View has been created with view id: 9
+button with id: c8f3fd59-bc65-49eb-8722-9e6a6efb25dbwith location: 75,1107 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 10
+button with id: 2c505a87-b7fe-4881-889c-e193c755311dwith location: 30,359 with string value: Business Name has been clicked
+new View has been created with view id: 11
+button with id: 05bc1cfa-6892-497e-8e3e-9127daf85b55with location: 330,1560 with string value: CONTINUE has been clicked
+new View has been created with view id: 12
+button with id: a6853c14-2f5e-45a1-aa2d-eb46e1a2ac68with location: 75,1107 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 13
+button with id: 03e9d82e-9cda-4944-93c2-a4e8edc87c75with location: 30,803 with string value: City has been clicked
+new View has been created with view id: 14
+button with id: 05b396e7-22d8-4f3b-8589-7fcc5507c9b7with location: 330,1560 with string value: CONTINUE has been clicked
+new View has been created with view id: 15
+button with id: 869bbd6c-2adc-496e-92bf-e8e800c0213cwith location: 123,631 with string value:  has been clicked
+button with id: 10fb94bf-2e07-442d-8e5f-432eb2350764with location: 123,631 with string value:  has been clicked
+button with id: 7aa45160-c237-411f-96dc-b1d4fe5d29e3with location: 270,649 with string value: Connection Error has been clicked
+button with id: dd9ad0c6-79a3-4850-89bf-8bc454259104with location: 75,795 with string value: We're sorry, there was a problem communicating with the store. Please call your store to place your order. has been clicked
+new View has been created with view id: 10
+button with id: 94cebccf-a89a-4172-b0ba-9546d35b0c2ewith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: c57765ad-9b61-48ef-8916-54df6724da7fwith location: 0,406 with string value: All Deliveries Are Contactless. has been clicked
+button with id: f8063428-2710-4318-9695-30eef70582f4with location: 409,1044 with string value:  has been clicked
+button with id: 796fa3d1-4439-4c54-8691-d25a1c258e2ewith location: 57,312 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

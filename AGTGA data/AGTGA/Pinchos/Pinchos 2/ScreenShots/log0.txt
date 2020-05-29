@@ -1,0 +1,16 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 2bdcc7ad-fa49-40a1-af87-2eb741cbe4e8with location: 984,1420 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 01cabde2-48bb-4174-890d-3d5be01dfa49with location: 467,283 with string value: DRINKS has been clicked
+new View has been created with view id: 3
+button with id: 34364aef-1d98-4f3d-814b-fe07f21903f4with location: 780,1208 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 317b0e58-5c37-409b-b235-7a657582877bwith location: 48,1653 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 898fa5c6-a69b-400c-9aa3-175a59cf2f12with location: 0,602 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 5af71655-2613-4203-9fd2-64fd82054994with location: 841,283 with string value: FOOD  has been clicked
+new View has been created with view id: 7
+button with id: 1e81c059-082d-4ead-bb18-1031ad637beawith location: 978,411 with string value:  has been clicked
+Exception aquired with message: 'charmap' codec can't encode character '\U0001f353' in position 192: character maps to <undefined>

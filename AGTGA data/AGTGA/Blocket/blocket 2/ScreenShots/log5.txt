@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 0ef6f221-9a28-4204-a473-fc1d8879ee7awith location: 304,890 with string value: Norrköping has been clicked
+new View has been created with view id: 2
+button with id: 36d5d385-1cc6-4ced-832f-cfaabf7a5827with location: 0,48 with string value:  has been clicked

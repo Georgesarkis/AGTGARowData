@@ -1,0 +1,10 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: fe1bcb68-d4fe-4d3e-b7d0-d00704921204with location: 372,1078 with string value: KLAPPA has been clicked
+new View has been created with view id: 2
+button with id: 3f33f964-b0fe-4055-b0a6-8255724132a0with location: 197,1200 with string value:  has been clicked
+button with id: c4b8e567-1109-41a2-815a-4b702514ee2fwith location: 48,1079 with string value: Förvaring has been clicked
+new View has been created with view id: 4
+button with id: 87651eb2-e83f-4ce5-b0ad-ca10f4b87c4dwith location: 48,213 with string value: Förvaring has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

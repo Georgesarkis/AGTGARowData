@@ -1,0 +1,2 @@
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.nike.omega' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: '*.*' or 'com.nike.omega.*.*' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+

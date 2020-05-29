@@ -1,0 +1,32 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: f35e2835-13cf-4e8c-b4f9-5c5e14826311with location: 419,923 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: f3ef8dfa-e375-4317-8c0b-b78e41a83da8with location: 592,80 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 5299f027-83dd-4dfc-97d4-292a71dc8970with location: 32,56 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 4ebdbcf6-dc89-4bdb-81b2-7e44990748eawith location: 592,80 with string value:  has been clicked
+button with id: f15b480e-05be-4732-9117-b99403ab43f7with location: 48,256 with string value:  has been clicked
+button with id: d7128145-1a9e-4dfc-b0e3-850b960f3425with location: 88,256 with string value: Din sök- och bläddringshistorik används bara för att göra resultaten mer relevanta has been clicked
+new View has been created with view id: 4
+button with id: 10c9ab0e-7a5e-4083-910c-ffb2c2b1f763with location: 60,1200 with string value:  has been clicked
+button with id: 670642f1-1c93-45fd-8a0c-e07cdb0354eawith location: 291,1160 with string value: LURT / GUBBARP has been clicked
+new View has been created with view id: 5
+button with id: 57c163fa-0b79-4137-83b4-fe403eb7640cwith location: 48,943 with string value: hängare med 6 knoppar, vit/vit has been clicked
+button with id: 864bcfdb-5cbd-4059-b635-c99780592361with location: 48,893 with string value: LURT / GUBBARP has been clicked
+button with id: e2d6b981-5fa0-4d4b-ad8f-8738c0b04950with location: 197,1200 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 35f55a6c-123b-4b80-8bbc-5e1b438b6209with location: 672,451 with string value: DELAKTIG kollektion has been clicked
+new View has been created with view id: 7
+button with id: 87655a8a-a59c-4b97-9e80-7a526a1b2de3with location: 246,1115 with string value:  has been clicked
+button with id: c03fca33-aab6-454b-a687-2626b19ec724with location: 392,947 with string value: DELAKTIG has been clicked
+new View has been created with view id: 8
+button with id: d56188c6-3be0-4730-ab55-fffaad8deaf0with location: 16,48 with string value:  has been clicked
+button with id: 00e0bae4-395f-49ed-abe8-159e80c082d1with location: 32,80 with string value:  has been clicked
+button with id: de72f8df-5821-4ac5-9a27-e287e2650ea3with location: 360,452 with string value: STOCKHOLM kollektion has been clicked
+new View has been created with view id: 7
+button with id: a33e94d6-d06f-496f-b793-13b2c4ad0c59with location: 50,613 with string value: Gillar du IKEA-appen? has been clicked
+button with id: 42466b71-b383-4c1b-8ead-a7c023957db8with location: 390,717 with string value: Nej has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

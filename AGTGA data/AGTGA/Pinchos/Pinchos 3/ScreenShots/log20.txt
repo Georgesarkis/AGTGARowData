@@ -1,0 +1,3 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: b3eb48fd-042c-487a-a7f3-de6f1e147611with location: 75,806 with string value: Failed to connect to api.pinchos.se/34.248.126.221:443 has been clicked

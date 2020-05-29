@@ -1,0 +1,50 @@
+________________________________________________________________________________________
+First Iteration 30 min
+________________________________________________________________________________________
+
+// meminfo status was 0
+** Monkey aborted due to error.
+Events injected: 122402
+:Sending rotation degree=0, persist=false
+:Dropped: keys=13 pointers=103 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=794478ms (0ms mobile, 0ms wifi, 794478ms not connected)
+** System appears to have crashed at event 122402 of 200000 using seed 1588967972604
+False
+
+_______________________________________________________________________________________
+Secound Iteration 30 min
+________________________________________________________________________________________
+
+// meminfo status was 0
+** Monkey aborted due to error.
+Events injected: 126977
+:Sending rotation degree=0, persist=false
+:Dropped: keys=7 pointers=84 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=787945ms (0ms mobile, 0ms wifi, 787945ms not connected)
+** System appears to have crashed at event 126977 of 200000 using seed 1588827755081
+False
+________________________________________________________________________________________
+Third Iteration 30 min
+________________________________________________________________________________________
+
+** Monkey aborted due to error.
+Events injected: 27915
+:Sending rotation degree=0, persist=false
+:Dropped: keys=5 pointers=20 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=190287ms (0ms mobile, 0ms wifi, 190287ms not connected)
+** System appears to have crashed at event 27915 of 200000 using seed 1588980882214
+True
+
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=11 pointers=57 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=476235ms (0ms mobile, 0ms wifi, 476235ms not connected)
+// Monkey finished
+
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=11 pointers=31 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=435378ms (0ms mobile, 0ms wifi, 435378ms not connected)
+// Monkey finished
+
+________________________________________________________________________________________

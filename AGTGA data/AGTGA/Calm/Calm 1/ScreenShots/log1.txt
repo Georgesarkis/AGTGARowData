@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: 733d5d96-b479-4587-a2bb-79644808e352with location: 24,1193 with string value: For You has been clicked
+button with id: 1254dc85-6529-4be9-a282-243730a4d98awith location: 224,1226 with string value: New Sleep Story by Eva Green has been clicked
+button with id: 4116473b-6356-4461-98ba-6f688b24d81fwith location: 48,1144 with string value:  has been clicked

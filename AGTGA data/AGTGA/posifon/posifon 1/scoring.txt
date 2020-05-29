@@ -1,0 +1,28 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n             ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *       LOW      *         38         *       5         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase01.py  *      HIGH      *         69         *       17         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase01.py", line 17, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase02.py  *      HIGH      *         48         *       10         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase02.py", line 17, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase03.py  *      HIGH      *         167         *       49         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase03.py", line 17, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase04.py  *      MEDIUM      *         69         *       17         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+* TestCase05.py  *       LOW      *         21         *       1         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+* TestCase06.py  *      HIGH      *         36         *       6         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase06.py", line 17, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase07.py  *      HIGH      *         120         *       34         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase07.py", line 17, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase08.py  *      HIGH      *         49         *       10         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase08.py", line 18, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase09.py  *      HIGH      *         29         *       5         *       True     *  test-case failed to execute with following message: b'  File "TestCase09.py", line 8\r\n    driver = webdriver.Remote(command_executor=port, desired_capabilities={\'automationName\' : \'UiAutomator2\',\'deviceName\': \'Moto G (5)\',\'platformName\': \'Android\',  \'app\': \'C:\\Users\\ze0396\\Desktop\\AGTGA/APKS/posifon.apk\' , \'autoGrantPermissions\' : \'true\', \'appWaitActivity\' : \'*.*\',\'fullreset\' : \'false\',\'noReset\' : \'true\' } ) \r\n                                                                                                                                                                          ^\r\nSyntaxError: (unicode error) \'unicodeescape\' codec can\'t decode bytes in position 2-3: truncated \\UXXXXXXXX escape\r\n'
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         64.6
+*   Average Action per Test-case           =                         15.4
+*****************************************************************************************************************

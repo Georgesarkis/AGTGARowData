@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: c117c127-8ce6-4273-9ffd-8e415503c549with location: 0,72 with string value:  has been clicked
+button with id: 274c07bb-3a9a-4909-a813-3dca3651bdeawith location: 954,1363 with string value:  has been clicked
+button with id: 9def6648-f745-428a-8e8f-beb59989907bwith location: 177,1339 with string value: Kenny Svensson has been clicked
+new View has been created with view id: 4
+button with id: 581e6ac2-e2b2-4ffa-888d-9dc3aca0c4eewith location: 731,283 with string value: KARTVY has been clicked
+new View has been created with view id: 5
+button with id: fb0ee79d-98f4-4157-be7f-db6e9842b1c6with location: 15,1695 with string value:  has been clicked
+button with id: fae3d3dc-2271-4131-b23c-e5254656266ewith location: 48,1560 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 23668375-281c-4f68-9119-b81b01d2550awith location: 390,670 with string value: Active 9408 has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

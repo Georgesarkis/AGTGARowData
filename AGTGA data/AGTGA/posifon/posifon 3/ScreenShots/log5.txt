@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: b2d22674-fbb7-452d-a494-ef7b99a44c70with location: 969,312 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 70550d97-b16b-4697-9cfc-8db83c1226b2with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 61936e23-f952-4f5c-94a9-ce3d61e9266cwith location: 48,1101 with string value: Logga ut has been clicked

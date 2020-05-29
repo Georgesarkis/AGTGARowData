@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 1c046639-0954-4ae3-a3a3-38af967b2d57with location: 714,71 with string value:  has been clicked
+new View has been created with view id: 2
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

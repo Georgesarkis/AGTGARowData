@@ -1,0 +1,9 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: f095842a-cc29-4050-b5dc-c790498225cewith location: 66,813 with string value:  has been clicked
+button with id: a655d263-5b3d-4434-b8f6-dc5f2259fe1ewith location: 190,1255 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 86b161a7-7555-4c9a-86f1-73d5d3d49373with location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: b640ba31-d116-475c-867c-6d069f3ec247with location: 198,370 with string value: Turn bread upside down when cutting it, this will save it from being squished and is also easier to cut. has been clicked
+button with id: eb37a12e-092e-4d1e-9972-7a8f1d604142with location: 12,87 with string value:  has been clicked

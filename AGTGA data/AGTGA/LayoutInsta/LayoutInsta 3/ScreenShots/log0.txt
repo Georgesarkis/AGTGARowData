@@ -1,0 +1,30 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 9358b070-41e1-4fae-ae4f-e9dbed1085fawith location: 424,559 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 2
+button with id: ba0c3ba5-befd-44a5-8b91-b59f9a818723with location: 412,1 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 6611dcda-bb21-45ac-8f45-5dd29699e8ffwith location: 901,1900 with string value: 3 has been clicked
+button with id: 7c41bc14-80fe-4036-98ac-82716e2d1ec0with location: 0,0 with string value:  has been clicked
+button with id: 3e7bcb26-8424-41d5-af64-8e76304decd6with location: 412,1 with string value:  has been clicked
+button with id: 9a7c0ea9-8ccf-493e-9cd6-98519f522a64with location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: b408e93f-bebc-4ae5-a1d0-f6af6ff56db9with location: 360,1966 with string value: FACES has been clicked
+button with id: 5c2f633d-7d31-4657-a437-50545d99fc77with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: cd612ddc-f323-4cd4-bd27-d79e0e8ea4ebwith location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 5
+button with id: 890be09c-b4c5-415d-afee-d1830d7431c8with location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 6
+button with id: d97490eb-d322-434d-be8f-cefed066e874with location: 412,1 with string value:  has been clicked
+button with id: 89449f19-3d3d-48d9-9c8b-90f1386678bbwith location: 0,1966 with string value: PHOTO BOOTH has been clicked
+button with id: a8c85a63-cf44-4f93-8075-b1f3c8c78e26with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 5
+button with id: bd8902c9-e472-47b9-9fe2-a1696798b1d7with location: 412,1 with string value:  has been clicked
+button with id: c31da57f-a0f6-49be-bd76-9e120d5579adwith location: 360,1966 with string value: FACES has been clicked
+button with id: d877af11-d1bd-4b94-9472-e2cb35744091with location: 720,1966 with string value: RECENTS has been clicked
+button with id: 62dd2f2d-3edc-4ff6-a05b-a66a660c8d9ewith location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 7
+button with id: b54f59f6-2f7a-4abd-b77a-35886718b7c2with location: 360,1966 with string value: FACES has been clicked
+button with id: 89b60901-3d52-41da-b1b9-a0950ac1e130with location: 412,1 with string value:  has been clicked
+button with id: 298688c4-b1be-4637-95c9-5da1891bc96fwith location: 720,1966 with string value: RECENTS has been clicked
+button with id: 1ade9918-cd5a-4c24-8f7c-a83893cb66cbwith location: 720,1966 with string value: RECENTS has been clicked

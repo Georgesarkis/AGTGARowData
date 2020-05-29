@@ -1,0 +1,139 @@
+________________________________________________________________________________________
+First Iteration 30 min
+________________________________________________________________________________________
+
+// meminfo status was 0
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=18 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=41628ms (0ms mobile, 0ms wifi, 41628ms not connected)
+** System appears to have crashed at event 724 of 200000 using seed 1588898489719
+false
+** Monkey aborted due to error.
+Events injected: 549
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=11 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=8429ms (0ms mobile, 0ms wifi, 8429ms not connected)
+** System appears to have crashed at event 549 of 200000 using seed 1588933796770
+True
+** Monkey aborted due to error.
+Events injected: 410
+:Sending rotation degree=0, persist=false
+:Dropped: keys=1 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=2006ms (0ms mobile, 0ms wifi, 2006ms not connected)
+** System appears to have crashed at event 410 of 200000 using seed 1588969103483
+
+false
+** Monkey aborted due to error.
+Events injected: 14269
+:Sending rotation degree=0, persist=false
+:Dropped: keys=8 pointers=50 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=85565ms (0ms mobile, 0ms wifi, 85565ms not connected)
+** System appears to have crashed at event 14269 of 200000 using seed 1588966732248
+false
+
+** Monkey aborted due to error.
+Events injected: 26525
+:Sending rotation degree=0, persist=false
+:Dropped: keys=18 pointers=128 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=181098ms (0ms mobile, 0ms wifi, 181098ms not connected)
+** System appears to have crashed at event 26525 of 200000 using seed 1588885474704
+
+false
+
+** Monkey aborted due to error.
+Events injected: 27923
+:Sending rotation degree=0, persist=false
+:Dropped: keys=18 pointers=153 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=266088ms (0ms mobile, 0ms wifi, 266088ms not connected)
+** System appears to have crashed at event 27923 of 200000 using seed 1588973729224
+True
+
+
+________________________________________________________________________________________
+Secound Iteration 30 min
+________________________________________________________________________________________
+** Monkey aborted due to error.
+Events injected: 23395
+:Sending rotation degree=0, persist=false
+:Dropped: keys=14 pointers=143 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=155907ms (0ms mobile, 0ms wifi, 155907ms not connected)
+** System appears to have crashed at event 23395 of 200000 using seed 1588842874951
+false
+
+** Monkey aborted due to error.
+Events injected: 62469
+:Sending rotation degree=0, persist=false
+:Dropped: keys=32 pointers=354 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=431538ms (0ms mobile, 0ms wifi, 431538ms not connected)
+** System appears to have crashed at event 62469 of 200000 using seed 1589012384607
+false
+
+** Monkey aborted due to error.
+Events injected: 14225
+:Sending rotation degree=0, persist=false
+:Dropped: keys=11 pointers=64 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=100707ms (0ms mobile, 0ms wifi, 100707ms not connected)
+** System appears to have crashed at event 14225 of 200000 using seed 1588780382677
+true
+
+** Monkey aborted due to error.
+Events injected: 90183
+:Sending rotation degree=0, persist=false
+:Dropped: keys=57 pointers=399 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=679476ms (0ms mobile, 0ms wifi, 679476ms not connected)
+** System appears to have crashed at event 90183 of 200000 using seed 1589005239917
+false
+
+________________________________________________________________________________________
+Third Iteration 30 min
+________________________________________________________________________________________
+
+** Monkey aborted due to error.
+Events injected: 31623
+:Sending rotation degree=0, persist=false
+:Dropped: keys=16 pointers=228 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=215203ms (0ms mobile, 0ms wifi, 215203ms not connected)
+** System appears to have crashed at event 31623 of 200000 using seed 1588848535920
+false
+
+** Monkey aborted due to error.
+Events injected: 37965
+:Sending rotation degree=0, persist=false
+:Dropped: keys=17 pointers=196 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=265341ms (0ms mobile, 0ms wifi, 265341ms not connected)
+** System appears to have crashed at event 37965 of 200000 using seed 1588786103041
+True
+
+** Monkey aborted due to error.
+Events injected: 21813
+:Sending rotation degree=0, persist=false
+:Dropped: keys=12 pointers=120 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=174487ms (0ms mobile, 0ms wifi, 174487ms not connected)
+** System appears to have crashed at event 21813 of 200000 using seed 1588990920341
+True
+
+    // Injection Failed
+** Monkey aborted due to error.
+Events injected: 13485
+:Sending rotation degree=0, persist=false
+:Dropped: keys=6 pointers=105 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=90558ms (0ms mobile, 0ms wifi, 90558ms not connected)
+** System appears to have crashed at event 13485 of 200000 using seed 1588882568112
+True
+
+** Monkey aborted due to error.
+Events injected: 39273
+:Sending rotation degree=0, persist=false
+:Dropped: keys=26 pointers=203 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=285873ms (0ms mobile, 0ms wifi, 285873ms not connected)
+** System appears to have crashed at event 39273 of 200000 using seed 1588838989327
+False
+
+** Monkey aborted due to error.
+Events injected: 4592
+:Sending rotation degree=0, persist=false
+:Dropped: keys=1 pointers=33 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=36801ms (0ms mobile, 0ms wifi, 36801ms not connected)
+** System appears to have crashed at event 4592 of 200000 using seed 1588841301683
+False
+________________________________________________________________________________________

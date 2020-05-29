@@ -1,0 +1,22 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 62cf082d-d96d-424a-b563-3940b2f9f088with location: 478,1707 with string value: For You has been clicked
+button with id: 450a3495-28e5-44f6-857f-523644c33c0dwith location: 864,1632 with string value:  has been clicked
+button with id: 61d93961-6799-4113-a0f5-ae5cbabdd55bwith location: 144,1632 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: cab47035-f711-4864-b069-dfefd9a3f9f2with location: 263,117 with string value:  has been clicked
+button with id: 7473bc0d-f482-4e89-a398-c07811c11b09with location: 263,117 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 7a866a7f-5e85-4c58-85b7-e6bed1980500with location: 864,1632 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 890d2bf7-afe0-4e70-9aa2-5771d61fe5a7with location: 217,632 with string value: World has been clicked
+new View has been created with view id: 5
+button with id: d8619000-3737-4992-8a0c-da75f64a94c6with location: 0,72 with string value:  has been clicked
+button with id: 8e0b9b79-a6e3-4a91-b4b0-9dcbf2e0c30cwith location: 478,1707 with string value: For You has been clicked
+new View has been created with view id: 5
+button with id: bce7d3f9-53c8-4017-89c9-8358153a1475with location: 655,1434 with string value: See Stories has been clicked
+button with id: 2a052b10-897d-4bce-8f92-8f3c17b06c72with location: 75,806 with string value: To follow, please login or register for a New York Times account. has been clicked
+button with id: 9b48da10-9905-4388-9b93-29d683184300with location: 765,940 with string value: LOG IN has been clicked
+button with id: 69403e00-13d6-4a03-acda-3d54cd49b878with location: 216,115 with string value: Log In has been clicked
+button with id: c439fc8f-5760-4589-8425-61cec50b7d1fwith location: 849,555 with string value:  has been clicked
+new View has been created with view id: 11

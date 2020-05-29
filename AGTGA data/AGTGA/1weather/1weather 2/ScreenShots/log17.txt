@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 4bb80aa4-d3e1-4b37-81c1-817649586d7dwith location: 687,849 with string value: Wind has been clicked
+new View has been created with view id: 2
+button with id: b624d20b-101f-42e4-af1e-3b034140973fwith location: 38,887 with string value: Wind speed is typically judged as the velocity of wind. Average wind speed is often determined by an anemometer. has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

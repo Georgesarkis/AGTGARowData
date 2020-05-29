@@ -1,0 +1,9 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: 379d916f-a149-4794-94ae-ff9dd94980a9with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 31452a84-7084-4075-9925-7e606dfb6464with location: 48,762 with string value: Shop has been clicked
+new View has been created with view id: 3
+button with id: 0b48f017-822e-4664-8acc-eb7a2f86b387with location: 321,286 with string value: Women has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

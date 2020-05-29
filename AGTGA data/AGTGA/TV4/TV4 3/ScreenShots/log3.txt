@@ -1,0 +1,66 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: ad0cadd0-9d83-489b-860e-64f8b5acaa3awith location: 16,951 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: a2077a1c-ed2a-4736-9faf-928ed0280045with location: 20,536 with string value: Idag 11.53 · 1 min has been clicked
+new View has been created with view id: 3
+button with id: 87b217dc-917d-48b3-af3e-d11e9eaef33bwith location: 230,811 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: dbf314dd-ea29-41c9-829a-560a03253be4with location: 620,445 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b03bf0f6-8a8e-43cf-ae34-1fced89a4ff1with location: 0,923 with string value: Dagsfärskt aktualitetsprogram med Tilde de Paula Eby och Axel Pileby i spetsen. Fokus ligger på heta ämnen och intressanta gäster. has been clicked
+button with id: defa37f8-f83b-4f68-a62c-8014e99801d4with location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: d989cc7c-0f13-4808-8b03-e1ed6058d465with location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: 48e87aa8-e705-4eab-a174-bfb1ecfabd15with location: 0,881 with string value: nyheter-debatt • Live has been clicked
+button with id: 960fe386-a423-46cc-88c8-b130eafd0630with location: 0,827 with string value: Efter fem has been clicked
+button with id: 4e18f837-24ce-4faa-b3f6-aa6f06263f8awith location: 276,1212 with string value: Taggade Tegnell på armen: ”Jag är ett fan” has been clicked
+new View has been created with view id: 5
+button with id: 22084d29-9e7a-47b0-92ef-1a00689ee0d7with location: 32,720 with string value: Aktualitetsprogram med Tilde de Paula Eby där fokus ligger på heta ämnen och nya intressanta gäster varje dag. Med ett helhetsgrepp om dagens alla händelser tar vi del av nyfiken journalistik som blandar allvar med lättsamhet i takt med dygnets puls. has been clicked
+new View has been created with view id: 6
+button with id: 63a88049-39b0-4eeb-afd2-2b1458c1691dwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 689bd6e1-3bc9-4e36-8421-7958ad197f35with location: 32,536 with string value: 29 apr. 2020 has been clicked
+new View has been created with view id: 8
+button with id: e836f8df-126d-4081-be00-a4990d441b39with location: 508,1046 with string value: Klipp has been clicked
+new View has been created with view id: 9
+button with id: cde57cb8-bc1d-48e2-8f0b-5584017f6a5dwith location: 304,146 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: b4ba06bc-0aae-45ae-9e96-ff3c15050345with location: 508,1046 with string value: Klipp has been clicked
+new View has been created with view id: 11
+button with id: 0d2706d7-5f1e-4c46-ae60-dc4127c3899ewith location: 36,302 with string value:  has been clicked
+new View has been created with view id: 12
+button with id: 4b11cecd-ba19-41d9-b8d9-375f8f2cf60awith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: 93eda765-37e7-4c11-8fb3-a8be1aa4168dwith location: 32,678 with string value: Om programmet has been clicked
+new View has been created with view id: 14
+button with id: e49ac3aa-70eb-4c76-822a-d181f81f1bf1with location: 620,468 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: 3bc0e3d7-c1c7-4dec-869f-30dc9a9366a4with location: 0,688 with string value: Tareq Taylor: ”Inte okej att en bransch får bära hundhuvudet” has been clicked
+button with id: fa000b71-6f1b-4bb5-b93a-2e14e01da44awith location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: f8dd047d-a336-40cf-83bf-507f55448021with location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: c95178ce-9a54-431d-96c6-19bdd37e00afwith location: 0,831 with string value: Tonläget mot storstädernas restauranger har höjts. Krögaren Tareq Taylor, krögare och talesperson för "Tillsammans ur krisen", är orolig för hur restaurangbranschen behandlas – och menar att politikerna inte tar sitt ansvar. has been clicked
+button with id: 4042e5d7-b0f1-4e0a-946a-ebd6d77b5003with location: 0,789 with string value: nyheter-debatt • 6 min 6 sek has been clicked
+new View has been created with view id: 16
+button with id: e081c3d2-e078-4d29-9e50-66ba08c71e80with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 17
+button with id: 9e38d367-346e-46e4-9192-93690efd5adawith location: 137,1046 with string value: Avsnitt has been clicked
+new View has been created with view id: 18
+button with id: 2d363ef8-be52-4f98-b1d2-b8158ad0ae99with location: 199,552 with string value:  has been clicked
+new View has been created with view id: 19
+button with id: 1f855781-846b-4841-8074-3d13b4399c34with location: 620,468 with string value:  has been clicked
+new View has been created with view id: 20
+button with id: 31a758a3-e3c0-4719-82c2-288c553f79cbwith location: 0,789 with string value: nyheter-debatt • 6 min 6 sek has been clicked
+button with id: 22073467-c869-4d11-a927-cbe41ddb7e99with location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: d1087fa2-3497-4cd2-83d6-43d6f1458227with location: 0,831 with string value: Tonläget mot storstädernas restauranger har höjts. Krögaren Tareq Taylor, krögare och talesperson för "Tillsammans ur krisen", är orolig för hur restaurangbranschen behandlas – och menar att politikerna inte tar sitt ansvar. has been clicked
+button with id: bcf143f1-5a25-4a29-b3d3-902d89a7320ewith location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: 348a866a-122b-4200-b8f3-7b98d97d1d30with location: 0,688 with string value: Tareq Taylor: ”Inte okej att en bransch får bära hundhuvudet” has been clicked
+new View has been created with view id: 21
+button with id: 697cbefb-3e72-4bc6-ac1f-715b189dfa6cwith location: 304,146 with string value:  has been clicked
+new View has been created with view id: 22
+button with id: 73cfaa57-98b8-4c60-bb54-63332532d8bdwith location: 32,437 with string value: Tareq Taylor: ”Inte okej att en bransch får bära hundhuvudet” has been clicked
+new View has been created with view id: 23
+button with id: 3d500ad1-f40e-4df8-b9f1-23aacf00a75awith location: 32,720 with string value: Aktualitetsprogram med Tilde de Paula Eby där fokus ligger på heta ämnen och nya intressanta gäster varje dag. Med ett helhetsgrepp om dagens alla händelser tar vi del av nyfiken journalistik som blandar allvar med lättsamhet i takt med dygnets puls. has been clicked
+new View has been created with view id: 24
+button with id: d768d94c-d0ea-4169-adc7-087da46a63f5with location: 32,536 with string value: 28 apr. 2020 has been clicked
+new View has been created with view id: 25
+button with id: 22142893-f17b-45a6-8810-b7847b56c9c4with location: 620,468 with string value:  has been clicked

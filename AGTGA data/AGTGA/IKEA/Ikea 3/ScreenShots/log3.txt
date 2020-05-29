@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 4bb2ff1c-afb5-4a6d-a5e9-56fa10462c5dwith location: 334,1200 with string value:  has been clicked
+button with id: 65f32741-5a86-4459-b7dc-47f2df3b292dwith location: 640,1093 with string value:  has been clicked
+button with id: 59fba822-0f0c-4e79-8671-a2570cd01e08with location: 471,1200 with string value:  has been clicked
+button with id: 61fa837a-2047-4dc5-a497-0385a9b581eawith location: 48,371 with string value: Registrera dig eller logga in för att se och spara dina favoriter i inköpslistor. has been clicked
+button with id: c6fff7b7-d299-4e96-ac52-4e4cac8705c8with location: 32,1008 with string value: Registrera dig has been clicked
+new View has been created with view id: 6
+button with id: 69500ee6-c5ee-4e32-afc2-5e1928fb6275with location: 471,1200 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 816fa010-5f66-4a99-bb71-9943da578914with location: 48,288 with string value: Spara dina favoriter has been clicked
+button with id: 63269278-f732-413d-9245-2e988593b0ffwith location: 608,1200 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 0a3b6e11-7c8c-45a0-95bf-8e318ab17a3awith location: 496,56 with string value:  has been clicked
+new View has been created with view id: 9

@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is md5dccfc7716c9297b278a85628ec83026a.LoginActivity
+EditView with id: 574c7f9c-8843-497f-8870-d07a41ae4b65 has been clicked and filled with string: demo4@konto.se
+EditView with id: 574c7f9c-8843-497f-8870-d07a41ae4b65 has been clicked and filled with string: Sommar2018
+button with id: 1b0f1bc4-ad22-441c-84f2-1fd0d224b598with location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: 1bb731ef-038d-4f7e-a0ce-712acea06825with location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+button with id: 03d143c9-0d08-4609-ac08-b3021e0b56b1with location: 177,1339 with string value: Kenny Svensson has been clicked
+new View has been created with view id: 2
+button with id: da8311bb-9041-401d-84f3-c9898baa3176with location: 731,283 with string value: KARTVY has been clicked
+new View has been created with view id: 3
+button with id: f4defb66-1faa-46a1-a6e8-fb621f3a7e1ewith location: 405,920 with string value:  has been clicked
+button with id: 18ec5edd-3aa4-4470-bd08-df4e1e6edb8ewith location: 554,115 with string value: Kenny has been clicked
+new View has been created with view id: 4
+button with id: 84e6a728-f341-4458-973d-8c5f51246ec0with location: 39,1441 with string value: Anhörig has been clicked
+button with id: d2a130b1-e2b8-46c6-9a0e-b7f5a5b0dd41with location: 39,1581 with string value: - has been clicked
+button with id: 1a80b2f4-bc7e-4c26-97e2-4853c8db0441with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 61505f6d-aad6-4d01-8931-8473a4d48c5bwith location: 48,660 with string value: Larmlista has been clicked
+new View has been created with view id: 6
+button with id: 83e4148a-ac86-4249-bee9-d1d279b6b9a1with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 9cb42467-8bec-4a73-a741-1cb039f46d94with location: 0,72 with string value:  has been clicked
+button with id: cc53dc22-2e77-4caa-8209-0b99bc7c7002with location: 969,312 with string value:  has been clicked
+button with id: 118b0b9b-5339-4f39-a8c8-71b4ee41ef46with location: 969,940 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

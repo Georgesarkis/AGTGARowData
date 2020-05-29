@@ -1,0 +1,9 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: b1536b34-8bf4-4e79-8cda-61e322548bdfwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 28203881-3014-4bff-8575-c46e70629359with location: 604,1240 with string value: Stores has been clicked
+new View has been created with view id: 3
+button with id: b1ae2d3d-1e92-4a77-b648-b5c5d3e1fd2fwith location: 253,82 with string value: NEARBY STORES has been clicked
+button with id: ba9415f6-e8f5-4523-9c2e-2b904253b85ewith location: 419,1180 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

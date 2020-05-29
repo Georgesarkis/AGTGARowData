@@ -1,0 +1,26 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n             ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *      MEDIUM      *         70         *       20         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase01.py  *       LOW      *         13         *       1         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase02.py  *      MEDIUM      *         82         *       24         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase03.py  *      HIGH      *         138         *       42         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase03.py", line 135, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase04.py  *      MEDIUM      *         58         *       16         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+* TestCase05.py  *       LOW      *         13         *       1         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase06.py  *      HIGH      *         164         *       52         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase06.py", line 67, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase07.py  *       LOW      *         10         *       0         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase08.py  *       LOW      *         10         *       0         *       False     *  None
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         102.4
+*   Average Action per Test-case           =                         30.8
+*****************************************************************************************************************

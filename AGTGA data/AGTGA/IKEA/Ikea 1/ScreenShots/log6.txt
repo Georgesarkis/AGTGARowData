@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 8ae726a2-7ed9-47dc-bc69-009b85f9e4c7with location: 344,508 with string value: Erbjudanden has been clicked
+button with id: 781c57b0-9c3c-4add-a058-3896faac11fdwith location: 32,80 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: a2733cf2-899e-4e1a-9577-d4ee3dd3e44awith location: 334,1200 with string value:  has been clicked
+button with id: 8e297ccc-51b0-446e-b9eb-26eff5c20d8bwith location: 32,495 with string value: Registrera dig has been clicked
+button with id: a18ba287-ef69-469a-91cc-b570cbad9bf2with location: 640,737 with string value:  has been clicked
+button with id: 559ca276-a52b-4ddc-bac2-3858e590e661with location: 16,48 with string value:  has been clicked
+button with id: efde7b67-0cfe-4419-86d8-c3eb3311752fwith location: 368,495 with string value: Logga in has been clicked
+new View has been created with view id: 7
+button with id: bc3d75b3-eb4d-46cc-87b4-245004f5f030with location: 48,88 with string value:  has been clicked
+button with id: 5751cbdd-292b-4474-8f11-053a27bfe327with location: 608,1200 with string value:  has been clicked
+Exception aquired with message: 'charmap' codec can't encode character '\u202a' in position 94: character maps to <undefined>

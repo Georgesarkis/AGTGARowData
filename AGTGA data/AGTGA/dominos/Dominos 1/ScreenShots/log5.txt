@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 83ee03e0-3f1a-404e-afe0-870220a13adawith location: 242,108 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: fcaefa78-6bed-484c-a8b6-34a498dcad6cwith location: 0,72 with string value:  has been clicked
+button with id: 0b8a06b5-b45b-4fc3-bfc9-b63093926c48with location: 292,1416 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 3892bf9d-d468-45cd-bf65-3db89e991ab2with location: 435,228 with string value: . has been clicked

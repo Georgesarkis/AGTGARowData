@@ -1,0 +1,32 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: e3c0d41e-8dd9-4822-88b5-c2263d053e1ewith location: 576,1026 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 01904979-505c-48e0-816b-78441eb306f8with location: 376,734 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 8cd24642-a0fd-4ca0-b7e6-2f141023a1ebwith location: 619,162 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 469733dc-ebcb-4da3-8391-9ab2b73e1852with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: af434495-8928-403e-aa97-f8ab05829990with location: 48,538 with string value: Rensa (1) has been clicked
+button with id: 275c3eeb-59b9-46f6-be41-6c4053d0bab3with location: 48,538 with string value: Visa annonser has been clicked
+new View has been created with view id: 6
+button with id: 64d8b729-1a8e-475c-b30c-27e84c1ea523with location: 536,162 with string value:  has been clicked
+button with id: 5de8057b-08d7-41be-9cc0-fc392c45c9a0with location: 624,162 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: c8d22f06-01c2-4140-b30b-f9f1fb66932fwith location: 619,162 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: e60c1307-215f-476e-a993-35888b0d3ae7with location: 576,1026 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: a412b25e-b2a1-4e90-8375-d63ec13f3526with location: 536,162 with string value:  has been clicked
+button with id: 8df8ecbb-eaf7-4824-ac78-9cb41d4f70bfwith location: 624,162 with string value:  has been clicked
+button with id: 6fd8bd08-5fff-47d2-8b04-715b95763134with location: 576,1026 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: c861481e-4588-42b1-bf5b-827b0d64df8ewith location: 0,162 with string value: Allt i hela Sverige has been clicked
+button with id: 6eb9a3a2-4454-44c1-87c4-d1dc5783f1a4with location: 376,986 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 81ae7b12-e48f-44ff-872d-01e99bd2d086with location: 545,954 with string value: Tjörn has been clicked
+button with id: db06d676-5095-4621-9287-52b9d7fec8fewith location: 10,1226 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 0aad70d6-5de5-4f43-b43b-757848a33b08with location: 32,1016 with string value: Skicka meddelande has been clicked
+new View has been created with view id: 5

@@ -1,0 +1,60 @@
+________________________________________________________________________________________
+First Iteration 30 min
+________________________________________________________________________________________
+** Monkey aborted due to error.
+Events injected: 149651
+:Sending rotation degree=0, persist=false
+:Dropped: keys=94 pointers=248 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1354670ms (0ms mobile, 0ms wifi, 1354670ms not connected)
+** System appears to have crashed at event 149651 of 200000 using seed 1588794017906
+False
+________________________________________________________________________________________
+Secound Iteration 30 min
+________________________________________________________________________________________
+
+** Monkey aborted due to error.
+Events injected: 8664
+:Sending rotation degree=0, persist=false
+:Dropped: keys=9 pointers=10 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=90534ms (0ms mobile, 0ms wifi, 90534ms not connected)
+** System appears to have crashed at event 8664 of 200000 using seed 1588804392741
+True
+
+** Monkey aborted due to error.
+Events injected: 1550
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=5 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=15831ms (0ms mobile, 0ms wifi, 15831ms not connected)
+** System appears to have crashed at event 1550 of 200000 using seed 1588955078036
+TRUE
+
+** Monkey aborted due to error.
+Events injected: 47565
+:Sending rotation degree=0, persist=false
+:Dropped: keys=40 pointers=28 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=431631ms (0ms mobile, 0ms wifi, 431631ms not connected)
+** System appears to have crashed at event 47565 of 200000 using seed 1588772583169
+False
+
+// Injection Failed
+** Monkey aborted due to error.
+Events injected: 3675
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=36407ms (0ms mobile, 0ms wifi, 36407ms not connected)
+** System appears to have crashed at event 3675 of 200000 using seed 1588899671450
+False
+
+** Monkey aborted due to error.
+Events injected: 4064
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=1 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=56442ms (0ms mobile, 0ms wifi, 56442ms not connected)
+** System appears to have crashed at event 4064 of 200000 using seed 1588791348073
+False
+
+________________________________________________________________________________________
+Third Iteration 30 min
+________________________________________________________________________________________
+
+________________________________________________________________________________________

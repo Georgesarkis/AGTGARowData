@@ -1,0 +1,23 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: d3d02027-3981-4239-81af-b709d1225a9ewith location: 0,1966 with string value: PHOTO BOOTH has been clicked
+button with id: db352f95-e2b4-4c76-a92f-63bbea9bae05with location: 412,1 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 2a5d20b2-1222-44c0-a312-216c11d024cfwith location: 424,559 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 7
+button with id: f7e630da-4482-4f1b-832b-781b4628cb02with location: 412,1 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 574720b6-c711-4856-8172-535bf980a231with location: 348,564 with string value:  has been clicked
+button with id: 278dad9c-c183-4162-82a7-0ca1a3920c52with location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 4
+button with id: 79f7392b-4dd8-4925-aea4-df129778dc08with location: 901,1900 with string value: 2 has been clicked
+new View has been created with view id: 5
+button with id: 558e8def-c344-4606-8af2-e588dcf3668ewith location: 901,1900 with string value: 3 has been clicked
+button with id: d2a2ca7c-20a4-4e82-95bb-dde61be55310with location: 412,1 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 2912fce1-e84c-4270-ae32-3fff9b81b25cwith location: 412,1 with string value:  has been clicked
+button with id: 06c136fd-3121-4eff-a982-9661e2e72a92with location: 0,1966 with string value: GALLERY has been clicked
+button with id: 4156ee52-a5ca-407a-bc09-12574c973df6with location: 901,1900 with string value: 4 has been clicked
+button with id: ae23c61a-33a8-4318-80c6-2c0723c3fd1cwith location: 0,0 with string value:  has been clicked
+button with id: a29339ef-7ca8-4fdc-8c27-d867005586e6with location: 412,1 with string value:  has been clicked
+button with id: 2a085fdb-f9a1-4451-ada3-3cc324e7c778with location: 360,1966 with string value: FACES has been clicked

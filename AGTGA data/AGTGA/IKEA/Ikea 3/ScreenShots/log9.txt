@@ -1,0 +1,16 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: ff44c23d-80bf-4d74-9afc-c9fa07a1ac45with location: 0,598 with string value: Bli inspirerad has been clicked
+new View has been created with view id: 2
+button with id: ba05340f-747b-4292-b284-5b31c2b31b42with location: 592,80 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 466ac87f-9415-4a27-b9cd-c3a61c274299with location: 32,56 with string value:  has been clicked
+button with id: 16179266-60d7-4fbf-8892-74797347c19ewith location: 32,508 with string value: Nyhet på IKEA has been clicked
+new View has been created with view id: 3
+button with id: 20e81fda-e457-495e-b374-f56f29fd20d7with location: 471,1200 with string value:  has been clicked
+button with id: c022bde3-1879-449e-acd1-98c427465cd9with location: 368,1008 with string value: Logga in has been clicked
+button with id: ed5f7a71-cc4a-4ab2-aeb6-0e9b6af09227with location: 32,1088 with string value: Logga in has been clicked
+button with id: df3a817b-3908-4157-9b59-cba49b0ae677with location: 48,873 with string value: Glömt lösenordet? has been clicked
+button with id: fd556774-caa6-4eb0-83cc-6e86f45f3f17with location: 32,1104 with string value: Fortsätt has been clicked
+button with id: b1927968-4a3c-469f-8be5-1dcceefb0b9fwith location: 48,451 with string value: Vi skickar en länk för att återställa ditt lösenord. has been clicked
+button with id: c0acfd9e-143d-47d4-9920-6d8e785982c0with location: 48,272 with string value: Återställ ditt lösenord has been clicked

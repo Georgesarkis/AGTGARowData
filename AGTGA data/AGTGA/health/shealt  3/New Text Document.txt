@@ -1,0 +1,38 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n         ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *       LOW      *         14         *       0         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase01.py  *       LOW      *         20         *       2         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase02.py  *      HIGH      *         41         *       9         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase02.py", line 8, in <module>\r\n    driver = webdriver.Remote(command_executor=port, desired_capabilities={\'automationName\' : \'UiAutomator2\',\'deviceName\': \'samsung SM-G390F\',\'platformName\': \'Android\',  \'app\': \'F:/AGTGA/APKS/Health.apk\' , \'autoGrantPermissions\' : \'true\', \'appWaitActivity\' : \'*.*\',\'fullreset\' : \'false\',\'noReset\' : \'true\' } ) \r\n  File "C:\\Users\\sakog\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\site-packages\\appium\\webdriver\\webdriver.py", line 147, in __init__\r\n    super(WebDriver, self).__init__(\r\n  File "C:\\Users\\sakog\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py", line 157, in __init__\r\n    self.start_session(capabilities, browser_profile)\r\n  File "C:\\Users\\sakog\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\site-packages\\appium\\webdriver\\webdriver.py", line 227, in start_session\r\n    response = self.execute(RemoteCommand.NEW_SESSION, parameters)\r\n  File "C:\\Users\\sakog\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py", line 321, in execute\r\n    self.error_handler.check_response(response)\r\n  File "C:\\Users\\sakog\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py", line 242, in check_response\r\n    raise exception_class(message, screen, stacktrace)\r\nselenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Cannot start the \'com.sec.android.app.shealth\' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: \'*.*\' or \'com.sec.android.app.shealth.*.*\' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting\r\n\r\n'
+_________________________________________________________________________________________________________________
+* TestCase03.py  *       LOW      *         20         *       2         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase04.py  *       LOW      *         20         *       2         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase05.py  *       LOW      *         20         *       2         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase06.py  *       LOW      *         23         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase07.py  *       LOW      *         23         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase08.py  *       LOW      *         20         *       2         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase09.py  *       LOW      *         23         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase10.py  *       LOW      *         32         *       6         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase11.py  *       LOW      *         23         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase12.py  *       LOW      *         29         *       5         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase13.py  *       LOW      *         23         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase14.py  *       LOW      *         20         *       2         *       False     *  None
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         24.071428571428573
+*   Average Action per Test-case           =                         3.357142857142857
+*****************************************************************************************************************

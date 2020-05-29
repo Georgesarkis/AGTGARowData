@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: c3aea940-5707-483c-93ad-a626d45657d1with location: 644,798 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 705d9b00-ec61-4ae8-b4c6-93f100f48f01with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: bc23757f-58c5-45a8-b477-b9cd2d28e89cwith location: 304,791 with string value: Volvo XC60 D4 Ocean Race Business E PRO has been clicked
+button with id: 42eebea0-5642-40cf-9b9a-74a4fc49ef66with location: 448,530 with string value:  has been clicked
+button with id: af449f47-4590-461f-9d51-d5ee815d70f9with location: 448,530 with string value:  has been clicked
+button with id: f49f357c-750e-4e82-9eea-d4710526a563with location: 232,228 with string value:  has been clicked
+button with id: 7adbcd08-6483-4d14-9411-3b9d73fe9e77with location: 32,1270 with string value: Miltal has been clicked
+button with id: 16307467-f545-4582-b96d-8239b1bdf709with location: 32,1114 with string value: Bränsle has been clicked
+button with id: 7372ab05-fa09-49f6-8aed-b8668ae7888bwith location: 592,530 with string value:  has been clicked
+new View has been created with view id: 3

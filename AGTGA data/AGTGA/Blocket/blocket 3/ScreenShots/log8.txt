@@ -1,0 +1,28 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: a942225e-960b-455b-8640-2940a46f5ed6with location: 32,734 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 36654f2d-faea-4bb1-a475-156038c70df9with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 154deb94-feb1-4706-9fed-5738be96b649with location: 0,48 with string value:  has been clicked
+button with id: 689bf0b8-2c7a-4d9b-bd61-1c3b324a597bwith location: 448,530 with string value:  has been clicked
+button with id: 3dce35cd-5562-4f37-8c72-a01ac51eb980with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: d7ba9adf-044a-470c-8148-3fd6e42cd225with location: 219,306 with string value: Nya annonser has been clicked
+new View has been created with view id: 4
+button with id: 52108c82-bb2b-4862-9101-bc89293d8268with location: 376,712 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: d47d50dc-4680-4041-b1bd-0fc6fe9b6eccwith location: 0,48 with string value:  has been clicked
+button with id: 7c6f4270-cf0e-495f-b971-e99f1b03d110with location: 376,306 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 532ed795-ea2d-4f3f-b11f-6ac7643e0b10with location: 32,833 with string value: 0 kr has been clicked
+button with id: 1eb664fc-2343-4fb6-886d-04a13c69e05cwith location: 0,48 with string value:  has been clicked
+button with id: 8d54d985-0f5e-4e7c-bc9f-23cac6e52a5ewith location: 288,1168 with string value: Ny annons has been clicked
+new View has been created with view id: 5
+button with id: 50e63f85-f239-4d0d-948c-f86c6eee9011with location: 104,597 with string value: Du kan spara annonsutkast has been clicked
+button with id: 295b59cc-1580-4508-a557-57d5bcdf72d5with location: 177,471 with string value: Gör din annons bättre. has been clicked
+button with id: 3135e5fe-1b42-48c8-b9dd-f8650835b8a1with location: 104,725 with string value: Få pushnotis när någon hör av sig has been clicked
+button with id: 676b355e-493f-4eec-8de5-d4c21bc7596ewith location: 72,231 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: e98cef12-6510-4baa-ad6b-142b00803836with location: 32,500 with string value: Bilder has been clicked
+button with id: 2740ec19-dbbe-4f17-9c3b-41116d717073with location: 608,500 with string value:  has been clicked

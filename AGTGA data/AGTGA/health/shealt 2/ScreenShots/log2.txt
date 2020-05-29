@@ -1,0 +1,23 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 22c09456-8ecb-48a5-b1fc-30be3e33faa0with location: 132,838 with string value: /60 mins has been clicked
+button with id: 02ad209a-a055-4234-b8dd-79a5b3ed20cewith location: 112,1095 with string value: Calories burnt has been clicked
+button with id: 4dda220d-5e2f-400a-a100-94a657c9d270with location: 322,284 with string value: 0 % has been clicked
+button with id: 78576118-e048-4c24-a6c2-ce36c290ab9bwith location: 182,538 with string value:  has been clicked
+button with id: af07f0be-f646-43df-85d3-cb0d99301603with location: 612,248 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 3ec06758-24b9-4a42-adc6-d11a30f73582with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 6e87c00c-e4fe-4a56-8b73-997474cb837awith location: 250,1258 with string value: 0,0 km has been clicked
+button with id: c549a2da-c43c-450a-a95b-7c5f8428a8a9with location: 48,1258 with string value:  has been clicked
+button with id: 83cf19d7-bbe6-4624-92b4-d55ae7bbd892with location: 612,248 with string value:  has been clicked
+button with id: 2071ffbd-d3d2-4a41-81c2-a4d518979f17with location: 64,649 with string value: • 75 minutes of vigorous-intensity activity has been clicked
+button with id: b20ba86a-f2ac-4379-97bb-ed2cc0d9b1f7with location: 48,405 with string value: Adults aged 18 years or above should do at least the following amount of exercise throughout the week: has been clicked
+button with id: eb5707d3-fbe9-45ae-a54d-701025983392with location: 48,805 with string value: Children and teens aged 5-17 years should aim for 60 minutes of moderate to vigorous-intensity activity every day. has been clicked
+button with id: 478b956b-40cb-4111-b59b-74b009e2e863with location: 64,692 with string value: • An equivalent combination of moderate and vigorous-intensity activity has been clicked
+button with id: 86c5295b-da8c-480a-afde-9e34b3414bb4with location: 48,184 with string value: Recommended active minutes has been clicked
+button with id: 2c6e07f7-8e70-427a-957b-5f2492020cb0with location: 48,250 with string value: Every minute of light, moderate, and vigorous activity counts towards a healthier lifestyle! has been clicked
+button with id: ab38f9f4-e050-405f-8f67-50498e8d6292with location: 112,78 with string value: Information has been clicked
+button with id: 7d814165-a3f3-47e9-bf66-7d0547f4c071with location: 64,556 with string value: • 150 minutes of moderate-intensity activity has been clicked
+button with id: 490f14e8-a555-4550-93dd-a402b7bd853cwith location: 325,1095 with string value: 1121 kcal has been clicked
+button with id: c77e187d-c189-4cbb-bf91-2aeeb7536f6cwith location: 0,48 with string value:  has been clicked

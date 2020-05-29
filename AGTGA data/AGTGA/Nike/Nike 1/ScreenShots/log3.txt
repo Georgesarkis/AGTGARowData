@@ -1,0 +1,43 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.SplashScreenActivity
+new View has been created with view id: 1
+button with id: 3fdcce4f-e403-4d33-9834-a0ecab83c7ddwith location: 0,1576 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: d4ba8615-8f19-4863-898a-f6866f7e00bcwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 10c7813d-146d-4195-a385-eb7721a795eawith location: 0,1250 with string value: Sale has been clicked
+new View has been created with view id: 4
+button with id: 211c2d8c-e0e8-4ca5-9633-510e5fa6a561with location: 924,393 with string value: 1/4/92 has been clicked
+new View has been created with view id: 5
+button with id: 49adf057-1633-4564-9752-fc0e6cda72bawith location: 149,502 with string value:  has been clicked
+button with id: 0d5ee709-f5b5-4399-ad57-0adebcb170e4with location: 787,502 with string value:  has been clicked
+button with id: 2571c4e6-df15-4a23-9098-e6bfe7002dd1with location: 513,1498 with string value: CANCEL has been clicked
+button with id: 2f1d74b9-6725-4220-b5a2-fcfe27e22cabwith location: 593,240 with string value: sakogeorge@gmail.com has been clicked
+button with id: 781b903f-a16b-46da-a8d9-036ac9b959e4with location: 895,1251 with string value: EU 44.5 has been clicked
+new View has been created with view id: 5
+button with id: b4792077-8d21-4b54-bec3-8e6804b48e2ewith location: 75,567 with string value: EU 45.5 has been clicked
+button with id: 5b7903c1-fd9e-423b-84ac-990f35db5e85with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 1d007b1e-3c7e-4dbd-b73d-8ba2bb99f984with location: 0,879 with string value: Air Max has been clicked
+new View has been created with view id: 6
+button with id: cbda02d4-845a-4449-a47f-0d27a91eaf7cwith location: 858,1554 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 938c2a14-5e36-4fc0-b136-09768fc879b4with location: 546,384 with string value:  has been clicked
+button with id: e5e1662a-c208-479b-a66b-c7f0aa1d176fwith location: 546,1167 with string value: SEK1,599 has been clicked
+button with id: d309083c-ec51-4ccb-8714-631e311b4247with location: 0,300 with string value:  has been clicked
+button with id: 72109f23-ecf5-4d61-8d98-0aee004a36dawith location: 951,120 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 6e03abd2-d382-4ca9-9b0a-1de5cabe2358with location: 216,123 with string value: BAG has been clicked
+button with id: df91c5b0-4aaa-4e9d-b90b-24707742085bwith location: 450,624 with string value:  has been clicked
+button with id: 8ec6db00-720b-487d-b077-cd656799af7dwith location: 339,864 with string value: Your Bag is empty. has been clicked
+button with id: 1c692f9f-202e-4764-8784-68ba556fd7cbwith location: 180,940 with string value: When you add products, they'll appear here. has been clicked
+button with id: 9edf199f-72c1-405d-9fe5-5db88e93d951with location: 60,1532 with string value: Shop Now has been clicked
+button with id: 5115fdc3-2fa8-4796-9cdd-c172c27bba45with location: 0,992 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 9186e1f4-b53b-4885-9151-f44043e33ed8with location: 0,1652 with string value: Home Workouts Gear has been clicked
+new View has been created with view id: 4
+button with id: aa3d2d91-8c4f-4ff3-b083-5c64f4885ee2with location: 546,1033 with string value: Men's Shorts has been clicked
+new View has been created with view id: 5
+button with id: ea771b0d-ba61-4c76-96cd-551728ae37aawith location: 0,72 with string value:  has been clicked
+button with id: 7d733220-1585-4adf-9638-905bff33eb2fwith location: 834,120 with string value:  has been clicked
+button with id: 3be949e5-2eb1-419f-8744-11cb9a50ab84with location: 654,1571 with string value: Photos has been clicked
+new View has been created with view id: 6

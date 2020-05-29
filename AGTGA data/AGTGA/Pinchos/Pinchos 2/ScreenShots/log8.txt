@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: a6fe6e1c-b461-4b2b-b7b8-5b8768e286e5with location: 984,1420 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 903df172-3eda-4486-aab6-a1d82c2a8a4ewith location: 0,72 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

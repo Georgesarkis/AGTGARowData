@@ -1,0 +1,103 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: a2d1d17b-1148-4bdd-8563-e88444a32730with location: 0,408 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: e7a618e1-4610-4054-a83f-0e706c4b37bewith location: 0,1652 with string value: Shop Sale Accessories and Equipment has been clicked
+new View has been created with view id: 3
+button with id: 4bf5e558-dc3b-4de6-a649-3d0c5ecb8d81with location: 0,966 with string value: Nike SB has been clicked
+new View has been created with view id: 4
+button with id: 058681be-5d64-48ec-92ff-6baebb10f8c9with location: 0,72 with string value:  has been clicked
+button with id: 2b91a122-3de1-48c8-864c-92514734eebfwith location: 0,72 with string value:  has been clicked
+button with id: b1614cbd-f005-415b-b022-869ee97f9cdewith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: e6f1eafe-7928-445e-95f0-48bb80d90a28with location: 834,120 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: a99aef5e-d449-4c7b-af15-ce1b3cbacf46with location: 0,663 with string value: Shop Sale All has been clicked
+new View has been created with view id: 5
+button with id: db3cd23d-d5c2-4e95-b3b2-9678296bf172with location: 858,1554 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 16628696-c309-4642-93fa-482362999ffawith location: 546,384 with string value:  has been clicked
+button with id: dcbd5bea-a67d-4897-b056-73b290baa7d3with location: 0,72 with string value:  has been clicked
+button with id: b3ad6b8d-3824-4f87-8530-0e010c9f9b8cwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 9b869942-7d70-4c85-b7b8-34bc5b95db4ewith location: 48,906 with string value: Favorites has been clicked
+new View has been created with view id: 6
+button with id: 0ed8a2b9-b90c-4000-8ccb-f8a4031eba58with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: e0076c28-6281-4c17-aca5-465faf235e6fwith location: 48,1245 with string value: Settings has been clicked
+new View has been created with view id: 8
+button with id: f861c730-d703-4d1a-928c-b9e84507744cwith location: 924,393 with string value: 1/4/92 has been clicked
+new View has been created with view id: 9
+button with id: fe19754a-ecea-4604-b8d3-5794af7ddb45with location: 156,217 with string value: 1992 has been clicked
+button with id: eaf31e92-d196-4ac9-8011-a36375cc706ewith location: 180,298 with string value: Sat, Jan 4 has been clicked
+button with id: fc84ce64-4180-4a70-b7a0-eaf4163d0884with location: 513,1498 with string value: CANCEL has been clicked
+button with id: 4362afe4-7966-48fa-a52b-f4882ddb91c4with location: 0,72 with string value:  has been clicked
+button with id: eccf5e6b-f91e-469a-a52a-033cb312e425with location: 546,240 with string value:  has been clicked
+button with id: 246859b7-c10a-4829-9ea7-9fd167c892eewith location: 588,804 with string value: Out of Stock has been clicked
+button with id: cb2417ec-2913-4649-be41-da730f575fbdwith location: 42,804 with string value: Nike Air Max 270 React has been clicked
+new View has been created with view id: 7
+button with id: e482f25e-0e53-427e-92c3-63c5002b659cwith location: 60,584 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: a04dbec4-1e67-45fc-a302-945ea770ef34with location: 834,120 with string value:  has been clicked
+button with id: 95d22932-4c1d-4720-a64a-1f487a5654dawith location: 0,72 with string value:  has been clicked
+button with id: bb982cae-a73a-4623-ad74-83d51468b1e4with location: 951,120 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: e6054666-ef1a-49d7-9f0a-c0b3e5a5acacwith location: 216,123 with string value: BAG has been clicked
+button with id: 427dcba2-2413-4e33-9ca0-226de20c3a24with location: 450,624 with string value:  has been clicked
+button with id: 5682c9c2-b21c-48e3-b97f-79a59a8a9a32with location: 339,864 with string value: Your Bag is empty. has been clicked
+button with id: 921ba728-587a-433b-98d2-155b27b9ab7dwith location: 60,1532 with string value: Shop Now has been clicked
+new View has been created with view id: 10
+button with id: bcf6923b-91d3-470a-a1f9-158919e77c3ewith location: 834,120 with string value:  has been clicked
+button with id: 22b3684b-cfeb-4fdf-9406-37a93f708faewith location: 143,1571 with string value: Camera has been clicked
+new View has been created with view id: 4
+button with id: c2ddd15d-c96b-45ca-8673-053b85b882a5with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 26132975-eb22-4647-b5f3-4928c9f8127awith location: 948,126 with string value:  has been clicked
+button with id: 28766cc8-837d-40fa-af49-8fe0470f3831with location: 0,72 with string value:  has been clicked
+button with id: 60b0a396-f2dd-4241-b4db-7e295e2d4203with location: 0,408 with string value:  has been clicked
+button with id: 9c224041-9ca3-4e79-ad8b-f86d551325a5with location: 0,848 with string value: Shop Sale All has been clicked
+button with id: cb93ff8e-6cb2-4c5d-a992-4f7fbc3f28f1with location: 0,1354 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: e9956f5c-bba8-492c-9c63-bee8448abf5awith location: 216,123 with string value: NIKE AIR has been clicked
+new View has been created with view id: 7
+button with id: 97c4f99d-eca2-413d-9fd4-61869573697dwith location: 216,123 with string value: NIKE AIR has been clicked
+button with id: d551231d-40b6-4c39-bb44-8bc015efa939with location: 0,72 with string value:  has been clicked
+button with id: 747d93b1-6e1e-471c-b396-2f2495fbd784with location: 0,72 with string value:  has been clicked
+button with id: 8182a4d4-76b0-4f40-95d2-481c99fb299dwith location: 216,123 with string value: SHOP has been clicked
+button with id: d0cafa70-ec90-461c-82a8-2d45118684fewith location: 72,490 with string value: Sale has been clicked
+new View has been created with view id: 3
+button with id: 3858fb65-2c8a-473c-a599-34c3ce30c754with location: 0,408 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 50fbdad4-0853-415c-b44e-3bca6c6b06f8with location: 0,72 with string value:  has been clicked
+button with id: 366ac6f0-1ff3-467d-9bce-30fcd07a6b7bwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 6bb6a236-6ca5-40aa-9007-ad39afceb5c3with location: 621,1276 with string value: Events has been clicked
+new View has been created with view id: 5
+button with id: 62e05083-6c81-4de0-876e-c9504ca89af6with location: 0,72 with string value:  has been clicked
+button with id: 29c3daec-8c82-4848-8524-fe472dd4321fwith location: 0,72 with string value:  has been clicked
+button with id: d00f0430-d24d-498c-bc14-4d6abb22a195with location: 0,1049 with string value: Top Picks Sale has been clicked
+new View has been created with view id: 5
+button with id: 93a089ab-a182-464c-8cee-499bbe75b0a9with location: 210,274 with string value: Shoes has been clicked
+new View has been created with view id: 6
+button with id: adad5e6c-9bfc-4419-9a96-9c1a2b9b089ewith location: 0,72 with string value:  has been clicked
+button with id: 73a45270-9cbc-47fa-9355-394be6b42b2bwith location: 0,1250 with string value: Shop Sale Shoes has been clicked
+new View has been created with view id: 5
+button with id: 8424663a-48f6-4e1d-80d3-0682d51893d5with location: 858,1554 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: ff38ccd7-9aba-43b2-86e0-93a73a482ac1with location: 72,1159 with string value: Latest has been clicked
+button with id: 6aed0e95-4a6d-4539-a0bc-cd3940c8a8eewith location: 59,274 with string value: All has been clicked
+button with id: eb8d4e87-e581-4008-88b6-c1409c32f7abwith location: 955,274 with string value: Basketball has been clicked
+new View has been created with view id: 6
+button with id: de74f25a-0ea1-41ac-bff0-9ae74695c83cwith location: 858,1554 with string value:  has been clicked
+button with id: 5f74b6a3-29d3-4ebb-aaf1-60903fb286a2with location: 72,1554 with string value: Apply has been clicked
+button with id: a364166d-c41f-4200-ae68-fc0a00fea5cdwith location: 0,72 with string value:  has been clicked
+button with id: 4dc25558-026d-4d55-9714-dd53d545d2d6with location: 951,120 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 7d44e71f-6682-40e8-a996-21436b2a55fewith location: 450,624 with string value:  has been clicked
+button with id: bc19d8eb-2d58-4f0f-94f8-b1ab39ceac61with location: 339,864 with string value: Your Bag is empty. has been clicked
+button with id: f7471b34-3d9a-460d-8eb8-41339a83fca2with location: 0,72 with string value:  has been clicked
+button with id: 63d8db14-aca9-4141-8504-41be1e54dd56with location: 216,123 with string value: SHOP has been clicked
+button with id: b62e8dc5-7d42-415b-a771-001eace47ca1with location: 0,240 with string value:  has been clicked
+button with id: 5dde36bf-6dea-4915-9533-208b01291a87with location: 618,286 with string value: Boys has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

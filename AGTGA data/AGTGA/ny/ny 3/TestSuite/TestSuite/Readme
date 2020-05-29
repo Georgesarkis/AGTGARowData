@@ -1,0 +1,4 @@
+This empty-file is needed to run AGTGAdriver.press_keycode(3) 
+driver.close_app() 
+driver.quit() 
+print('TestCase finished successfully')

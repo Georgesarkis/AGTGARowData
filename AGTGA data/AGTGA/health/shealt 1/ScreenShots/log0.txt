@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 8e15f331-5d17-4717-9e1b-656aa2fc0611with location: 150,965 with string value: Exercise has been clicked
+new View has been created with view id: 2
+button with id: 209e6b6c-8afc-43d2-a459-a0ecdc42d57bwith location: 148,719 with string value: Treadmill has been clicked
+new View has been created with view id: 3
+button with id: 4fe1500e-f0fd-43e3-b7a2-46412c83ccb6with location: 90,1174 with string value: Start has been clicked
+new View has been created with view id: 4
+button with id: 64a78616-6a38-4a51-b30b-4b7c9732253fwith location: 626,48 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

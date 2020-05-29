@@ -1,0 +1,28 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 7dd20751-14c9-45a7-bca4-72ea37f50a47with location: 0,1168 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 11353af9-c45a-4026-bbc4-a708bdea7e0fwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 709e8477-065a-4b4f-9709-554dfb51e32awith location: 600,1180 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: e95fc756-6a90-4b6d-bdc6-5492db54e7c3with location: 419,1180 with string value:  has been clicked
+new View has been created with view id: 5
+EditView with id: 83889151-bab3-4b48-85b6-2c00ac7e7d01 has been clicked and filled with string: 
+EditView with id: 83889151-bab3-4b48-85b6-2c00ac7e7d01 has been clicked and filled with string: 
+button with id: 0e4d616e-3aca-43f3-8551-eeeb21eec105with location: 64,629 with string value: LOG IN has been clicked
+button with id: 3f8bbe1e-b830-4e5d-88fd-560ba07dc6cdwith location: 64,1114 with string value: CREATE ACCOUNT has been clicked
+new View has been created with view id: 6
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+button with id: 5309ddcf-1937-4f71-9a1c-cc373b152a7cwith location: 0,176 with string value: PRIVATE INDIVIDUAL has been clicked
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+button with id: 7b44ad19-d8c5-40dc-922a-fedbe5cf21fdwith location: 360,176 with string value: COMPANY has been clicked
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+button with id: bbd66014-5d3d-48d9-ac4f-a4853dd6f2a1with location: 244,56 with string value: CREATE ACCOUNT has been clicked
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+EditView with id: cd1bdfbb-4f26-465d-8b27-468f06f3228a has been clicked and filled with string: 
+button with id: 9184a64d-077b-456c-85bc-1ffb6cf5613fwith location: 32,56 with string value: Cancel has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

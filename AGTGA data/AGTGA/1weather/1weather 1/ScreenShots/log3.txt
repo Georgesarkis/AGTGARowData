@@ -1,0 +1,10 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: d591e24b-19f7-4929-b00f-ce1ece627b1dwith location: 0,61 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 4c62a6a5-9c4b-43d0-a0f9-fb26e3f6942bwith location: 582,674 with string value: 13° has been clicked
+new View has been created with view id: 3
+button with id: 0035fef9-f0a7-45d7-8750-08546205d541with location: 308,1264 with string value: What is Precipitation? has been clicked
+new View has been created with view id: 4
+Exception aquired with message: Message: An element could not be located on the page using the given search parameters
+

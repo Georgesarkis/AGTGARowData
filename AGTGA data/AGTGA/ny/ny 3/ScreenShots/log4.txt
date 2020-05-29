@@ -1,0 +1,22 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: e6e79862-7b34-4283-a5c4-009d74045753with location: 48,282 with string value: Spiking Death Rates Suggest Pandemic Toll Is Undercounted has been clicked
+button with id: 694e1b3f-5df0-498a-914d-b76c27860913with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 8bcaacad-cf64-4afe-a00b-2fa1213bfff4with location: 504,1632 with string value:  has been clicked
+button with id: 7cc36300-5acc-4928-a496-8a9fbd50fe79with location: 576,1560 with string value:  has been clicked
+button with id: f8331fe2-60d9-48ec-ad98-9fbc6e1cd22bwith location: 72,1560 with string value:  has been clicked
+button with id: b0896a84-16cd-4e94-aa65-4a3810e972d2with location: 655,1434 with string value: See Stories has been clicked
+new View has been created with view id: 8
+button with id: fa80fc96-0c7b-4782-9905-701e84ee6370with location: 75,806 with string value: To follow, please login or register for a New York Times account. has been clicked
+button with id: dd4a6d51-e3c3-47c9-bfa6-c4be8ba233fbwith location: 534,940 with string value: CANCEL has been clicked
+new View has been created with view id: 9
+button with id: 5eca866a-376a-4359-a802-64e1866c3f23with location: 169,1392 with string value:  has been clicked
+button with id: 198b18f5-882c-4f70-a1a7-a90eb052b289with location: 504,1632 with string value:  has been clicked
+button with id: ec42a062-7911-4501-b19c-f694e01621a2with location: 478,1707 with string value: For You has been clicked
+button with id: 21386927-1f59-4ffb-8527-d5af6c2cc65ewith location: 24,1404 with string value: Following 1 Topic has been clicked
+button with id: 9bd498b3-8955-4441-95d7-06c9dd96863bwith location: 576,913 with string value:  has been clicked
+button with id: d63c7e4a-3ebd-4310-a238-9615ebbe852dwith location: 409,427 with string value: FOLLOWING has been clicked
+button with id: 2a5bc7d0-f5a2-4787-9588-61db8df08361with location: 0,606 with string value:  has been clicked
+button with id: 5e1cf76e-9f5f-490b-920e-cb54707cefd5with location: 816,84 with string value:  has been clicked
+new View has been created with view id: 6

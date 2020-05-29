@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: d17ff72f-5b45-4ac4-a179-a77df730bd18with location: 864,1632 with string value:  has been clicked
+button with id: 9ef5d3bf-6ce2-4002-bae5-0e842231ad4ewith location: 217,1496 with string value: Arts has been clicked
+new View has been created with view id: 15
+button with id: b4b51876-7572-4226-a402-2b99e661190fwith location: 768,1600 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: e261a08f-56db-416c-ba41-a8f6779d5343with location: 75,777 with string value: To save articles, please log in or register for a New York Times account. has been clicked
+button with id: cec6f367-3873-4b83-a7cd-bfc2108463f7with location: 765,968 with string value: LOG IN has been clicked
+new View has been created with view id: 17
+button with id: 2b915aa2-c41c-4450-81f2-e33a3e13144bwith location: 216,115 with string value: Log In has been clicked
+button with id: f541ae1a-3bca-4176-a860-45eb0d02274ewith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 18
+button with id: 1280ac81-5733-4b45-9e41-f24ef1243b86with location: 942,1600 with string value:  has been clicked
+new View has been created with view id: 19

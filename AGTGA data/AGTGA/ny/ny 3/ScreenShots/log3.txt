@@ -1,0 +1,68 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 5b72fdd1-b18a-4ca6-b798-b554b3757b49with location: 263,117 with string value:  has been clicked
+button with id: c7233298-bc35-4d37-b8d4-38fcd0a76752with location: 263,117 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 14d927f1-056f-4273-8308-dbea35306852with location: 504,1632 with string value:  has been clicked
+button with id: 47bb6949-93d9-4815-9d8e-8d283444e8aewith location: 612,1189 with string value: Modern Love has been clicked
+new View has been created with view id: 4
+button with id: aaa31a7f-0ae4-47e0-b27e-2cfec29023f8with location: 421,438 with string value:  has been clicked
+button with id: 9ecb5040-416d-4486-8f9f-8be892ea4b74with location: 96,240 with string value: Personal essays and a weekly podcast that explore the joys and tribulations of love. has been clicked
+button with id: c2b89de3-5a7c-42fb-85ed-8ba9494001bewith location: 78,1605 with string value: Modern Love in miniature, featuring reader-submitted stories of no more than 100 words. has been clicked
+new View has been created with view id: 5
+button with id: 95c40d36-02c3-4d62-b4e6-5cfcf24f1b68with location: 960,84 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 0644d3e7-23cd-4a89-91f9-c71018f0a3ecwith location: 493,123 with string value: Comments has been clicked
+new View has been created with view id: 7
+button with id: 30bb1faa-1c0d-4a27-83b4-8ede6afdb8ddwith location: 402,285 with string value: READER PICKS has been clicked
+button with id: cafd0fdf-e446-40b0-86e3-0cf45b180577with location: 0,657 with string value: No Comments has been clicked
+button with id: e4346173-c942-4313-9866-9e33082e7632with location: 864,1560 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: e1d82942-4b7f-406f-a325-ecb2856d7854with location: 534,1003 with string value: CANCEL has been clicked
+button with id: edbea03f-135e-46ed-8707-33d0956c7329with location: 216,122 with string value: Comments has been clicked
+button with id: 68b5d9d0-b3d7-44be-84a4-425c63e5de48with location: 0,72 with string value:  has been clicked
+button with id: 73d88c89-2700-4b92-9d30-2343c84c4408with location: 981,1662 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: d023f95c-e660-44d1-b9b3-2dc6a55d08f5with location: 0,582 with string value: Basic has been clicked
+button with id: b9e19806-9ff8-4a1f-b9a1-f3dc8ffcd822with location: 540,582 with string value: All Access has been clicked
+button with id: f4b42d3d-fa4c-4edd-bb7f-73380601ed8dwith location: 540,582 with string value: All Access has been clicked
+button with id: 4b397d8b-624a-46f1-9ee4-f5c37f1c707bwith location: 45,1503 with string value:  has been clicked
+button with id: 7f2bad32-b407-439c-9952-e9b9c5157c77with location: 45,1021 with string value:  has been clicked
+button with id: 923dd802-b295-41ee-b5ab-e69c84dbd25fwith location: 117,1283 with string value: NYT Cooking, featuring guides, lessons and 19,000+ recipes, available online	 has been clicked
+button with id: 99eb488c-cd14-46c5-ada9-a02a05a4a558with location: 45,1705 with string value: No commitment required, cancel anytime.
+
+Payment for your subscription will be automatically charged to your Google Play account upon confirmation. Subscriptions renew automatically 24-hours prior to the start of the next billing period. Billing occurs every calendar month for a monthly subscription or once-yearly for an annual subscription. Subscriptions continue to renew automatically until cancelled. You can manage and cancel subscriptions using the Google Play Subscription Center.
+
+For offers that include a one-week free trial: If you cancel before the end of the free trial you will not be charged. After the free introductory period you will automatically become a paying subscriber. If you choose to upgrade or downgrade during the free trial period you will forfeit the remainder of the free trial.
+
+Other restrictions may apply. Offers and pricing are subject to change without notice.
+
+Privacy Policy | Terms of Service has been clicked
+button with id: b11daf92-a459-4652-ad89-b89266211127with location: 45,1292 with string value:  has been clicked
+button with id: 07b4c2ea-b6f3-41d6-8392-a06db025262cwith location: 117,801 with string value: Unlimited article access in the app and on NYTimes.com	 has been clicked
+button with id: 779ccf87-db39-4620-9891-dc8a3022f3c4with location: 48,124 with string value:  has been clicked
+button with id: c214a4a2-07a3-444b-b056-6eb1a7d9e5a7with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: ab49ae16-27bd-4ac1-a5ab-a96d21af7418with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 272821b0-3c35-47d7-9ce1-423802d17c98with location: 72,360 with string value: What are you interested in? We’ll update this section regularly with stories for you. has been clicked
+button with id: 907e6ba0-8605-4efc-962d-3ef3c4aa37a3with location: 864,1632 with string value:  has been clicked
+button with id: 303f0aee-ba35-4a9b-b7de-91f74c924871with location: 49,1056 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 34105633-c819-4a8e-9e8a-3dfe4b9ef9a4with location: 0,72 with string value:  has been clicked
+button with id: 22846b37-0089-47d4-ac52-1cfc5717f5fawith location: 49,480 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b5f4d2a4-0e7e-4dff-ad6e-da10ff102252with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: dbd531f6-a6b7-48a8-bf5b-98381373a738with location: 217,1208 with string value: New York has been clicked
+new View has been created with view id: 7
+button with id: 9f322e13-d43f-44cc-ae2e-e13a43f53e47with location: 768,1622 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: c74b92f3-3b27-403c-9cd2-04f1978fbb63with location: 75,777 with string value: To save articles, please log in or register for a New York Times account. has been clicked
+button with id: 13f54ab3-339a-4cef-b292-643e02e5eb79with location: 765,968 with string value: LOG IN has been clicked
+button with id: e2793383-5ae1-4f76-b3c1-b68a95d4f9b3with location: 849,729 with string value:  has been clicked
+new View has been created with view id: 12
+EditView with id: 348ba6ae-c644-424c-b8c8-1c29232af818 has been clicked and filled with string: 
+EditView with id: 348ba6ae-c644-424c-b8c8-1c29232af818 has been clicked and filled with string: 
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

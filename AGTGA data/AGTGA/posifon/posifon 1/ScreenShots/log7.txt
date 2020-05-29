@@ -1,0 +1,43 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: d5962cf3-a5ca-4db4-a52f-085d0bc22870with location: 177,1556 with string value: Robert Henriksson has been clicked
+new View has been created with view id: 2
+button with id: 92d53f98-5452-4bf9-9656-10020ad13033with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 505bf8a6-bcf5-4eba-82b7-d1c35cf5b760with location: 0,72 with string value:  has been clicked
+button with id: cb1bcf66-6422-4221-81cb-79e6d9d5c336with location: 15,1695 with string value:  has been clicked
+button with id: ab022858-9f41-4a47-bd2b-b13d3cc704cewith location: 864,1560 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 14941c0e-c6ae-429b-bb78-49e78aed5849with location: 200,283 with string value: PROFIL has been clicked
+new View has been created with view id: 5
+button with id: e4681c3f-431e-4f4c-a792-04b21d719b92with location: 403,96 with string value:  has been clicked
+button with id: ea605547-772b-4cd0-b235-e369b8c0db36with location: 405,920 with string value:  has been clicked
+button with id: 2127b479-471c-4b85-8fb8-8fef12f2f6bcwith location: 15,1695 with string value:  has been clicked
+button with id: bddf59b7-cbf6-4c46-91b4-a4757528a094with location: 403,96 with string value:  has been clicked
+button with id: 4313ba06-e240-418a-b3fe-45850491d745with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 1cb71701-b4a7-4e2c-bc80-1400759e5ad6with location: 48,513 with string value: Mina avdelningar has been clicked
+button with id: 5f72dcd8-9ccc-455b-895a-5c964fdefd44with location: 180,285 with string value: Avdelning A has been clicked
+button with id: baab2800-bdc0-4112-8290-94527dae9ba0with location: 165,1621 with string value:  has been clicked
+button with id: ba121cfa-eabf-4fb2-a5a9-51b8dc722ff9with location: 0,72 with string value:  has been clicked
+button with id: 3a74d379-77f5-4f05-afe3-0b3b27300632with location: 48,513 with string value: Mina avdelningar has been clicked
+new View has been created with view id: 4
+button with id: 72a5dd5c-12a9-423e-8d22-24ff1ae76fc5with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: e4e77c38-f421-486a-a09d-070b682080a2with location: 180,496 with string value: Avdelning 1 has been clicked
+button with id: 10d841fc-b3dd-4869-b95d-2ba4f37d061cwith location: 936,84 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 2b6852e4-957b-4074-916d-f1a7d5c8144fwith location: 0,72 with string value:  has been clicked
+button with id: e9d0cc17-1aef-4011-92ac-edc5aad3ee3bwith location: 48,521 with string value:  has been clicked
+button with id: 94d3eb02-8108-4c1c-b272-53e934f24ad8with location: 216,115 with string value: Avdelning 1 has been clicked
+button with id: c9963898-0be1-4bc3-8e54-7300428b8546with location: 177,471 with string value: Felicia Active has been clicked
+new View has been created with view id: 13
+button with id: df4aa6ac-066a-47a4-b2be-e7134f64ffb8with location: 547,115 with string value: Felicia has been clicked
+button with id: c4f80f2e-4aaa-4a9a-806b-55c1672fd9f4with location: 39,682 with string value: - has been clicked
+button with id: edd755fe-3e1e-4cd6-aab9-3234f436a40cwith location: 39,1441 with string value: Anhörig has been clicked
+button with id: 5d659a59-d050-4fe2-868c-ef24b57c0a0awith location: 39,1144 with string value: Felicia Tycker om att dricka kaffe och fika has been clicked
+button with id: 16607b20-e3ae-4c53-bbce-32410e47c3e7with location: 645,578 with string value:  has been clicked
+button with id: f736ac94-10ca-4a4c-81d5-d36333a507a9with location: 39,1251 with string value: ID-nummer has been clicked
+button with id: 15655fca-a646-493a-bd2b-3eba7d309bb5with location: 39,957 with string value: Göteborg has been clicked
+button with id: b1993096-a857-403e-b6d6-e104406d592bwith location: 39,900 with string value: 41258 has been clicked
+button with id: 0b922164-d9b8-40db-98a5-7e063a0c4799with location: 521,621 with string value:  has been clicked

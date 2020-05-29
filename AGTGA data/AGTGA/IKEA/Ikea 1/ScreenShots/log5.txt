@@ -1,0 +1,37 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 5bc5b876-715e-4bc3-b4b5-c40991a6bc34with location: 592,80 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 727c67ac-dd3f-4ce4-ae0b-4d49a07bb399with location: 608,1200 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 27ed4a85-f932-49cd-ab5c-4815165b31dawith location: 48,557 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: d79c63cd-27f5-45ee-bf7c-d0e477224726with location: 32,1008 with string value:  has been clicked
+button with id: 3e944ca3-4df0-4a8c-a7a0-6edde01376abwith location: 96,310 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 24282feb-94d0-4c78-8f03-1898f59c84c7with location: 0,48 with string value:  has been clicked
+button with id: b18098a2-b457-4d6c-b783-b0124731d977with location: 16,48 with string value:  has been clicked
+button with id: 568278f1-10b6-4816-8a4a-eaa7f39b530ewith location: 197,1200 with string value:  has been clicked
+button with id: 16eda970-06ab-411c-b49b-a9f49d5d97ecwith location: 672,208 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 751928ff-3dc3-4aed-a54c-4777cf40814bwith location: 32,1127 with string value: 500 kr has been clicked
+new View has been created with view id: 5
+button with id: e2ff2968-b092-4347-b21d-73380563c302with location: 32,1008 with string value:  has been clicked
+button with id: 9ac53789-b9c8-4005-90c3-e79cc14a6ff2with location: 334,1200 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 15da4d38-5bd3-48f7-8cf6-9b1e7a486090with location: 48,742 with string value: Datakontroller och villkor has been clicked
+new View has been created with view id: 7
+button with id: 007fbe15-27bd-453f-b53a-6c8911432c34with location: 608,1200 with string value:  has been clicked
+button with id: d3d48193-30de-484b-93a2-4e767879b69fwith location: 16,48 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 7b579ff1-2b8d-4f68-8057-d0d34ca37733with location: 608,904 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 952bdcf2-5c13-4746-83b1-ccca42b55f8ewith location: 44,944 with string value: Ta bort produkten has been clicked
+new View has been created with view id: 8
+button with id: 48a3c235-f2d6-4a13-a46d-3fe52ce39ab9with location: 608,210 with string value:  has been clicked
+button with id: 5fa81798-afff-45da-ac19-6483feb2620fwith location: 44,1104 with string value: Flytta till lista has been clicked
+new View has been created with view id: 8
+button with id: 9a75d9b0-e7b7-45cd-8e21-9fc42fae0dd1with location: 48,727 with string value: Få ut det mesta av din IKEA-app has been clicked
+button with id: 7df54da6-9355-42b4-ba78-0acae8273409with location: 32,976 with string value: Logga in has been clicked
+button with id: 16f51c1a-ecc9-458e-abb9-a95e53e6077ewith location: 0,208 with string value: Logga in has been clicked
+button with id: ce80f4cc-7a94-4363-a4de-df36e4d76192with location: 474,80 with string value: Registrera dig has been clicked

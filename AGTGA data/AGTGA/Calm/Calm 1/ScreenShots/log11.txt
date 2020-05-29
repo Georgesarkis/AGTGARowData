@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: 47c5eb23-9a7d-44a0-8f2f-5569e63b9943with location: 184,1197 with string value: Sleep has been clicked
+button with id: e3847e56-f7cb-4555-8f87-5374b9855b66with location: 32,240 with string value:  has been clicked
+new View has been created with view id: 7

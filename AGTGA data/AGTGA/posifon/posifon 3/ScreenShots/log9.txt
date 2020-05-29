@@ -1,0 +1,40 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: 05d77944-8bfd-41b4-87be-39177a2e687bwith location: 39,489 with string value:  has been clicked
+button with id: 0d252d6d-a748-4497-a7fb-48779ba7ed72with location: 405,920 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: c84b1d47-cb3c-493c-8a36-eb37c054e92ewith location: 549,115 with string value: Carina has been clicked
+button with id: e0c55b92-1928-4a6a-be46-20054ba8bcbfwith location: 15,408 with string value: Information has been clicked
+button with id: 863cf9ef-a10e-4cf7-bff6-b4cfe59545ebwith location: 15,790 with string value: GPS-enhet has been clicked
+button with id: c18b089a-62c1-4e37-8ad5-9ea3f8e8e24cwith location: 405,96 with string value:  has been clicked
+button with id: de2cfb33-85f0-4be8-ae56-ca3fbd1f9f78with location: 15,1695 with string value:  has been clicked
+button with id: a2cc12de-242e-4376-bc25-d818ea07a3fbwith location: 200,283 with string value: PROFIL has been clicked
+button with id: 2428bcde-fee8-4037-9ca4-0a88cf3f6564with location: 969,838 with string value:  has been clicked
+button with id: 20f0c468-c578-40fd-821d-701a4e385073with location: 969,647 with string value:  has been clicked
+button with id: 0f8e96c2-1e16-45e6-9583-41fbbf639c6dwith location: 405,920 with string value:  has been clicked
+button with id: fe02d862-edd8-4209-8d94-faefdfb2cd2fwith location: 936,84 with string value:  has been clicked
+button with id: 23cc278a-202a-43a4-ab7d-500d1b72bb1bwith location: 237,753 with string value: 93% has been clicked
+new View has been created with view id: 4
+button with id: 2a14f362-1726-4ace-8a77-1ef1539e8f0ewith location: 200,283 with string value: PROFIL has been clicked
+new View has been created with view id: 5
+button with id: 842731a4-f17d-4112-9134-0313cabc4aadwith location: 969,456 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 0421b01c-66dc-4f95-8e0d-bdaae222a494with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 603daa5c-25ec-4332-8412-4641e77e3db3with location: 48,954 with string value: Hjälp & Support has been clicked
+button with id: 7a96031b-cd72-41aa-81ea-8a857aa16dc1with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: d2a7bfa8-1307-4d9c-9134-6f1accf2a4adwith location: 936,640 with string value:  has been clicked
+button with id: 807aec30-6341-4147-88b4-3cf38f1b1527with location: 216,115 with string value: Hjälp och support has been clicked
+button with id: 27aa5be8-c4bb-4438-8908-062bb92a492awith location: 72,729 with string value: 0313608770 has been clicked
+button with id: 392aaee2-1ec2-4c8c-9af3-d4727a071ccawith location: 72,640 with string value: Kontakta support has been clicked
+button with id: 03b3e809-f935-4e0a-bba4-993e25838792with location: 72,312 with string value: Frågor och svar has been clicked
+new View has been created with view id: 9
+button with id: f588bcd5-7700-4ace-84ba-cca2b7a79576with location: 216,115 with string value: Hjälp och support has been clicked
+button with id: 9eef3bdc-4e43-462a-ad9f-6dcb6c6240b0with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: 09cce029-6d3f-42da-a10e-03f4aec7f3f9with location: 72,476 with string value: Hur söker jag en brukare? has been clicked
+button with id: 63bf2d0b-d47c-4a38-8e08-939ff1b958e9with location: 48,366 with string value: Demo 4 has been clicked
+button with id: 205ceaf6-6a4a-4864-b3a0-03d1ff889400with location: 48,954 with string value: Hjälp & Support has been clicked
+new View has been created with view id: 11
+button with id: babc245c-900c-4a82-80f9-5ee7f1330a25with location: 936,640 with string value:  has been clicked

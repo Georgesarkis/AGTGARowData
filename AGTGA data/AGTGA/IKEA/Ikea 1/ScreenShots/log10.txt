@@ -1,0 +1,20 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: dc489d32-06fa-46a7-b5ce-20403831ffeawith location: 189,1083 with string value: durkslag has been clicked
+new View has been created with view id: 2
+button with id: 1f59c822-0b62-439d-b41a-d52ab4feddc9with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 24262701-2619-4e3d-a483-e14626a14443with location: 592,80 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 29b5b451-d68c-48fc-a7c3-c59a2e7681cbwith location: 48,418 with string value: Nyligen visade has been clicked
+button with id: b1e22acd-0caa-44e9-95f5-7a592c008e22with location: 32,56 with string value:  has been clicked
+button with id: 13822721-9df6-477b-aa6c-b9761ffa51c9with location: 427,1089 with string value:  has been clicked
+button with id: 1e4b1d20-b72b-4612-b6ad-7ef3346fbe63with location: 60,1200 with string value:  has been clicked
+button with id: 967ab038-2489-4b97-b6a2-6657303b6bb1with location: 656,508 with string value: Nytt lägre pris has been clicked
+button with id: a03f529a-6cc6-4f38-a7c6-d15c3c2d7547with location: 392,1128 with string value: 2 344 kr has been clicked
+new View has been created with view id: 3
+button with id: 4c89972e-5e63-4fea-9056-cd9f320f4a52with location: 98,543 with string value: Hej! has been clicked
+button with id: eaa34a80-a00c-4e5d-ac08-c06d4a65a4d1with location: 50,613 with string value: Gillar du IKEA-appen? has been clicked
+button with id: ab428e65-1550-4f11-84f0-ee4e32649a28with location: 390,717 with string value: Nej has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

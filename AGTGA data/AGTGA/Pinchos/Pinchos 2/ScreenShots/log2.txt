@@ -1,0 +1,21 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: d359b38c-d43d-4560-ab31-a8f1e26f0a42with location: 984,1687 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: d553b3a4-d657-4182-af8e-6a4b6d1def24with location: 72,855 with string value: We use cookies and similar technologies to adapt content, customize and measure advertisements, and provide a more secure experience. By clicking on “Allow all cookies”, you agree to cookies being stored on your device. has been clicked
+new View has been created with view id: 3
+button with id: 3803608e-2c5c-46a3-b2cc-6b456ffeb585with location: 72,1146 with string value:  to find out more, or go to your cookie settings to manage your preferences. has been clicked
+button with id: c1d5f662-4ebe-4bc5-a3e2-18da4b60a413with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: c4808e5f-419b-412e-afe5-c27f0f4f76dbwith location: 984,1687 with string value:  has been clicked
+button with id: 2816b7b8-8f1a-46e4-baab-bfa7563893ccwith location: 474,1500 with string value: Manage cookie settings has been clicked
+new View has been created with view id: 4
+button with id: 5f9f5988-1b83-4bbf-8d76-124da56c319awith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 0512af6a-c755-43ee-b930-b3857ddcf4c0with location: 984,351 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 065abb1a-ec6f-461a-b3ac-edfedd51b007with location: 972,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: bc5dae5d-3934-47b4-945f-4d91ac4a10a2with location: 936,1462 with string value:  has been clicked
+button with id: 5a27887b-c0fd-4624-bab4-b1b548f06523with location: 0,72 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

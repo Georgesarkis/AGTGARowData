@@ -1,0 +1,33 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: a9f32d4d-81a3-46e8-8881-3d34b12ad75awith location: 32,798 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 231f316f-57ae-4819-9531-b642d3f24758with location: 32,1034 with string value: Kategori has been clicked
+new View has been created with view id: 3
+button with id: e20e73c3-fa09-40f7-b8b2-58af4832f7a4with location: 128,48 with string value: Sök has been clicked
+new View has been created with view id: 4
+button with id: e26be49e-2379-479e-ab2e-bd95ea5a5e7cwith location: 267,538 with string value: Visa annonser has been clicked
+new View has been created with view id: 5
+button with id: 54555080-e9a3-423d-91d5-762a9eeaa2d3with location: 576,1026 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 9357736c-bdc7-4b83-ba2b-51c590f3a282with location: 304,381 with string value: Göteborg has been clicked
+button with id: 349bb644-a55a-4ae0-bd95-ffe49e1b722bwith location: 304,423 with string value: Bensin • 2020 has been clicked
+new View has been created with view id: 6
+button with id: c0c4f69f-55e6-4e00-b48b-149fd09cd1fbwith location: 448,530 with string value:  has been clicked
+button with id: 54a6045d-2577-4a5f-bcd4-f6ce4e51e3b9with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: b774e500-bdbf-4abd-927a-580c2f1507c9with location: 448,530 with string value:  has been clicked
+button with id: c56c38fa-7abf-459b-935f-34ec4b395b0awith location: 503,1025 with string value: Mölndal has been clicked
+button with id: 9a92f951-6de0-474a-a789-aa6946be912ewith location: 448,530 with string value:  has been clicked
+button with id: 707f4008-1d3d-4a2d-8a1c-8e48c45ba460with location: 0,48 with string value:  has been clicked
+button with id: 91c2c7ae-a062-4d77-84ee-6a495c4c6c16with location: 0,48 with string value:  has been clicked
+button with id: dd4cdf9b-0212-4c09-8ba8-c3be6d7d68a8with location: 644,1100 with string value:  has been clicked
+button with id: 80de6903-d353-4ac2-b577-d98f86121962with location: 592,914 with string value:  has been clicked
+button with id: e7ea2615-09b0-452a-8865-31ba6c78a329with location: 104,661 with string value: Ändra annonser enklare has been clicked
+button with id: 6ecf78ab-7867-48b6-8a54-b8d1046e933dwith location: 104,725 with string value: Få pushnotis när någon hör av sig has been clicked
+button with id: 1eedb1f9-2fe8-48b1-83d6-c41f4c536accwith location: 296,311 with string value:  has been clicked
+button with id: 237c9dd7-930c-488e-9506-5a329c30e11awith location: 104,597 with string value: Du kan spara annonsutkast has been clicked
+button with id: 6329fa5d-e2f8-44c0-b371-841e2a321f53with location: 110,953 with string value: NEJ TACK, INTE DEN HÄR GÅNGEN has been clicked
+new View has been created with view id: 4
+button with id: 73e21dc9-bc85-400c-81ca-88d0f7c608b6with location: 500,816 with string value:  has been clicked
+new View has been created with view id: 5

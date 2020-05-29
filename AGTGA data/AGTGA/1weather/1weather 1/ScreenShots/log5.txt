@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 16f2da18-ab1a-477a-9eeb-f99b799a47ddwith location: 474,1184 with string value: Dew Point has been clicked
+new View has been created with view id: 2
+button with id: b050da1f-748f-48fe-9670-225f2348b202with location: 12,884 with string value: The dewpoint temperature is the temperature at which the air can no longer "hold" all of the water vapor which is mixed with it, and some of the water vapor must condense into liquid water. has been clicked
+Exception aquired with message: Message: An element could not be located on the page using the given search parameters
+

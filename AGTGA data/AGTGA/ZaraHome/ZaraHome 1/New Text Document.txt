@@ -1,0 +1,50 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n             ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *       LOW      *         10         *       0         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase01.py  *      HIGH      *         119         *       33         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase01.py", line 12, in <module>\r\n    el = ElementFinder(driver, 178,160) \r\n  File "C:\\Users\\ze0396\\Desktop\\AGTGA\\TestSuite\\TestSuiteHelper.py", line 7, in ElementFinder\r\n    if x == el.location["x"] and y == el.location["y"]:\r\n  File "C:\\Users\\ze0396\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py", line 534, in location\r\n    old_loc = self._execute(Command.GET_ELEMENT_LOCATION)[\'value\']\r\n  File "C:\\Users\\ze0396\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py", line 633, in _execute\r\n    return self._parent.execute(command, params)\r\n  File "C:\\Users\\ze0396\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py", line 321, in execute\r\n    self.error_handler.check_response(response)\r\n  File "C:\\Users\\ze0396\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\appium\\webdriver\\errorhandler.py", line 29, in check_response\r\n    raise wde\r\n  File "C:\\Users\\ze0396\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\appium\\webdriver\\errorhandler.py", line 24, in check_response\r\n    super(MobileErrorHandler, self).check_response(response)\r\n  File "C:\\Users\\ze0396\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py", line 242, in check_response\r\n    raise exception_class(message, screen, stacktrace)\r\nselenium.common.exceptions.StaleElementReferenceException: Message: Cached elements \'By.clazz: android.widget.Button\' do not exist in DOM anymore\r\n\r\n'
+_________________________________________________________________________________________________________________
+* TestCase02.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase03.py  *       LOW      *         25         *       5         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase04.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase05.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase06.py  *      MEDIUM      *         79         *       23         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase07.py  *       LOW      *         37         *       9         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase08.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase09.py  *       LOW      *         28         *       6         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase10.py  *       LOW      *         22         *       4         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase11.py  *      MEDIUM      *         58         *       16         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase12.py  *      MEDIUM      *         76         *       22         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase13.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase14.py  *       LOW      *         28         *       6         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase15.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase16.py  *       LOW      *         34         *       8         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase17.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase18.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase19.py  *       LOW      *         19         *       3         *       False     *  None
+_________________________________________________________________________________________________________________
+* TestCase20.py  *       LOW      *         37         *       9         *       False     *  None
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         35.7
+*   Average Action per Test-case           =                         8.4
+*****************************************************************************************************************

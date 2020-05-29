@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 70bc0793-c526-4b8e-9902-6cb400203ba2with location: 66,1260 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 2794367d-cf2d-4ee2-9616-eae4626861a6with location: 198,370 with string value: Eat an orange before working out. Not only does it keep you hydrated, but it also prevents your muscles from getting sore. has been clicked
+button with id: 73fea095-54cd-498d-a340-f6385d5f0991with location: 918,87 with string value:  has been clicked
+new View has been created with view id: 3

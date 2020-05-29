@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: e6639314-89b1-4621-af1f-20aaae2db86bwith location: 624,1144 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 6d2a09ab-d023-467f-a6eb-f6abd6c73dfcwith location: 136,988 with string value: Settings has been clicked
+new View has been created with view id: 3
+button with id: de4c1a84-0050-42c3-be7d-a4e530bc8f80with location: 126,392 with string value: Change Password has been clicked
+new View has been created with view id: 4
+button with id: 5db45afe-b525-4fbd-8fc2-ee3f32cda7b1with location: 48,908 with string value: Update has been clicked
+new View has been created with view id: 5
+button with id: 4fa8ee37-5888-40da-b09d-d3768a324f30with location: 48,552 with string value: Update your Password has been clicked
+button with id: d2d966a8-be29-46d7-9c5c-2ee91d0a1cfcwith location: 48,552 with string value: Update your Password has been clicked
+button with id: 5019ee59-3590-40dd-871b-629841a3d17fwith location: 0,0 with string value:  has been clicked
+button with id: f8fdb886-a799-4654-b679-684f32a732ebwith location: 48,1170 with string value:  has been clicked

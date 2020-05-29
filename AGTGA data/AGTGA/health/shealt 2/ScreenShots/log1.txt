@@ -1,0 +1,16 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 2f73a8fd-0956-439a-849e-9c52c1a89c43with location: 84,729 with string value:  has been clicked
+button with id: 711d8062-9734-4fa3-b5dd-590826c92ddawith location: 112,1258 with string value: Distance has been clicked
+button with id: 7effc9fe-5f38-48c7-8272-6157d280288dwith location: 112,1161 with string value: Activity has been clicked
+button with id: d23e24b7-4ca5-4543-9403-e1f0e3050125with location: 112,78 with string value: Active time has been clicked
+button with id: de5fdb29-9bfd-4458-9b3c-72e4424091e8with location: 223,1161 with string value: 0 kcal has been clicked
+button with id: 150102c4-0615-45d3-abcc-bcd20b919042with location: 612,248 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: c0fcd543-6832-459a-863a-b708d5c78c2dwith location: 64,649 with string value: • 75 minutes of vigorous-intensity activity has been clicked
+button with id: 2daafd01-f65b-4825-b56a-52d7c165ad09with location: 64,692 with string value: • An equivalent combination of moderate and vigorous-intensity activity has been clicked
+button with id: 5b1ed7cc-2d38-41b6-b34c-07152c618661with location: 112,78 with string value: Information has been clicked
+button with id: c54defca-3047-4f90-ac1a-a0ebadd5c75dwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 3b0efa96-5fc4-4e94-95ee-48c640998216with location: 48,1095 with string value:  has been clicked
+button with id: 4ea87bfe-7a9d-4e55-80d4-bf0ce6367960with location: 0,48 with string value:  has been clicked

@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: de1b7ad4-2316-4a94-9313-2785a49ffd56with location: 385,208 with string value:  has been clicked
+button with id: ba0b6a57-9129-450b-832d-f2e9b79a852fwith location: 66,813 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 7beb01e2-447c-420a-a7ee-67a00772f4bawith location: 161,302 with string value:  has been clicked
+button with id: 86ef8bf9-0f25-411f-8992-4b4ef273a446with location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 5810e094-14c9-4a1e-9f9f-6559e9d4fe5bwith location: 198,370 with string value: Overcooked your bacon while making breakfast? Crumble it and add it into your scrambled eggs! has been clicked
+button with id: 6d6f7861-4cde-45e3-bacd-9f3d9346f1ccwith location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: c835b258-878c-4952-903c-d32262ef400ewith location: 190,1255 with string value:  has been clicked
+button with id: dd4f07e0-42f8-4ec5-8495-66ab6dc39a2fwith location: 12,87 with string value:  has been clicked

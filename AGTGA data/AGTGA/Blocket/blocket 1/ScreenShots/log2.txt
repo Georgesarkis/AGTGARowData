@@ -1,0 +1,37 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 8504eab3-adaa-47b2-ae45-356109091164with location: 304,453 with string value: 189 000 kr has been clicked
+new View has been created with view id: 2
+button with id: 60e24f0e-a255-4cc8-af22-17c302c96638with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 0452b8a3-b2ed-4d42-ab4c-10a32e9be668with location: 304,1055 with string value: Digital Ipteve Android TV has been clicked
+new View has been created with view id: 4
+button with id: 1ad9a43d-6d09-404e-b25a-4fbfb363aca9with location: 448,530 with string value:  has been clicked
+button with id: b307405f-5d03-4296-b3bb-22725c5dd599with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 44469d04-874e-4bd5-ae3c-2b9d2b7987a2with location: 0,48 with string value:  has been clicked
+button with id: faeae8ba-7c66-47ad-a949-2c09e349d5b3with location: 32,887 with string value: Plats has been clicked
+button with id: 0fe31e84-c581-4519-ac28-27c2a8f58d4bwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 001cce6f-2b5f-40a5-9edf-4564b38d13f3with location: 448,530 with string value:  has been clicked
+button with id: 89534371-5476-4675-810d-e51993c751bdwith location: 0,48 with string value:  has been clicked
+button with id: 0e841faf-269e-4898-b875-807e1f902590with location: 592,530 with string value:  has been clicked
+button with id: 7d573490-29c5-4bb9-a083-371acd6047a5with location: 448,530 with string value:  has been clicked
+button with id: ca7b30e8-fcb5-468a-b2d3-10dac290e36ewith location: 0,48 with string value:  has been clicked
+button with id: f47400f0-09c0-4c8e-9602-ad30a99b4438with location: 0,48 with string value:  has been clicked
+button with id: d9df91ec-5ac9-4664-ae98-b73e15cf81b6with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 5420a2ed-1b07-4ec9-8e19-8c34f7231913with location: 644,306 with string value:  has been clicked
+button with id: 276b3cce-0f69-47e6-9b76-aef2941269acwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 7d5ab9c8-c491-467c-9ecc-595df7842dc7with location: 0,48 with string value:  has been clicked
+button with id: 4af03aa3-9f83-4fde-924d-973968afa07ewith location: 448,530 with string value:  has been clicked
+button with id: 1e2676df-2401-4c06-b714-b6914da00ecawith location: 0,48 with string value:  has been clicked
+button with id: 750878f1-2dd0-471a-89a9-e7c1bd471774with location: 544,1021 with string value: Växjö has been clicked
+new View has been created with view id: 3
+button with id: b32e4819-a18c-486d-8570-0c44b37b682bwith location: 0,1152 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: e56b943a-59f6-48f4-841a-7b7d3f11c730with location: 186,707 with string value: Volkswagen Passat 2.0TDI DSG 4M R-LINE D-Värm has been clicked
+button with id: 4602190d-8635-4a05-9bda-e445a7559025with location: 186,1224 with string value: 189 000 kr has been clicked
+button with id: 6fe559a3-adaf-4f78-9f81-b2f6a82ec9c3with location: 32,1016 with string value: Skicka mejl has been clicked
+new View has been created with view id: 5

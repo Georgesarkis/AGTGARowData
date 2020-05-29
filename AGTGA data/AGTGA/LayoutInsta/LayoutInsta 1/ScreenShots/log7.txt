@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 6dd0d9c2-9c91-4005-8fcb-21cc53ceb05dwith location: 412,1 with string value:  has been clicked
+button with id: edb8275f-2a4a-45ab-a133-a1e8481ade52with location: 0,1966 with string value: GALLERY has been clicked
+button with id: 1ac47ac6-7e72-4fa4-bdc7-d1a488192aeawith location: 164,696 with string value: Instagram has been clicked
+new View has been created with view id: 6
+button with id: a23e4e34-8f91-4208-bba4-b3bfd57f40ccwith location: 348,564 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: e7cf9b73-ccd1-4361-858b-2aa93ea881eawith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 7625a6bd-cacb-4c61-91ec-f292d47f7122with location: 412,1 with string value:  has been clicked
+button with id: 44286f12-4552-4911-b074-be9341a00cb8with location: 0,1966 with string value: INSTAGRAM has been clicked
+new View has been created with view id: 9
+button with id: 89fe6948-4230-441c-a9bb-8a01175b080bwith location: 348,564 with string value:  has been clicked

@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: 1582ae20-06a8-46e6-b178-7f5cbaf2ed24with location: 492,1243 with string value: CARRYOUT has been clicked
+button with id: a0baf49e-dbb5-41a5-a927-9fd6d7b2fae4with location: 915,252 with string value:  has been clicked
+button with id: 1fc68d83-1236-4acd-967e-68472bd8c65cwith location: 338,1123 with string value: No stores found has been clicked
+button with id: 55e5ddba-6510-4856-96c6-fe96340efe15with location: 384,430 with string value: to your pizza profile to access saved contact and payment information. has been clicked
+button with id: 903b9642-9eb9-4166-b2a4-8f6c4941042dwith location: 406,109 with string value: Store List has been clicked
+new View has been created with view id: 3
+button with id: 37408e06-fe6c-4449-a6eb-2bc025dc5aa3with location: 492,1243 with string value: CARRYOUT has been clicked
+new View has been created with view id: 4
+button with id: 0b9e1505-d9d0-416f-9ae1-b93ebdc9dc90with location: 406,109 with string value: Store List has been clicked
+button with id: e07a9135-e095-46a0-8b31-94cdcd48273bwith location: 915,252 with string value:  has been clicked
+button with id: 43695ea2-2641-4be6-8edc-ddd7de814cfdwith location: 338,1123 with string value: No stores found has been clicked
+button with id: e8c71492-8f9b-489a-b568-65cf2958ee2bwith location: 57,429 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

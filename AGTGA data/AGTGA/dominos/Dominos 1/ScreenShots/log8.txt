@@ -1,0 +1,20 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 12844611-d6cd-445d-8503-eb8126484322with location: 292,1416 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: f792616b-ba1b-4bc1-92e9-152d99ea536cwith location: 105,887 with string value: Build and place the order of your dreams. has been clicked
+button with id: afa7a013-2ced-4567-b76c-66e8a9d590a2with location: 45,1420 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: a058ea5b-6a10-4cbf-a888-388d41d40da5with location: 596,871 with string value: Currently Closed has been clicked
+button with id: 3edf4f7c-9961-4d72-aa97-5967d2217208with location: 182,1554 with string value: CHOOSE THIS DOMINO'S HOTSPOT has been clicked
+button with id: 45a299f1-f156-4f51-bac4-68548abfd864with location: 936,803 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 3de9feb8-f46b-44ab-ab92-a81632c62871with location: 310,1700 with string value: Currently Open has been clicked
+button with id: 994f8c38-612f-47f8-90b6-2bec15e90c3cwith location: 596,1700 with string value: Currently Closed has been clicked
+button with id: 8212162f-89bd-404e-8102-b7aa0d3ada1awith location: 936,1650 with string value:  has been clicked
+button with id: 3e74c7cc-60c5-4579-80a1-4c9974d74138with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 5a6df7f6-1ef2-4e2f-87f1-bc17a8e76a8ewith location: 15,1611 with string value:  has been clicked
+new View has been created with view id: 5
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

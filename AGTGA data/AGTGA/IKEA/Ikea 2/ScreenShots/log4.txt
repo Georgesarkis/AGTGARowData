@@ -1,0 +1,22 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 6ec43f5b-8005-493a-84a8-3e77fecacc2fwith location: 68,1027 with string value: GALLRA has been clicked
+new View has been created with view id: 2
+button with id: dfddc3cb-25f0-4c5c-9a9d-8ad41a1a694cwith location: 32,1008 with string value:  has been clicked
+button with id: 9031eff4-0beb-4a1a-9f13-53d0431986efwith location: 16,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 58b4b246-0a36-47ac-b977-e8bcc3e97bdfwith location: 592,80 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 109c220a-6666-489e-a862-e01ba61e7667with location: 88,256 with string value: Din sök- och bläddringshistorik används bara för att göra resultaten mer relevanta has been clicked
+button with id: 758ba1b7-705e-4cdc-953e-d11ed636a510with location: 48,418 with string value: Nyligen visade has been clicked
+button with id: 3ee0908a-86ab-4b7f-b6e7-d3a6c4e748c9with location: 48,256 with string value:  has been clicked
+button with id: 4a025dfd-fbdf-44b7-911b-5375993f908cwith location: 640,505 with string value:  has been clicked
+button with id: 90c977a8-502f-4007-83e5-280828c59a23with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 1d5db5e0-b5ab-48ab-8b7f-b418836c3d44with location: 0,505 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: c5969c38-b63b-432f-8368-7764af893f20with location: 50,613 with string value: Gillar du IKEA-appen? has been clicked
+button with id: b456676f-02ac-480e-bacf-72d5f71150cdwith location: 98,543 with string value: Hej! has been clicked
+button with id: 7631a91c-a870-467d-84b2-7d59a3d42a8bwith location: 518,717 with string value: Ja! has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

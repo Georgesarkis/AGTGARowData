@@ -1,0 +1,75 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: e94899dc-18fd-4120-afd7-23f2e5882874with location: 292,1416 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 06e8cc59-d2d3-4646-944d-921a6c4db452with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: bded6944-81eb-4068-8c5e-3d5a7cacbafewith location: 1008,298 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 57c40c13-a1c9-4084-8d85-e114db31be44with location: 135,1274 with string value: Already have a Pizza Profile? has been clicked
+button with id: 76d75932-0cd8-4fda-86e9-9e1d2b045aa7with location: 897,152 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: db84d1ff-de48-4334-b3f1-88340d625776with location: 292,1416 with string value:  has been clicked
+button with id: 0ba3ab32-9d29-437a-b89d-b5c32313be8fwith location: 106,968 with string value: Meet your driver at the Domino's Hotspot by the Estimated Delivery Time to receive your order. has been clicked
+button with id: 811cb034-df9e-4f94-bffe-01eb98bd8014with location: 45,288 with string value: INTRODUCING DOMINO'S HOTSPOTS has been clicked
+button with id: 356a226e-80e2-482e-9193-618d8aa93654with location: 45,1420 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 9f839304-05f3-44da-9670-ad28faa9f97ewith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: c345b966-6550-48a8-afee-3fd758ec8235with location: 1008,298 with string value:  has been clicked
+button with id: 9774c1a0-47d4-4332-817a-eb5122fd64edwith location: 135,1112 with string value: Enroll has been clicked
+new View has been created with view id: 5
+button with id: 77ac4541-4ec4-4565-83ca-dd898bd4ad8dwith location: 348,109 with string value: Create Profile has been clicked
+new View has been created with view id: 6
+button with id: f51c1150-6774-4d6c-bf4e-c0138bf19c86with location: 48,1602 with string value: Yes. I would like to receive email offers from Domino's Pizza. has been clicked
+new View has been created with view id: 7
+button with id: 0eb8e747-9e26-44cd-9e98-4bd6dad0208cwith location: 348,109 with string value: Create Profile has been clicked
+button with id: 2eabef64-cb5d-483c-9615-c63bcb257da8with location: 48,1775 with string value: Create Profile has been clicked
+new View has been created with view id: 8
+button with id: 8b7e0e92-a3c0-4b2f-bd99-27ba7ed637f1with location: 75,794 with string value: Phone Number must be 10 digits. 
+Invalid email address. 
+Passwords do not match.
+ has been clicked
+button with id: bec77d02-4cfd-4a35-93b9-5eea6dee44d4with location: 75,1108 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 9
+button with id: bf4da7f6-b93b-40d1-9eec-2b6a1072d1dcwith location: 933,934 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: c4e4255d-15b0-4f5e-8846-4e55375a5248with location: 48,1208 with string value: Earn points toward FREE PIZZA on every qualifying order of $10 or more.* has been clicked
+new View has been created with view id: 11
+button with id: 589929f9-d97e-454e-8c4b-8ad9d2e7e39cwith location: 48,1775 with string value: Create Profile has been clicked
+button with id: cfc1dee3-ae73-43bd-be45-a77772ebdebdwith location: 270,648 with string value: Heads Up! has been clicked
+button with id: e6d294f9-fb4d-4c31-bc6e-04a42051a315with location: 123,630 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: faa01ba6-71f4-4ace-94b4-ffacc59d4ab0with location: 138,1122 with string value: Enroll in Piece of the Pie Rewards® has been clicked
+new View has been created with view id: 10
+button with id: 2573c3b0-36db-47ad-98fb-ff9dc4b8883bwith location: 48,1775 with string value: Create Profile has been clicked
+new View has been created with view id: 9
+button with id: 35234188-41fc-4c2f-a964-3732c25b77d0with location: 933,813 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: 4fe60f70-2f46-4c11-aa08-c4c2550f2b68with location: 48,1443 with string value: *limit one per calendar day has been clicked
+new View has been created with view id: 11
+button with id: cd64e889-5650-469f-8c35-d68334393e23with location: 348,109 with string value: Create Profile has been clicked
+new View has been created with view id: 12
+button with id: 3f666658-1e85-49f8-b66b-3d2e91786825with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: 9badbfe5-10a5-4597-a60e-3f8df08b010dwith location: 481,1051 with string value: DELIVERY has been clicked
+button with id: 92ab1763-44cf-40a5-a186-2bf1312221eawith location: 957,775 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 70bea91f-3d41-4e18-8b5e-e7cddb3c5d3ewith location: 390,966 with string value: Select a State - Required has been clicked
+new View has been created with view id: 4
+button with id: cb0af33d-842e-4d1b-9e11-8e599a3fc7b9with location: 390,1239 with string value: ARIZONA has been clicked
+new View has been created with view id: 5
+button with id: e9e7fff3-9624-4e0f-8686-9dac441f4d06with location: 330,1560 with string value: CONTINUE has been clicked
+new View has been created with view id: 6
+new View has been created with view id: 7
+button with id: 42970e28-15de-4d6e-83dc-f4fe8783ac41with location: 75,795 with string value: We're sorry, there was a problem communicating with the store. Please call your store to place your order. has been clicked
+new View has been created with view id: 8
+button with id: b0db91ea-8ad1-4563-986c-0f36f422602awith location: 75,1107 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 9
+button with id: 71210233-c892-4aa0-a69e-9c068e355298with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: a98030e0-f4ce-4fd8-95fb-be4c2eebd872with location: 492,1243 with string value: CARRYOUT has been clicked
+new View has been created with view id: 11
+button with id: 52810a78-69e2-41e0-9d1a-8ce4f670b236with location: 406,109 with string value: Store List has been clicked
+button with id: 75669223-d57e-4fc9-86a5-11a6cde55084with location: 57,429 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

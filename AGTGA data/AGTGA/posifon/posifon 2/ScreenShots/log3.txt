@@ -1,0 +1,30 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: 2d1a38c6-b56f-41b7-a09c-251cfaa390a5with location: 165,536 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: cd01801c-87ba-4386-b17e-e2bcbc3fec8dwith location: 936,84 with string value:  has been clicked
+button with id: 494e3e40-aefb-4e36-96aa-a477903179dbwith location: 165,1193 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 67eaba9e-d41e-414e-aaf4-46511824af54with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: ec98a659-56fd-498d-8469-2f5c931a305bwith location: 48,366 with string value: Demo 4 has been clicked
+button with id: 3c78fbf0-1097-48e2-a1fd-45e9668bb1f9with location: 405,920 with string value:  has been clicked
+button with id: 8974d840-bfce-4e0a-8bf9-7f3a2d0e1c57with location: 200,283 with string value: PROFIL has been clicked
+button with id: 26d5baf1-c297-4e4d-b171-2ee87a134ffbwith location: 924,414 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: c76fdd24-be98-4da0-81b6-1a33ee747d08with location: 731,283 with string value: KARTVY has been clicked
+button with id: fee4f3e8-c188-4721-af47-5a0986cf38cdwith location: 15,1695 with string value:  has been clicked
+button with id: 0933f1fe-9b45-4ce8-9241-9bdd39b58113with location: 398,96 with string value:  has been clicked
+button with id: 0ab347f0-62f1-40f4-88e9-035a1b713681with location: 0,1280 with string value: Laddar... has been clicked
+button with id: d336c682-05a2-46f6-8735-48e567ff998cwith location: 39,1524 with string value: - has been clicked
+button with id: f2446884-26c3-4c90-a0e2-bcc77eae3704with location: 405,920 with string value:  has been clicked
+button with id: 73a5ea2d-81a9-4c30-bc52-3a4562828eabwith location: 731,283 with string value: KARTVY has been clicked
+button with id: 7798d637-3c2f-4dcd-ac90-8b704d2bad31with location: 0,72 with string value:  has been clicked
+button with id: dac22d03-0c63-4a7e-a21b-e31ac4d4344bwith location: 0,72 with string value:  has been clicked
+button with id: a5866312-e6c7-4ec4-99df-56188670cfb1with location: 48,1101 with string value: Logga ut has been clicked
+new View has been created with view id: 9
+EditView with id: 869cb9b5-6d99-4857-aa66-c4190e4d2018 has been clicked and filled with string: demo4@konto.se
+EditView with id: 869cb9b5-6d99-4857-aa66-c4190e4d2018 has been clicked and filled with string: Sommar2018
+button with id: 83e2e401-6f46-4742-9d2f-3d5d39d5bb09with location: 216,1479 with string value: LOGGA IN has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

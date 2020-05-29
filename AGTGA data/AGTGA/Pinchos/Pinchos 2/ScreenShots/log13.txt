@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 13b9e565-7b5d-41e1-b15d-890fc1f4e584with location: 48,382 with string value: LILLA TORGET 3 has been clicked
+new View has been created with view id: 2
+button with id: f970d5e4-a6fb-4f8a-ae10-cdd7ba4b352cwith location: 972,72 with string value:  has been clicked
+button with id: 10c5af45-862a-4785-bf55-aa7a902de6b6with location: 0,1433 with string value: MESSAGES has been clicked
+button with id: 36f73446-e714-4b69-9a64-8a740d78bf84with location: 0,1624 with string value: You have no messages has been clicked
+new View has been created with view id: 8
+button with id: 4e365d35-48de-4a90-ae70-a67db8f5d0adwith location: 972,72 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

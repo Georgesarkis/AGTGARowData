@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: be0f372b-089d-40d9-b68e-06d0d21c6073with location: 656,264 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: b06cd787-9ba5-4cca-a69e-5f79c8bfd237with location: 608,1116 with string value:  has been clicked
+button with id: b257aa32-ea50-4b32-9774-1ef623a9ea8ewith location: 197,1200 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 1c160e67-6dd1-41d8-96d8-c762f753176ewith location: 592,56 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 0b095a83-be7a-466d-bea3-328ef04e2250with location: 32,64 with string value:  has been clicked
+button with id: 05964bda-3847-4f07-9c00-76a796cf8ca0with location: 360,208 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 22a3833c-b9a7-438d-a7e7-49e942114cc6with location: 390,717 with string value: Nej has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

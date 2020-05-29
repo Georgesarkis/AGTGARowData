@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 830dcc24-9de6-48e8-b7d7-3059148a91b2with location: 169,1036 with string value: 0% has been clicked
+new View has been created with view id: 2
+button with id: 754fd5a7-822b-4457-8afc-0333a1dc9b03with location: 181,774 with string value: The "Probability of Precipitation" (PoP) describes the chance of precipitation occurring at any point in the selected locale. has been clicked
+Exception aquired with message: Message: A session is either terminated or not started
+

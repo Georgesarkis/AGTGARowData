@@ -1,0 +1,31 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: 96cf9017-167f-4f9b-90db-9e196b41ccb1with location: 552,510 with string value: Visa alla has been clicked
+new View has been created with view id: 2
+button with id: 3d707410-df9f-4b34-bfba-a6791d97a518with location: 32,859 with string value: Senare idag has been clicked
+button with id: bb3374b3-daa4-429f-9ecb-f1f1c7558d21with location: 161,557 with string value: Live has been clicked
+new View has been created with view id: 3
+button with id: eccd7cfb-7864-4a89-a938-0ead5417ce8dwith location: 230,769 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 1551e2a4-c083-433f-8dd0-4dadaa3e8a9awith location: 417,1161 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 942203f3-3d59-4474-88e5-37d9f72347d4with location: 276,1057 with string value: Nya regler inför Oscarsgalan 2021 has been clicked
+new View has been created with view id: 6
+button with id: 77abdd6c-e1c1-4aad-9734-0f2947a705f4with location: 32,437 with string value: Nya regler inför Oscarsgalan 2021 has been clicked
+new View has been created with view id: 7
+button with id: 69810464-4014-4ac3-a605-c7e24bb561ddwith location: 32,437 with string value: Nya regler inför Oscarsgalan 2021 has been clicked
+new View has been created with view id: 8
+button with id: 611066b1-583d-4990-81e3-b5a86c662531with location: 0,928 with string value: Senaste klippen has been clicked
+new View has been created with view id: 9
+button with id: 10272952-b93e-4900-a6b7-63369dd498b4with location: 217,490 with string value: 3 min has been clicked
+new View has been created with view id: 10
+button with id: c12fe167-469c-42b0-a1ed-9f55e248ffdbwith location: 508,845 with string value: Klipp has been clicked
+new View has been created with view id: 11
+button with id: 163144ea-42b1-46d6-8ed9-5ad1b547375bwith location: 16,1206 with string value:  has been clicked
+new View has been created with view id: 12
+button with id: 0821ad51-532a-4b25-ba2b-9a4d6483e9eewith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: a9b6f99b-83f4-49e1-847a-13cf3b4a7988with location: 16,1252 with string value:  has been clicked
+new View has been created with view id: 14
+button with id: 3400fa8c-4cdc-4473-8b91-fb2fd8537c9bwith location: 417,1207 with string value:  has been clicked
+new View has been created with view id: 15

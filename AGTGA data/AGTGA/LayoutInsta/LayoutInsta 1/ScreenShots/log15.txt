@@ -1,0 +1,23 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 36c00cb9-94de-401d-9b8c-ddf22fbfd4b0with location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: 41f7900d-d34a-4fb6-8ebd-54d69f70221ewith location: 901,1900 with string value: 2 has been clicked
+button with id: 5de38461-f1a6-4d02-96e9-02bd01d1811bwith location: 0,1966 with string value: GALLERY has been clicked
+button with id: 53ef4543-e732-4a5b-8e90-359664baf7d4with location: 412,1 with string value:  has been clicked
+button with id: 8befbae5-531d-47af-9f8a-81f06b1bc012with location: 960,2006 with string value: 2148 has been clicked
+button with id: 11620973-a2af-4e0e-bd76-aaae16f49876with location: 164,3036 with string value: H&M Images has been clicked
+button with id: 72fad72a-5ca8-4de2-89ad-dbae3020ed5fwith location: 720,1966 with string value: RECENTS has been clicked
+button with id: c16328af-2329-4ceb-9140-acc08f7c19e8with location: 164,3298 with string value: Messages has been clicked
+button with id: 86c2734e-b99b-4b6c-8e83-a81411315c97with location: 0,2871 with string value:  has been clicked
+button with id: 74505a85-231e-44b2-957c-7f9c3907a960with location: 1024,3691 with string value: 3 has been clicked
+button with id: e6334336-d67e-4dad-86a6-f12c74d2e48dwith location: 1028,3298 with string value: 1 has been clicked
+button with id: 0729a20c-1874-42d6-8fcc-4f2eba1d43d1with location: 981,3560 with string value: 168 has been clicked
+button with id: d9d0fc8c-b97d-4e51-b341-98b4c7d865e0with location: 164,3167 with string value: Imagine Dragons - Origins (Deluxe) (320) has been clicked
+button with id: ac88d29f-ae26-4f87-b1c8-ea87cedf5a62with location: 1028,3167 with string value: 1 has been clicked
+button with id: 7a5280cd-0796-4002-b887-710860de12a7with location: 1028,3953 with string value: 1 has been clicked
+button with id: 0d86f70a-b83f-444d-abcb-baba9b99b6e4with location: 164,3822 with string value: Viber Images has been clicked
+button with id: 3710c46a-48d4-493f-ab7f-115b7ed71377with location: 164,3560 with string value: Screenshots has been clicked
+button with id: 0b485179-a232-44f8-a7fa-266ba0e51e6fwith location: 360,1966 with string value: FACES has been clicked
+button with id: 1a4f49a6-dd6d-47a7-b62e-bba7afe81355with location: 956,2643 with string value: 2845 has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

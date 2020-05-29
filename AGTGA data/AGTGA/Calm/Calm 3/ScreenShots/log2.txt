@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: 635c9c31-77cc-4072-a5d9-86a780798b40with location: 480,1184 with string value:  has been clicked
+button with id: f907f453-b9e4-4dd2-9358-758fc0dcb726with location: 408,528 with string value: 5 Seconds of Summer: C A L M has been clicked
+new View has been created with view id: 3
+button with id: dce6ac8a-b9b0-411b-9755-b77106420059with location: 141,1239 with string value: Old Me (Calm Remix) has been clicked
+new View has been created with view id: 4
+button with id: d834f80b-1d48-4cbd-94d8-9a9e895360e9with location: 184,1237 with string value: Sleep has been clicked
+button with id: b4b1b12f-e994-4c7a-adce-59bf437c65b3with location: 0,80 with string value: Soothing bedtime stories to help you fall into a deep and natural sleep. has been clicked
+button with id: f3159495-490d-4628-b93e-326fdf80ca5bwith location: 278,795 with string value: Eva Green has been clicked
+new View has been created with view id: 4

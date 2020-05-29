@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 4ca7d6c5-d2ce-40c7-8ab8-d3e4d842e953with location: 0,61 with string value:  has been clicked
+button with id: 343097ba-021c-44db-9ffd-b80af631ee9ewith location: 41,803 with string value: Remove ads has been clicked
+new View has been created with view id: 3
+button with id: 21ab1183-cdfe-4e60-9fc1-8841a836d159with location: 243,800 with string value:  has been clicked
+button with id: 65dd42be-59fa-48f2-8df9-3a012de55eecwith location: 727,1266 with string value: $1.99 has been clicked
+new View has been created with view id: 4

@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 2e5e0462-69fe-436a-adeb-ecb9ef33ffc2with location: 984,886 with string value:  has been clicked
+button with id: 7c115cd4-d72b-476a-bbc7-84fb4d6fc69awith location: 120,283 with string value: HOME has been clicked
+button with id: ed7e404d-4587-4922-afd0-973e2e3b543ewith location: 216,74 with string value: GÖTEBORG GÖTABERGSGATAN has been clicked
+button with id: 31e05aa4-1b1a-48de-9a55-daf79120902fwith location: 467,283 with string value: DRINKS has been clicked
+new View has been created with view id: 7
+button with id: c2e054f5-8a52-4628-9553-9f5b812b89aawith location: 972,72 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: c83239a7-8192-4cca-a1e3-9abf8c9f28b2with location: 0,1624 with string value: You have no messages has been clicked
+button with id: 0d668040-6478-47ca-a9ac-29544d64e8d1with location: 0,1433 with string value: MESSAGES has been clicked
+button with id: 58efd391-e376-47d3-8524-ee1aebb8a4b5with location: 936,1462 with string value:  has been clicked
+button with id: 2b73309a-b40c-4a50-bbd5-b0aed1497deawith location: 0,72 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

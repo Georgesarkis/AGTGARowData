@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: f8e22e46-cb21-40be-8232-b404640523b5with location: 224,939 with string value: Daily Calm has been clicked
+new View has been created with view id: 2
+button with id: b5ec3685-e332-4b42-9fce-56e4a2be0879with location: 32,1047 with string value: CONTINUE has been clicked
+new View has been created with view id: 3

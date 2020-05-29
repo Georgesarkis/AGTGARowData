@@ -1,0 +1,34 @@
+________________________________________________________________________________________
+First Iteration 30 min
+________________________________________________________________________________________
+
+// meminfo status was 0
+** Monkey aborted due to error.
+Events injected: 64240
+:Sending rotation degree=0, persist=false
+:Dropped: keys=15 pointers=14 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=681253ms (0ms mobile, 0ms wifi, 681253ms not connected)
+** System appears to have crashed at event 64240 of 200000 using seed 1588808877245
+False
+_______________________________________________________________________________________
+Secound Iteration 30 min
+________________________________________________________________________________________
+
+// meminfo status was 0
+** Monkey aborted due to error.
+Events injected: 104055
+:Sending rotation degree=0, persist=false
+:Dropped: keys=15 pointers=74 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1018081ms (0ms mobile, 0ms wifi, 1018081ms not connected)
+** System appears to have crashed at event 104055 of 200000 using seed 1588949615920
+False
+________________________________________________________________________________________
+Third Iteration 30 min
+________________________________________________________________________________________
+
+// meminfo status was 0
+:Dropped: keys=10 pointers=4 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=630843ms (0ms mobile, 0ms wifi, 630843ms not connected)
+** System appears to have crashed at event 40671 of 200000 using seed 1588921680627
+FALSE
+________________________________________________________________________________________

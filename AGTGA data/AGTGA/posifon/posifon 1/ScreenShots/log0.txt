@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+EditView with id: ebff1a47-a373-49f6-8e42-c6c0869a7cde has been clicked and filled with string: demo4@konto.se
+EditView with id: ebff1a47-a373-49f6-8e42-c6c0869a7cde has been clicked and filled with string: Sommar2018
+button with id: 34f36c26-8325-48c2-8d1a-7a8cb99c86adwith location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: 2bae3cbb-bdb3-43fd-a884-a51042d15fe8with location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy. Proxy error: Could not proxy command to remote server. Original error: Error: socket hang up
+

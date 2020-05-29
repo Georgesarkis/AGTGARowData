@@ -1,0 +1,53 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: ff9a4417-2583-46f3-9317-d628a589f929with location: 144,1632 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: e52f9f71-befc-49cf-a884-28e6a4485746with location: 131,1707 with string value: Today has been clicked
+new View has been created with view id: 3
+button with id: 5b434e95-10e1-408d-9929-afe5f8e67fe7with location: 263,117 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 441b70f4-fa1f-487c-b0cf-b1994eef9f20with location: 144,1632 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 0c10bcde-3b4b-4d9d-bf91-7dbaa5ba5005with location: 830,1707 with string value: Sections has been clicked
+new View has been created with view id: 6
+button with id: 79c80a93-f07d-46c0-b972-473b120beecawith location: 217,776 with string value: U.S. has been clicked
+new View has been created with view id: 7
+button with id: 7bacbcc9-4b11-4e1b-a2e6-288066207d32with location: 0,72 with string value:  has been clicked
+button with id: 14f44ee8-bfe8-41b4-9c61-c9fa9a57109bwith location: 108,758 with string value: We use cookies and similar technologies to recognize your repeat visits and preferences, as well as to measure the effectiveness of campaigns and analyze traffic. To learn more about these technologies, including how to disable them, view our Cookie Policy. has been clicked
+button with id: e0c80ada-dd6e-4943-8f0f-ba9687a56ce4with location: 108,652 with string value: Control Your Data has been clicked
+button with id: f641df64-eb9e-46ce-9efd-bd79ad524a19with location: 960,84 with string value:  has been clicked
+button with id: 210f0a32-33fa-4424-9713-6924fa7fd536with location: 0,270 with string value:  has been clicked
+button with id: 0b93f964-cc41-426e-a447-14fcbc4b110dwith location: 108,1311 with string value: By tapping Accept, you consent to the use of these technologies unless you have disabled them. has been clicked
+button with id: 462128bd-693e-4765-966d-c125dd67fef5with location: 48,1166 with string value: Married to an Undocumented Immigrant? You May Not Get a Stimulus Check. has been clicked
+button with id: ab36611e-33c1-4f11-9468-ab42bb183487with location: 108,1560 with string value: Accept has been clicked
+new View has been created with view id: 8
+button with id: 49f41411-9777-4863-b66f-356ead78fd2ewith location: 0,72 with string value:  has been clicked
+button with id: 04fcc376-a9ad-4e72-a440-0634fee832b8with location: 217,1352 with string value: Sports has been clicked
+new View has been created with view id: 7
+button with id: dcc52877-36df-4964-884b-2983d9e9f0abwith location: 48,1123 with string value: Some Sports May Have to Skip This Year, Fauci Says has been clicked
+new View has been created with view id: 8
+button with id: 5b4958a8-aaa8-41aa-bed9-106752bd652ewith location: 96,1025 with string value: See My Options has been clicked
+new View has been created with view id: 9
+button with id: 9327d7fc-f485-470c-8743-a82923dfa3abwith location: 45,1196 with string value:  has been clicked
+button with id: 999103bd-887f-42df-9ec1-4b8d5eee16e0with location: 45,1621 with string value: No commitment required, cancel anytime.
+
+Payment for your subscription will be automatically charged to your Google Play account upon confirmation. Subscriptions renew automatically 24-hours prior to the start of the next billing period. Billing occurs every calendar month for a monthly subscription or once-yearly for an annual subscription. Subscriptions continue to renew automatically until cancelled. You can manage and cancel subscriptions using the Google Play Subscription Center.
+
+For offers that include a one-week free trial: If you cancel before the end of the free trial you will not be charged. After the free introductory period you will automatically become a paying subscriber. If you choose to upgrade or downgrade during the free trial period you will forfeit the remainder of the free trial.
+
+Other restrictions may apply. Offers and pricing are subject to change without notice.
+
+Privacy Policy | Terms of Service has been clicked
+button with id: a7e431d1-5ef6-482b-8911-4a371b43c104with location: 45,973 with string value:  has been clicked
+button with id: 0c8e46a2-b06a-4e4a-911c-5da59a5e9ed1with location: 45,318 with string value: Your subscription helps support our journalists as they seek the truth and help people understand the world. You can cancel anytime. has been clicked
+button with id: 49132cce-68e2-4372-aece-ad5ad264a26bwith location: 0,582 with string value: Basic has been clicked
+button with id: 58b9ddee-e72b-49bc-a752-ae20f8d54884with location: 902,123 with string value: LOG IN has been clicked
+new View has been created with view id: 10
+button with id: 71b29ee5-4841-475e-a006-5284362b0531with location: 0,72 with string value:  has been clicked
+button with id: 5d7b993c-117f-4463-860d-c4bb4f734aeewith location: 45,1419 with string value:  has been clicked
+button with id: be0e5fe2-89cf-43cf-8f67-8f0f785eabd9with location: 108,1410 with string value: One bonus subscription to share with anyone you'd like	 has been clicked
+button with id: 7a269e11-4761-4d4f-b929-bf4180ec13d1with location: 48,124 with string value:  has been clicked
+button with id: 7ed2e66e-c290-4328-9dc0-b82dca354aebwith location: 960,84 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: e67fad0c-7c20-4cd9-9dd1-1ed26c247e00with location: 493,699 with string value: Send App Feedback has been clicked
+new View has been created with view id: 10

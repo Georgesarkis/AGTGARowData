@@ -1,0 +1,32 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 40c40cf6-49f7-4d8c-8791-7427543d6524with location: 131,1707 with string value: Today has been clicked
+button with id: f1a4850d-8efc-43c6-96c8-5ad63319babewith location: 48,282 with string value: Spiking Death Rates Suggest Pandemic Toll Is Undercounted has been clicked
+new View has been created with view id: 3
+button with id: 8cd7cb7a-de06-4a69-8589-9494689b7f79with location: 60,939 with string value: A mall operator plans to reopen shopping centers, government officials debate whether some pro sports could resume, and schools balk at spring reopenings. has been clicked
+new View has been created with view id: 4
+button with id: 0842da50-d53b-447a-b357-66a997d71c17with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b5a6d019-ffef-4ab0-9368-932b733d7274with location: 478,1707 with string value: For You has been clicked
+new View has been created with view id: 6
+button with id: 89c515bd-790e-4650-a800-a766099dbf86with location: 72,1560 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: a43838f7-9ff8-4b2c-984a-14b547430cf3with location: 0,606 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: b9cf41d1-467a-4d4f-91c0-e50fad42c45awith location: 0,72 with string value:  has been clicked
+button with id: 93c4ccaf-3391-4a0c-a548-3d48df22180awith location: 0,72 with string value:  has been clicked
+button with id: 7e929d09-910b-4903-ba52-75151d7fdd62with location: 478,1707 with string value: For You has been clicked
+button with id: 4e51320a-5c69-4e9c-ae28-a53d0ceaa5eawith location: 936,84 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 0598cec2-d397-43c8-9930-8287d78cdde6with location: 48,696 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 2d9e8f5d-160f-41da-bbe1-8ec9ccaedaadwith location: 114,1192 with string value: Market-moving news and features. has been clicked
+button with id: b3cb8743-f075-4a92-83a5-3c5f1375cf6awith location: 0,72 with string value:  has been clicked
+button with id: a1992a93-01da-4fc8-905e-5a1cbdbf051fwith location: 48,857 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 985b53fa-6966-44ae-8008-85236cea70f3with location: 147,533 with string value: Text Size has been clicked
+button with id: 49becccf-ba8f-4bfd-8445-f7300ece0d19with location: 75,912 with string value: Large has been clicked
+button with id: 93ee076f-d2bd-46f7-9ed0-bfb0a7c8c8f0with location: 75,1200 with string value: Jumbo has been clicked
+button with id: 04e296f6-8f14-4ab6-87c2-ce3324001f92with location: 75,624 with string value: Small has been clicked
+button with id: 91a7ed88-3519-4f0f-9e08-c665ad9ed575with location: 75,1056 with string value: Extra Large has been clicked
+button with id: eb256ad5-3151-4795-9e77-f8f75c927372with location: 75,768 with string value: Medium has been clicked

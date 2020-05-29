@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 7bff53d4-7acc-429a-afbd-3d55d329b695with location: 576,408 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 4131ea49-d1b3-4af8-9f01-11d802c4380bwith location: 576,408 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 238e712f-d469-4799-b8cd-3862fd1d86c0with location: 243,518 with string value: Logga in först! has been clicked
+button with id: 8e030623-f1db-45bf-91e4-f1c0294b6327with location: 72,231 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: df3cdbb1-e902-4109-ba22-0a98f431f523with location: 608,500 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: d5063da0-7edd-4651-8bf4-c915d4d1e543with location: 489,801 with string value: STÄNG has been clicked
+button with id: 4db2c5aa-79b4-4d7a-9d49-cc4320168793with location: 500,816 with string value:  has been clicked
+new View has been created with view id: 5

@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: eccae186-e301-4422-8501-c02d3bddc2e6with location: 184,1197 with string value: Sleep has been clicked
+button with id: fe59f52f-523d-4a10-a8c9-8434eec2c5b3with location: 336,1144 with string value:  has been clicked
+button with id: cd918ff3-83d6-4efe-b899-c6b38879105fwith location: 645,143 with string value: Beginners has been clicked
+new View has been created with view id: 6
+button with id: 42247dd4-957a-420c-b1ec-4311a0eaece5with location: 192,1144 with string value:  has been clicked
+button with id: 70240881-9a44-476a-acb9-0ac65b48fa09with location: 32,772 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 1ca43dfe-7aac-4404-bbf4-5c6cbd936764with location: 32,1108 with string value: CONTINUE has been clicked
+new View has been created with view id: 8

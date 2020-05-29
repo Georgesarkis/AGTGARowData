@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 95aac702-8527-4d28-8af4-db441f95c9f9with location: 48,649 with string value: VASAGATAN 43B has been clicked
+new View has been created with view id: 2
+button with id: db57c998-d7ae-4f35-bdcc-7761b09f5a5ewith location: 0,72 with string value:  has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

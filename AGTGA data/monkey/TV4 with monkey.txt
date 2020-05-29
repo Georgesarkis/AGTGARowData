@@ -1,0 +1,48 @@
+________________________________________________________________________________________
+First Iteration 30 min
+________________________________________________________________________________________
+** Monkey aborted due to error.
+Events injected: 99836
+:Sending rotation degree=0, persist=false
+:Dropped: keys=12 pointers=50 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=433297ms (0ms mobile, 0ms wifi, 433297ms not connected)
+** System appears to have crashed at event 99836 of 200000 using seed 1588817310437
+True
+
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=17 pointers=27 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=795719ms (0ms mobile, 0ms wifi, 795719ms not connected)
+// Monkey finished
+
+________________________________________________________________________________________
+Secound Iteration 30 min
+________________________________________________________________________________________
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=12 pointers=55 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=893466ms (0ms mobile, 0ms wifi, 893466ms not connected)
+// Monkey finished
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=12 pointers=55 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=893466ms (0ms mobile, 0ms wifi, 693466ms not connected)
+// Monkey finished
+
+________________________________________________________________________________________
+Third Iteration 30 min
+________________________________________________________________________________________
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=19 pointers=43 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=834514ms (0ms mobile, 0ms wifi, 834514ms not connected)
+// Monkey finished
+** Monkey aborted due to error.
+Events injected: 125061
+:Sending rotation degree=0, persist=false
+:Dropped: keys=11 pointers=34 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=542472ms (0ms mobile, 0ms wifi, 542472ms not connected)
+** System appears to have crashed at event 125061 of 200000 using seed 1588713975340
+
+
+________________________________________________________________________________________

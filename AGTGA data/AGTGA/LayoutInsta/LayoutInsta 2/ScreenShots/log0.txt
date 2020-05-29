@@ -1,0 +1,16 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 6ec451c0-d7f0-401b-8b60-479e83058bfcwith location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 2
+button with id: 4de6c4c8-41ed-40ef-928c-c0e73d32397cwith location: 412,1 with string value:  has been clicked
+button with id: 58bca957-5ffa-4c36-b485-123c4359cf61with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 3
+button with id: 408fb2f8-b9c3-48cc-aef3-0102ee092e34with location: 412,1 with string value:  has been clicked
+button with id: c81b1dc7-388c-41f7-add6-abb779e8fb99with location: 360,1966 with string value: FACES has been clicked
+button with id: 47a04f4f-14b8-4533-b275-bdc8940313f8with location: 720,1966 with string value: RECENTS has been clicked
+button with id: 0f12afc2-861d-4281-bf95-7b217cec7282with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+button with id: 2698f75c-22cd-49fb-8361-390adca95153with location: 412,1 with string value:  has been clicked
+button with id: e3040644-5349-4bd3-9b8c-6811359dba01with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 1
+button with id: d044af87-296e-446b-bc88-6729d95e6475with location: 720,1966 with string value: RECENTS has been clicked
+button with id: 2233e34a-677e-493e-a062-0fde6e759f46with location: 720,1966 with string value: RECENTS has been clicked

@@ -1,0 +1,39 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 160db737-f8e7-4166-a329-dfbf05a242e5with location: 412,1 with string value:  has been clicked
+button with id: f3b57314-5970-4f59-96a5-c12481791809with location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: d4f214d2-ec2a-40db-844b-836fd357d0a5with location: 720,1966 with string value: RECENTS has been clicked
+button with id: c8bfa528-bcd1-4358-aaa0-114ca223f935with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+button with id: d08f0418-c69d-40fc-927b-464a51aa5141with location: 412,1 with string value:  has been clicked
+button with id: 0dc28f56-a591-4d29-ab05-c8d4dff5ec25with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 4
+button with id: 5f2d3ba6-f654-459d-9537-79ee49dbdcd7with location: 424,559 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 5
+button with id: 54c93d3e-4d30-4239-a116-d784f20f5e8dwith location: 901,1900 with string value: 2 has been clicked
+new View has been created with view id: 6
+button with id: 5fcdefbd-dece-42de-aa80-ad656cc357d4with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 788c89a8-1a1a-48cd-af97-c7725ff33157with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 8
+button with id: bdf52ba1-e70e-4cc4-b984-822debfb36ebwith location: 348,564 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 90056773-4746-4d38-8f7c-52374bc057bcwith location: 360,1966 with string value: FACES has been clicked
+button with id: e5284ebd-dd48-40e4-a63d-394a4cb8568bwith location: 0,1966 with string value: GALLERY has been clicked
+new View has been created with view id: 11
+button with id: 9f450b9e-3f9c-4bd1-8329-56953f830531with location: 424,559 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 12
+button with id: 3eaeacf1-1b69-4a23-a354-2fe71e783ca9with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 13
+button with id: 42de2a3d-5393-4cc4-ac9c-629e66e77a9fwith location: 156,0 with string value: CHOOSE LAYOUT has been clicked
+new View has been created with view id: 14
+button with id: 70c4d62c-9ca3-4834-ae85-4714ae8a26cawith location: 348,564 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: e5bfdb76-b7a8-4049-b375-2149bb2c64d1with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 16
+button with id: 4d849413-ca1f-40ac-8140-0c9e1c3fe841with location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 17
+button with id: cc686fae-3da3-4671-933a-8312217d6b31with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 18
+button with id: fdeec0e2-e873-45a8-8262-4cf558e56279with location: 412,1 with string value:  has been clicked
+button with id: 09c1b9aa-46ef-46ac-927f-1f25efc456f5with location: 720,1966 with string value: RECENTS has been clicked
+button with id: baa889a9-53ed-4048-9919-7f725a5f101ewith location: 360,1966 with string value: FACES has been clicked

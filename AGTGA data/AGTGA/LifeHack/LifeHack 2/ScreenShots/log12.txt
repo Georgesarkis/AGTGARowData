@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: eade36d0-a950-4b72-a901-999c2fc9825cwith location: 66,813 with string value:  has been clicked
+button with id: 09ea6e32-d377-48d2-adc1-38944aa7edb2with location: 198,370 with string value: Buying ice cream? Press on the top of the container, if it's solid it has been properly stored, if it depresses it has thawed and refrozen. has been clicked
+button with id: 2b830acd-3e47-4a8f-8276-06e23651f77cwith location: 161,302 with string value:  has been clicked
+button with id: 6cb29ff3-9d6a-49f9-8ea5-4e4bfdcb6f21with location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 90eaf347-e89e-49a7-8d95-7ea8da683d5dwith location: 12,87 with string value:  has been clicked

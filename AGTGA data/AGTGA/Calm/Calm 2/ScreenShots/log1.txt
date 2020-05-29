@@ -1,0 +1,32 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: 91d60d52-99bb-4b1b-af4d-f302fce5f2dawith location: 96,835 with string value: Good morning, sakogeorge has been clicked
+new View has been created with view id: 2
+button with id: f0bd8a78-e108-4533-b21a-e4a724d702e0with location: 24,1233 with string value: For You has been clicked
+button with id: 71f79067-f57a-4835-a5b3-5b83554d0174with location: 472,1237 with string value: Music has been clicked
+new View has been created with view id: 3
+button with id: d12cf91c-a45b-4dc9-9fcb-0f5dbe14bfaewith location: 408,1218 with string value: Lo-Fi Beats has been clicked
+button with id: 1c335b87-e3ad-4fd2-bdab-6ef2a011e373with location: 480,1180 with string value:  has been clicked
+button with id: fd102362-451f-415c-8055-283affeb595fwith location: 32,240 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 0e63c4e7-39a9-4c33-a932-468410f24343with location: 192,1184 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 274b300e-e707-43f2-827e-9bda354c9e5fwith location: 0,80 with string value: Soothing bedtime stories to help you fall into a deep and natural sleep. has been clicked
+button with id: 09e8a51b-8f24-46d3-b2a9-b157536db985with location: 480,1184 with string value:  has been clicked
+button with id: c8fcd0bc-13d8-4c32-8a9f-20268252478fwith location: 624,1184 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 5f978221-6e01-4e03-8966-85001055d66ewith location: 670,875 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: c0224eeb-b91a-4dd0-b264-a7d23b69ce73with location: 48,968 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 54912903-2e1a-4f7f-ac37-449e1fb7d61dwith location: 0,0 with string value:  has been clicked
+button with id: 87141d1e-2f29-4a73-a8f1-386a0a48dd39with location: 310,1237 with string value: Meditate has been clicked
+new View has been created with view id: 7
+button with id: d169a457-4282-4667-829d-e43ad55b7791with location: 32,448 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 38246aef-a564-4bd2-b0fd-9a3a21bb3c51with location: 48,1184 with string value:  has been clicked
+button with id: 33534b4b-2f46-458e-82f8-b4e95d8b78a6with location: 184,1237 with string value: Sleep has been clicked
+button with id: 00ba05b6-5019-4b78-ae4c-d05a104f1abawith location: 0,329 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: a2b5df70-157d-442a-9587-d2fab8f8aa71with location: 32,361 with string value:  has been clicked
+new View has been created with view id: 7

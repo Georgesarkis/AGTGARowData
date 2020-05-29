@@ -1,0 +1,10 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n             ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *      MEDIUM      *         64         *       18         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         64.0
+*   Average Action per Test-case           =                         18.0
+*****************************************************************************************************************

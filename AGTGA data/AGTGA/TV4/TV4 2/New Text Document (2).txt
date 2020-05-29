@@ -1,0 +1,14 @@
+*****************************************************************************************************************
+*   FILENAME    *    PRIORITY    *  TEST-CASE LENGTH  *  NUMBER OF ACTIONS  *    BUG PRODUCED  *  EXCEPTION
+*****************************************************************************************************************
+* Readme  *      HIGH      *         4         *       0         *       True     *  test-case failed to execute with following message: b'  File "Readme", line 1\r\n    This empty-file is needed to run AGTGAdriver.press_keycode(3) \r\n         ^\r\nSyntaxError: invalid syntax\r\n'
+_________________________________________________________________________________________________________________
+* TestCase00.py  *      HIGH      *         56         *       14         *       True     *  test-case failed to execute with following message: b'Traceback (most recent call last):\r\n  File "TestCase00.py", line 16, in <module>\r\n    el.click()\r\nAttributeError: \'NoneType\' object has no attribute \'click\'\r\n'
+_________________________________________________________________________________________________________________
+* TestCase01.py  *       HIGH       *         279         *       91         *       False     *  Server-side error occurred. Please rerun this test-case
+_________________________________________________________________________________________________________________
+* TestCase02.py  *      MEDIUM      *         62         *       16         *       False     *  None
+_________________________________________________________________________________________________________________
+*   Average Test-Case Length               =                         132.33333333333334
+*   Average Action per Test-case           =                         40.333333333333336
+*****************************************************************************************************************

@@ -1,0 +1,20 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 013f0a35-17f6-40c3-bb02-a20447cdc21cwith location: 0,160 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: f303a529-1886-4010-a2c4-d4d69f254f03with location: 94,1019 with string value: Scan History has been clicked
+new View has been created with view id: 3
+button with id: 1c8ff56e-f1c0-4873-b766-9a706f6af20bwith location: 172,736 with string value: You have not scanned any product recently has been clicked
+button with id: 94e80bb4-90ca-45b0-ae4e-b614ff05a45ewith location: 607,56 with string value: Clear has been clicked
+button with id: 216dc7bd-495d-4322-8ace-92849f97dcd8with location: 345,674 with string value:  has been clicked
+button with id: a4507c95-b450-4068-88ed-b32ce6559cf6with location: 0,48 with string value:  has been clicked
+button with id: 4f2547ae-5bed-471a-a798-75bcc31692fdwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 55de565b-ec7b-4577-bd21-e24cbab05682with location: 0,48 with string value:  has been clicked
+button with id: dc5ea75d-d2e4-4ca8-a360-3695104bb11awith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 005a1a83-9fd0-4881-a3fe-98fa9f7687a5with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: f274ff53-00ea-4429-8978-75beb7124ca5with location: 0,48 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

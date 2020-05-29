@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 882a84cf-14b6-4159-a12a-5e209e4af7dbwith location: 656,508 with string value: Nytt lägre pris has been clicked
+button with id: f8e63fdd-77c5-48c1-9cae-1f3908ee5342with location: 32,80 with string value:  has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

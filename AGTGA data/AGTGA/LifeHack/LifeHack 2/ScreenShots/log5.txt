@@ -1,0 +1,10 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: dee12624-efb7-4e05-9a7a-1c6c63c75789with location: 66,366 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 78af2af1-04e0-4fed-838c-3c9ad3fba335with location: 198,370 with string value: Locket is an Android app that displays ads on your lock screen, this means you get paid every time you unlock your phone. has been clicked
+button with id: 120de67c-642e-4e7f-9b15-75d739446edbwith location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 01966c56-c12b-496b-b482-6f61a3622b10with location: 198,370 with string value: Using your phone while it's charging can damage the battery. This is why the cords for chargers are so short. has been clicked
+button with id: c9c81dfc-1404-4faf-b876-a3bf8db78b5ewith location: 918,87 with string value:  has been clicked
+new View has been created with view id: 4

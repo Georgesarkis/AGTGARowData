@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is md5dccfc7716c9297b278a85628ec83026a.LoginActivity
+EditView with id: 99207fa3-e1f7-4d6f-8046-cc9065333dc2 has been clicked and filled with string: demo4@konto.se
+EditView with id: 99207fa3-e1f7-4d6f-8046-cc9065333dc2 has been clicked and filled with string: Sommar2018
+button with id: 45d16e02-e904-4a5a-861f-82d84b88e892with location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: 374a3b0f-0372-46cb-b022-d729cca1dec5with location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+button with id: 58b69301-c53c-42aa-9f6b-f7b3deaee102with location: 237,970 with string value: 0% has been clicked
+new View has been created with view id: 2
+button with id: 382a45c3-8c7f-44c8-85ed-659cabdb97c0with location: 0,1280 with string value: Laddar... has been clicked
+new View has been created with view id: 3
+button with id: 6c4c3978-77e0-47dd-a620-a94090ed2fdewith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: cba24a96-d2cc-4c80-8408-34455a46f5bbwith location: 48,24 with string value:  has been clicked
+button with id: 3dba20b2-f9f4-433d-b4cc-db13350d74dfwith location: 48,807 with string value: Min användarprofil has been clicked
+new View has been created with view id: 5
+button with id: 89919610-548c-4d4a-8b41-ab4fe0f2879dwith location: 216,115 with string value: Min användarprofil has been clicked
+new View has been created with view id: 6
+button with id: 7ba27ed5-deef-4a88-a522-b10ed5c2897dwith location: 72,444 with string value:  has been clicked
+button with id: 13ff1b8a-78b9-4cd8-8ba8-213cba4ce9ccwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: b4494395-b7a2-4c0b-b62f-ccebd1894065with location: 48,366 with string value: Demo 4 has been clicked
+button with id: 8c7130cc-a971-4826-8318-03d800998a2awith location: 0,72 with string value:  has been clicked
+button with id: c21e62de-6050-437e-a6fc-54a45d95e9b6with location: 72,312 with string value: Demo 4 has been clicked
+button with id: 917a4b74-5da3-45d8-8448-24242a41babfwith location: 48,954 with string value: Hjälp & Support has been clicked
+button with id: c91799ca-1fd3-461e-98ef-23d7c52d605bwith location: 936,640 with string value:  has been clicked
+new View has been created with view id: 11

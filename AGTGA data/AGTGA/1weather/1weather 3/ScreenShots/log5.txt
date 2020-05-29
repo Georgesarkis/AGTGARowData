@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: c5c1e54f-e2e2-47ea-93c7-34a47d672278with location: 982,2003 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 0dbbc707-1faa-4f94-8806-e9a3fa229e4fwith location: 980,905 with string value:  has been clicked
+Exception aquired with message: Input images must have the same dimensions.

@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: f78d8adb-5ad9-465d-8846-23fef7b09fbcwith location: 415,824 with string value: 1127 has been clicked
+new View has been created with view id: 2
+button with id: 03d2029e-c97d-4fbf-919f-88b9b19b81e2with location: 275,390 with string value: 0 has been clicked
+button with id: 0268c9e2-d90d-4fbb-b098-67b2313adc7cwith location: 36,160 with string value: Track has been clicked
+button with id: 5353796f-1c94-492d-89eb-c6aaeacf0f67with location: 474,538 with string value:  has been clicked
+button with id: c1a3b229-3510-4b5e-9f11-704bb70c8525with location: 325,1095 with string value: 1127 kcal has been clicked
+button with id: 60d21ae0-580e-4c61-89be-657d20a454d3with location: 112,1095 with string value: Calories burnt has been clicked
+button with id: 5853871e-1f12-4989-be1f-23aa70d0d7f3with location: 182,538 with string value:  has been clicked
+button with id: 58f84aba-b710-4ae3-a3c5-f3ca6aabde99with location: 626,48 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

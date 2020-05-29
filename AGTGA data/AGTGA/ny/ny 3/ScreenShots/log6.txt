@@ -1,0 +1,60 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 77b3a1e9-5e1e-4e21-8bf5-fdc2d6ea8c4bwith location: 864,1632 with string value:  has been clicked
+button with id: 9929e1eb-696f-4e50-b3e0-a8cc71d016aawith location: 936,84 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 58099f81-0121-423e-95d6-2c927292579ewith location: 175,709 with string value: Search the New York Times archive. has been clicked
+new View has been created with view id: 8
+button with id: c4558727-99d7-49e8-8f58-e476d7f13311with location: 888,84 with string value:  has been clicked
+button with id: bf5d467e-3dc5-447d-abc1-6b578ae2705awith location: 0,72 with string value:  has been clicked
+button with id: 76be2089-53f7-4d28-a449-bc8de2c6bcc8with location: 217,776 with string value: U.S. has been clicked
+new View has been created with view id: 7
+button with id: 575c952e-df92-4dcf-9738-9cccf2f05d09with location: 48,1045 with string value: RUTH FREMSON/THE NEW YORK TIMES has been clicked
+new View has been created with view id: 8
+button with id: 0bfcdd38-f22e-4c32-99e5-1d8ab0fb5035with location: 0,72 with string value:  has been clicked
+button with id: 565dd354-d241-4a98-a99b-181c31aa8f0awith location: 0,72 with string value:  has been clicked
+button with id: ed251074-24c9-4949-a7b4-24ca31434947with location: 504,1632 with string value:  has been clicked
+button with id: 7ba206d8-cbc9-4c64-b90b-c7c1f7e0e49cwith location: 478,1707 with string value: For You has been clicked
+button with id: a31cf65e-ba4b-4283-88ac-78eae0270454with location: 217,1381 with string value: FOLLOW has been clicked
+new View has been created with view id: 4
+button with id: 0fcacec9-557e-4a36-863e-2959c9929803with location: 721,1381 with string value: FOLLOW has been clicked
+button with id: 0deb7cfe-546e-4ca6-9a8c-5fcb38cbcc3dwith location: 655,1434 with string value: See Stories has been clicked
+button with id: a8c851f0-26d4-4e00-87ef-5a971022f461with location: 765,940 with string value: LOG IN has been clicked
+new View has been created with view id: 9
+button with id: 4e16561d-3a9e-46c7-9723-177e6b9df4b6with location: 0,72 with string value:  has been clicked
+button with id: 988dda12-eafd-43d7-aa94-b7008be1bf4awith location: 612,1189 with string value: Modern Love has been clicked
+button with id: 7ddbc79c-d1c6-43fc-8fe9-f424edbdfc29with location: 0,606 with string value:  has been clicked
+button with id: a96474c2-1ffd-44ed-b2a2-14de09631b0bwith location: 0,1251 with string value: Image has been clicked
+new View has been created with view id: 6
+button with id: 2c7908fb-0e69-4120-bb54-4e9bc3037cc1with location: 48,1797 with string value: Brian Rea has been clicked
+button with id: e5d5b411-7074-4139-8235-4e19374271a8with location: 960,0 with string value:  has been clicked
+button with id: 422d4d01-efb6-40b8-94a0-c4913f09103ewith location: 0,0 with string value:  has been clicked
+button with id: caf72671-f946-4e42-b245-8df4715a4317with location: 0,0 with string value:  has been clicked
+button with id: ca286958-4603-4726-923c-c026082da721with location: 672,84 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 0b23fde3-920d-4d95-93fd-4b40a8599502with location: 75,777 with string value: To save articles, please log in or register for a New York Times account. has been clicked
+button with id: 78af0c75-983b-4a99-a516-c72969ae1aa9with location: 534,968 with string value: CANCEL has been clicked
+button with id: 9a0b73cd-2ea9-498a-8214-633bc90ebcd7with location: 60,1661 with string value: Subscribe to The New York Times. has been clicked
+new View has been created with view id: 6
+button with id: e7b9ba38-0ebc-4895-9ad4-5f26a22c237awith location: 540,582 with string value: All Access has been clicked
+new View has been created with view id: 7
+button with id: fc7459e9-8672-422a-805a-81b0e17ba64ewith location: 540,582 with string value: All Access has been clicked
+button with id: d710c9df-f785-446a-8ef5-8295abd398c5with location: 0,582 with string value: Basic has been clicked
+button with id: d3e90ace-71e3-4ddc-baa4-8c83006218abwith location: 0,582 with string value: Basic has been clicked
+button with id: ce41e10f-e967-47c6-b77f-3c7013fb1e2cwith location: 48,124 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 983db0ed-91a4-4021-b23e-e021abceff27with location: 981,1662 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: dc2ae726-de8c-4293-97fe-8b99c4f6e667with location: 45,810 with string value:  has been clicked
+button with id: e1bcb33a-7a46-4b38-b147-e36803fba858with location: 117,801 with string value: Unlimited article access in the app and on NYTimes.com	 has been clicked
+button with id: 21779b5b-776c-4e6a-9515-355a2e225988with location: 173,222 with string value: Support independent journalism has been clicked
+button with id: dd483cd4-aef8-4d1e-83fc-485f429c0ce2with location: 45,1643 with string value: We're having trouble connecting to the Google Play store. has been clicked
+button with id: f6cb19c1-2999-4b4f-b5c0-936aa274d3aewith location: 540,582 with string value: All Access has been clicked
+button with id: c176800f-f990-47db-a027-5b0854ee1f77with location: 45,318 with string value: Your subscription helps support our journalists as they seek the truth and help people understand the world. You can cancel anytime. has been clicked
+button with id: 7495f27a-7e47-4fc3-965c-b739fffdfe91with location: 117,801 with string value: Unlimited article access in the app and on NYTimes.com	 has been clicked
+button with id: 320cd468-6b4f-46f9-b410-82bb3b1fb706with location: 117,1012 with string value: The Crossword, with over 20 years of puzzles that you can solve in a dedicated app and online	 has been clicked
+button with id: aa01b4c0-8962-467d-a752-c8a733be1cf3with location: 117,1283 with string value: NYT Cooking, featuring guides, lessons and 19,000+ recipes, available online	 has been clicked
+button with id: 4c9f58c0-977f-4aab-a897-9f3a48043620with location: 45,1503 with string value:  has been clicked
+button with id: d6705ec2-61a2-4212-8731-a3ada5071206with location: 902,123 with string value: LOG IN has been clicked
+button with id: 4f127c98-a94b-44dc-8fde-5b2247ecf8cbwith location: 849,555 with string value:  has been clicked
+new View has been created with view id: 10

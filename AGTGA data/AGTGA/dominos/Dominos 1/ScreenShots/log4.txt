@@ -1,0 +1,22 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: b4a364c0-adc7-4bf6-8f7e-58a6a46bf298with location: 0,72 with string value:  has been clicked
+button with id: 9e0d8f0a-ca53-4331-928b-8800093f36d1with location: 0,1424 with string value: Domino’s privacy policy has been updated as of 1/1/20. The revised policy makes it easier to understand our practices and the choices available to customers, including compliance with the CA Consumer Privacy Act of 2018. has been clicked
+button with id: 6ccdd736-99d7-4b3c-91eb-65c0b9aee98fwith location: 48,384 with string value: TRACKER has been clicked
+new View has been created with view id: 3
+EditView with id: decedba3-db35-454b-9382-2e6ecfac0bc6 has been clicked and filled with string: 
+EditView with id: decedba3-db35-454b-9382-2e6ecfac0bc6 has been clicked and filled with string: 
+button with id: a6e9c8ff-9288-4c59-a7ee-421575ce7834with location: 45,351 with string value:  has been clicked
+EditView with id: decedba3-db35-454b-9382-2e6ecfac0bc6 has been clicked and filled with string: 
+EditView with id: decedba3-db35-454b-9382-2e6ecfac0bc6 has been clicked and filled with string: 
+button with id: 71753b08-8205-4774-acad-40f64f10c3cbwith location: 84,1011 with string value: TRACK YOUR ORDER has been clicked
+EditView with id: decedba3-db35-454b-9382-2e6ecfac0bc6 has been clicked and filled with string: 
+EditView with id: decedba3-db35-454b-9382-2e6ecfac0bc6 has been clicked and filled with string: 
+button with id: 9cea6d9f-b9d8-4fcf-a6c2-10c25d0fcae5with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 87a8bb6f-df18-48f3-ba6f-515df0f43a98with location: 0,406 with string value: All Deliveries Are Contactless. has been clicked
+new View has been created with view id: 5
+button with id: 2b16ce89-9013-4925-862f-24b989d3f510with location: 15,1611 with string value:  has been clicked
+new View has been created with view id: 6
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

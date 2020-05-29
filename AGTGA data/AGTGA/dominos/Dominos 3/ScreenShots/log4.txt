@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: ed77a9d7-e444-43e5-a620-b7c0ce1c1113with location: 388,1435 with string value: DOMINO'S HOTSPOTS® has been clicked
+new View has been created with view id: 2
+button with id: 1fc696af-8e16-40e3-9dac-b1eee58bd500with location: 106,968 with string value: Meet your driver at the Domino's Hotspot by the Estimated Delivery Time to receive your order. has been clicked
+button with id: 6a3b9bc2-2721-4ebf-ae60-d3968c725ecbwith location: 0,72 with string value:  has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

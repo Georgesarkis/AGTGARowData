@@ -1,0 +1,60 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: f1d2f5db-3f4b-4dc6-8de0-3b06e6f85fbdwith location: 984,1687 with string value:  has been clicked
+button with id: 461518b9-62c3-4d65-9b3a-02a0ce5d2955with location: 349,110 with string value: INSTRUCTIONS has been clicked
+new View has been created with view id: 3
+button with id: 781935a9-bf61-4154-ad0b-15ef7a81bf57with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 6204b843-ddb2-4504-8753-742c5369b1aewith location: 48,1183 with string value: ÖVRE MAJORSGATAN 4 has been clicked
+new View has been created with view id: 5
+button with id: 7d59f3ba-4b31-417d-96a3-bffcd9dc74c6with location: 972,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: bc406167-fc4d-4a83-87b9-28aa0927cff6with location: 936,1462 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: fa5280bf-aeed-402a-9aa6-d34108b61c87with location: 972,72 with string value:  has been clicked
+button with id: 5a5a8945-9e51-4f97-a3e2-587155a3671awith location: 0,1433 with string value: MESSAGES has been clicked
+button with id: 7c8cb6e9-ea0b-4ac8-8ebd-77972a283985with location: 0,1624 with string value: You have no messages has been clicked
+button with id: 70c59e5e-ee35-421a-9dd4-b442371d1efcwith location: 120,283 with string value: HOME has been clicked
+button with id: 0f0484f4-16c4-4922-a2e3-c94be5741764with location: 310,110 with string value: GÖTEBORG LINNÉ has been clicked
+button with id: 500069e3-e016-44a5-99b5-d943c4795affwith location: 841,283 with string value: FOOD  has been clicked
+new View has been created with view id: 8
+button with id: 3de4285f-06aa-47b0-acdd-5eb51d715218with location: 978,520 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 142fccda-e9f3-4567-9977-42f252da6653with location: 48,535 with string value: MEAT has been clicked
+new View has been created with view id: 10
+button with id: aa8a884e-f993-4061-a8d6-fec1707076b9with location: 48,617 with string value: HONUNGSGRATINERAD CHÈVRE PÅ GRILLAT SURDEGSBRÖD MED SERRANOSKINKA & SOLTORKAD TOMAT has been clicked
+button with id: a12bccfd-3c22-41dd-b405-2a750ec2e788with location: 978,411 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: 1f4aed81-0824-4f17-a419-5fd283d325d9with location: 48,1235 with string value: DESSERT has been clicked
+new View has been created with view id: 12
+button with id: 6130c32b-9dc6-4bc6-b43a-45cacfa1bfdewith location: 780,1099 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: 2de1c6e9-6106-45f2-9ee8-3fd960766715with location: 0,1099 with string value:  has been clicked
+button with id: e2c7bc19-baea-4f0c-a005-5ceb9a36b270with location: 978,411 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: f0366ea7-4241-47fa-a355-8d09a69e66bfwith location: 48,1060 with string value: KIDZ has been clicked
+new View has been created with view id: 14
+button with id: 108f3af6-0d23-4687-bc68-ea88cc72e80dwith location: 978,411 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: b26b721b-c84a-4851-9e3b-2b27da3b18c4with location: 48,1060 with string value: KIDZ has been clicked
+button with id: 08a006c6-339c-4bda-a0f4-5fd97656639ewith location: 909,541 with string value: 35 kr has been clicked
+button with id: 0fcff865-51b9-45ba-bf30-5cada2c9acc2with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 15
+EditView with id: 8a9f981d-df9b-40e1-933e-2bf240df875c has been clicked and filled with string: 
+EditView with id: 8a9f981d-df9b-40e1-933e-2bf240df875c has been clicked and filled with string: 
+button with id: 6e5b33d1-c5a4-4a9a-855d-3bd1c9d6e270with location: 445,110 with string value: LOG IN has been clicked
+button with id: 2f94a80e-d76b-43c6-a1b3-91088d98e779with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: d13b6469-a68c-4196-864a-e98c8624321fwith location: 777,940 with string value: OK has been clicked
+new View has been created with view id: 17
+button with id: 92b092e3-3c2a-4e49-b37b-814529fdbeb7with location: 75,692 with string value: Server is temporarily unreachable, which is likely caused by your internet connection.Please try different connection options, wifi, 3G, 4G if available, and verify that other apps have internet access. has been clicked
+button with id: 1edc5e8c-f0b9-4923-9796-f7aad0c202e0with location: 777,1054 with string value: OK has been clicked
+button with id: ad8cef8d-8b99-4c1a-b9fc-84d9082f3711with location: 75,806 with string value: Error: net::ERR_INTERNET_DISCONNECTED has been clicked
+button with id: 793bc8f4-7c19-42f4-9f61-ffe4d1d92362with location: 972,72 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: 03388b67-bc09-4674-bbd8-a72f008ca9f7with location: 0,1624 with string value: You have no messages has been clicked
+button with id: 6aed09d9-6a1e-4a0e-9f70-e9ca405c048fwith location: 0,1433 with string value: MESSAGES has been clicked
+button with id: 50f3f707-1faf-44af-99de-fdb1b2ae7cadwith location: 936,1462 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: cc1a9492-58e5-47d7-8d2c-88ed0985e6b7with location: 0,72 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

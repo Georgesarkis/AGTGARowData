@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: b67f30a7-a6f6-4bc4-a65b-aa0d1758420fwith location: 66,366 with string value:  has been clicked
+button with id: 1b056056-b5bc-4fdd-9633-8bbc6b7bba40with location: 198,370 with string value: You can use Google as a timer by typing "Set timer (x) minutes" into the search bar. has been clicked
+button with id: 47ba65e4-00b5-4b1b-8d2e-2f7915b6d840with location: 918,87 with string value:  has been clicked
+new View has been created with view id: 4

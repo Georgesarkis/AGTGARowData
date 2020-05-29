@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is .features.splash.SplashActivity
+new View has been created with view id: 1
+button with id: f92cf45b-3b84-433b-b8e8-63b9748932ddwith location: 369,1656 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: ff2817c4-0fe4-47b8-9a4e-e0849121961awith location: 453,118 with string value: Search has been clicked
+button with id: 6edaaaa9-47d5-452b-8bcc-bc3480e05b83with location: 54,438 with string value: Recent Searches has been clicked
+button with id: e54ef2f2-8a39-4c7c-864c-27d7f8504bc1with location: 867,286 with string value:  has been clicked
+button with id: 876f68d9-1853-43b6-9a15-8ef48770adb9with location: 72,294 with string value:  has been clicked
+button with id: 09257f21-660d-4cf2-b333-9d4298c4c906with location: 909,1656 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: a315a68f-5cdf-4126-a254-7d2d369e7950with location: 48,1049 with string value: A text-only view of the Newsfeed has been clicked
+button with id: f2afbf63-856a-4374-aa44-649e3b3d3096with location: 48,444 with string value: Alerts has been clicked
+new View has been created with view id: 4

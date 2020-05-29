@@ -1,0 +1,18 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 174aeca7-9890-47e3-877c-8e71af3f46c5with location: 600,1180 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: ff893e17-22d3-40dd-bec7-b304add5c14fwith location: 552,184 with string value: CANCEL has been clicked
+button with id: a44a2b08-20cf-4538-9342-2d5f8e7b7e9dwith location: 64,354 with string value: At a distance of 4,3 km has been clicked
+new View has been created with view id: 3
+button with id: 58844078-91a9-46b9-a140-14c8ae9bf557with location: 616,969 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: c5a69070-8bee-4473-8736-f5160ea3ae05with location: 327,111 with string value: 4,3 km has been clicked
+button with id: 676fcc69-32a3-4588-82cb-377729a3515dwith location: 0,48 with string value:  has been clicked
+button with id: 1cde5df6-d7f0-4b1b-af4f-23359607a2f7with location: 64,398 with string value: Closed: has been clicked
+button with id: ba9e4631-2672-4a23-8f3c-10cb969285fewith location: 346,861 with string value:  has been clicked
+button with id: 5549a4d8-a199-405f-87e4-42e9a6d3158cwith location: 279,68 with string value: KOMPASSEN has been clicked
+button with id: c9b86422-5873-4110-a8ae-137a2b907d15with location: 346,203 with string value:  has been clicked
+button with id: 4e34ce12-8a36-4dc2-a426-47aef96f3fddwith location: 0,48 with string value:  has been clicked
+button with id: d6a7751b-924d-4ff0-a59b-88f48d33533bwith location: 419,1180 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

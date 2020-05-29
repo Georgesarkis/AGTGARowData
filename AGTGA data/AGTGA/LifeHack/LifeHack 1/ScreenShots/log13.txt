@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: f019c7e6-af73-472e-a9ec-6efaba7052e7with location: 66,1260 with string value:  has been clicked
+button with id: 87c7f9bc-ede1-4461-adfb-6b0ada7b7601with location: 198,370 with string value: You can heal paper cuts and immediately stop the pain by rubbing the area with chapstick. has been clicked
+button with id: 8ddbe7de-797b-4403-ae8b-0ce3218b91dbwith location: 190,1255 with string value:  has been clicked
+button with id: 23ccd891-dc52-4a89-b217-956a2118a4c8with location: 161,302 with string value:  has been clicked
+button with id: 38148ba2-d6d4-4da9-9c22-2a9b7b5c809cwith location: 190,1255 with string value:  has been clicked
+button with id: ac5028ea-518d-4377-be77-a783ec111753with location: 12,87 with string value:  has been clicked

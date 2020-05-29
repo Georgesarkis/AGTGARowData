@@ -1,0 +1,4 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 86d8d30a-29de-4253-88b0-e9e49b66b5c7with location: 0,72 with string value:  has been clicked
+button with id: 794d70f6-bcf9-4e01-b9c5-ce21fc57ee80with location: 48,879 with string value: Gift Cards has been clicked

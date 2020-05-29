@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 5ec4b337-ba5b-40a0-a362-9bfbac806d2bwith location: 592,80 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 21ae00ff-8fe8-4471-821a-595d525763a5with location: 88,256 with string value: Din sök- och bläddringshistorik används bara för att göra resultaten mer relevanta has been clicked
+button with id: 43394e04-43f5-4701-8e88-c272be710ff3with location: 48,418 with string value: Nyligen visade has been clicked
+button with id: 57be28fe-5fbe-495f-b9f3-83dc8111db8ewith location: 328,505 with string value:  has been clicked
+button with id: f3506373-75c1-44bf-ba42-1a05307cbf99with location: 96,310 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 687218fc-e540-434b-8f18-1a167aea74b3with location: 0,48 with string value:  has been clicked
+button with id: c1e9a8e4-d2c2-48fc-af24-24fe8cb4aaddwith location: 16,48 with string value:  has been clicked
+button with id: d9f3d86d-4643-4dd8-9601-1f456ce206aawith location: 0,162 with string value: Giltigt till 3 maj, 2020 has been clicked
+button with id: 60e14444-f159-4986-b5cd-c2a783bc8aedwith location: 496,56 with string value:  has been clicked
+new View has been created with view id: 5

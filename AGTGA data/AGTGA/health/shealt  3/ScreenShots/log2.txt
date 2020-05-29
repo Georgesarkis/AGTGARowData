@@ -1,0 +1,18 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: daeed76f-efdc-4a03-8d85-edbc16f115d0with location: 562,1178 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 93b2b7f9-7afd-4268-bc58-f62dc6a36bc7with location: 544,220 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 625ad86a-33ae-4346-871e-232540c66ff0with location: 608,198 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 0b930716-785e-48ce-91a8-ae8a401149efwith location: 0,48 with string value:  has been clicked
+button with id: 644e927c-82b1-42be-b024-1ae2b83c12efwith location: 48,696 with string value: Blood glucose meter has been clicked
+new View has been created with view id: 4
+button with id: 10cffa85-3cbb-4c77-aa92-91b4bbdb3308with location: 626,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: a9e71860-5a1b-469d-8be0-297d29bd4752with location: 152,308 with string value: i-SENS has been clicked
+new View has been created with view id: 6
+button with id: 7e0e17f5-669b-4463-aa1e-520c88b80998with location: 0,48 with string value:  has been clicked
+button with id: ab1bc8c8-b714-4638-a208-d5d0eb2f235dwith location: 90,1174 with string value: Scan for accessories has been clicked
+new View has been created with view id: 5

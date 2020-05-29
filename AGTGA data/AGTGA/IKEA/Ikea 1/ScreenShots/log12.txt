@@ -1,0 +1,20 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: bb5d87f2-5774-4d59-9388-f91b0f738b5bwith location: 32,264 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 612ec13e-4539-4929-a3a9-6dbc8af804e6with location: 32,80 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 99cf0b5a-2676-45ce-b656-4894a4007458with location: 334,1200 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 3f57e567-a460-4dbe-b4ba-1b6cdb18cf15with location: 48,225 with string value: Registrera dig eller logga in för att få tillgång till specialrabatter, dina favoriter och ditt IKEA Family-kort. has been clicked
+button with id: 80a36dfe-1371-40ae-ba89-14958bd35401with location: 640,1093 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: df984867-f795-4ee2-89e0-4e1fcab250cewith location: 197,1200 with string value:  has been clicked
+button with id: c5e97d01-1fa8-4789-b968-8ab8844c2b94with location: 60,1200 with string value:  has been clicked
+button with id: f9962719-2fe6-46f2-a800-b598edb2077cwith location: 0,598 with string value: Bli inspirerad has been clicked
+button with id: 7c8e65c3-ab67-439a-b52d-f54441bcc683with location: 608,1200 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: f1fd6af5-b621-42da-a1b2-a1b7e5207e28with location: 32,1008 with string value: Till kassan has been clicked
+new View has been created with view id: 5
+button with id: 60716f63-0a33-4b52-9035-6d8e48ccb572with location: 16,48 with string value:  has been clicked
+Exception aquired with message: 'charmap' codec can't encode character '\u202a' in position 95: character maps to <undefined>

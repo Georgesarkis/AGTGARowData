@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 4483d04a-664b-4960-bc73-70a4e4d14eefwith location: 982,2003 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: e0c2daa7-0b94-49f4-989a-31b75813b351with location: 48,1495 with string value:  has been clicked
+new View has been created with view id: 3
+Exception aquired with message: Message: A session is either terminated or not started
+

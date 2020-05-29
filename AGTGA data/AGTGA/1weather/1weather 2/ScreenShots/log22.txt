@@ -1,0 +1,4 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: ab812d94-84b4-4315-b3ff-b656bff55082with location: 38,1633 with string value:  has been clicked
+button with id: 8c1c050f-1f53-493a-be83-90cda221d0c0with location: 356,1277 with string value: COVID -19 Global Interactive Map has been clicked

@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: e4bc7416-45d7-421d-85ae-5c954618501cwith location: 60,1200 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 1c399ec4-5876-4e7d-877c-1a84469d25a6with location: 608,1200 with string value:  has been clicked
+Exception aquired with message: 'charmap' codec can't encode character '\u202a' in position 94: character maps to <undefined>

@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 5ce8fc01-eaed-4c74-9a69-f74b43210a43with location: 0,48 with string value:  has been clicked
+button with id: fb5a4822-83eb-4fd3-919a-93fcadd23456with location: 64,969 with string value: Notices has been clicked
+new View has been created with view id: 3
+button with id: df76be29-3cc2-42fc-a481-4cb28eb398a0with location: 48,326 with string value: [Notice] End of quick measure service has been clicked
+new View has been created with view id: 4

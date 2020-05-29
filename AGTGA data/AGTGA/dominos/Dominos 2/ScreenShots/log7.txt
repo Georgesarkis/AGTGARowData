@@ -1,0 +1,33 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: 1e86e677-8075-4cc2-b6c1-facb70652fc8with location: 388,1435 with string value: DOMINO'S HOTSPOTS® has been clicked
+new View has been created with view id: 2
+button with id: 2eb8c81e-5ef4-41b6-bc37-f6e4ac6b733awith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 5829e7f4-1451-4cfc-8b86-d66ebadf6506with location: 409,1044 with string value:  has been clicked
+button with id: ecc5a5b4-d0dc-4a7c-83de-ac6818685216with location: 957,1500 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 882aab5f-7d2d-4bc6-9ed9-206ced9ca350with location: 330,1412 with string value: CONTINUE has been clicked
+new View has been created with view id: 4
+button with id: e2065932-48f1-40ec-8091-22928c3630a6with location: 75,854 with string value: State is required. 
+ has been clicked
+button with id: 8574b3c0-78a0-4daf-b880-2080be9176fbwith location: 270,708 with string value: Heads Up! has been clicked
+button with id: 203b4079-21f9-474d-a0ac-326df42749ddwith location: 75,1048 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 5
+button with id: 625c46a9-e860-404c-9bdd-6bd7eaf16e8cwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 56fe3bec-652a-4881-854a-cf47404f0310with location: 0,406 with string value: All Deliveries Are Contactless. has been clicked
+new View has been created with view id: 7
+button with id: 0d1f10ff-2bcb-419c-971d-60d16e1cea61with location: 292,1416 with string value:  has been clicked
+button with id: 5c9573f0-d1e9-4ac2-ad13-1901b03327bfwith location: 106,968 with string value: Meet your driver at the Domino's Hotspot by the Estimated Delivery Time to receive your order. has been clicked
+button with id: df1a54cc-272b-4918-add0-3aee40497496with location: 45,1420 with string value:  has been clicked
+button with id: 21421b35-8b70-4538-b8ef-daf0b7313751with location: 259,1358 with string value: — MIN WALK has been clicked
+button with id: 375b9a3d-e797-41b4-9293-c8329735d35awith location: 273,1692 with string value: CHANGE TO DELIVERY OR CARRYOUT has been clicked
+new View has been created with view id: 4
+button with id: e67f3d1a-77ea-4b5a-b75d-5fd188265e17with location: 492,1243 with string value: CARRYOUT has been clicked
+button with id: e820ff6c-e08c-480d-ae63-fe9d3bc0685cwith location: 338,1123 with string value: No stores found has been clicked
+button with id: 116e03a3-ec88-4160-8111-a52de4ea3ad7with location: 915,252 with string value:  has been clicked
+button with id: 95b4dd8f-d9aa-4d75-a7e6-f3ec8de59b7awith location: 636,252 with string value: SEARCH has been clicked
+new View has been created with view id: 12
+button with id: 8c0e8d23-ae6e-464b-acd9-52a5b3ccb064with location: 57,429 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

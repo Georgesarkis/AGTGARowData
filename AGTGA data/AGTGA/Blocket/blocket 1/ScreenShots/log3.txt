@@ -1,0 +1,19 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: df2cb4fb-4c13-4676-8244-8813b53830fdwith location: 0,1168 with string value: Annonser has been clicked
+new View has been created with view id: 2
+button with id: bb8064f4-cdd6-4a0c-8e2e-4c048503003ewith location: 624,162 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 23ebf0a0-cab6-4468-96ec-530f39379bdbwith location: 32,821 with string value: 1 400 kr has been clicked
+new View has been created with view id: 4
+button with id: 3a8b0358-8725-4c83-97c7-c9d435900713with location: 32,504 with string value: 1 av 2 has been clicked
+new View has been created with view id: 5
+button with id: 5e615252-a2be-433b-946f-dd7e7cab40fawith location: 592,530 with string value:  has been clicked
+button with id: 0a3bf4ce-7dc3-43b1-845d-577a1fdadd8awith location: 32,642 with string value: Inlagd idag 13:51 has been clicked
+button with id: 4819d1e3-3973-4271-9db5-e3508b5ee33ewith location: 32,766 with string value: 1 400 kr has been clicked
+button with id: 51fdf76b-0aaf-485a-8ce3-6eff05ff4a68with location: 0,48 with string value:  has been clicked
+button with id: 0683ce15-69a4-4cb2-9bba-b387246cd18cwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: faadf1ca-f445-4cb6-8a49-c527be7551b8with location: 0,48 with string value:  has been clicked
+button with id: 1d0a2906-e45b-49ef-8647-44a6463ad66ewith location: 592,530 with string value:  has been clicked
+new View has been created with view id: 5

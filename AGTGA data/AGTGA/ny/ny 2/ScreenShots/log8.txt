@@ -1,0 +1,33 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 52630218-845a-4ed8-bf9a-1cdec5addab7with location: 131,1707 with string value: Today has been clicked
+button with id: 61154c6f-95c5-4c1c-93cb-dcfcd07a9c64with location: 478,1707 with string value: For You has been clicked
+button with id: 5b9cf694-12a0-4401-aa57-0bb857767adcwith location: 936,84 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 8cdd16cf-7cf9-4686-aa8e-548a7c2200a2with location: 48,857 with string value:  has been clicked
+button with id: 21b03e8e-8321-48b0-8834-484925d38bedwith location: 0,72 with string value:  has been clicked
+button with id: 0c0ba962-b1bf-429c-be3b-dc61c35fd0d3with location: 72,360 with string value: What are you interested in? We’ll update this section regularly with stories for you. has been clicked
+button with id: db97c7e0-7846-4821-be53-de9e14a24b24with location: 612,1189 with string value: Modern Love has been clicked
+button with id: 56efb1e1-e0f1-4729-bfa3-d57d6844bfedwith location: 216,122 with string value: Modern Love has been clicked
+button with id: 87501611-b46c-4d91-9b97-da4d60c123b7with location: 72,1338 with string value: Brian Rea has been clicked
+button with id: bddfd8e6-4391-437a-9d61-131c5a4c587ewith location: 0,72 with string value:  has been clicked
+button with id: a3d50c28-ef70-4186-a974-361b2824e307with location: 0,72 with string value:  has been clicked
+button with id: 22228e55-ceac-4833-a738-af286a66cdefwith location: 72,793 with string value: COLUMNS AND FEATURES has been clicked
+button with id: d6411c00-ee66-4870-86ec-e40c35cc9a61with location: 72,1560 with string value:  has been clicked
+button with id: a0c398b4-acd0-404f-a20f-5a1974becc80with location: 144,1632 with string value:  has been clicked
+button with id: 5eddb070-b432-41e9-9a9d-4d8f3b2a2fe1with location: 864,1632 with string value:  has been clicked
+button with id: 16f7c1c6-2820-4708-9833-8875e7436a16with location: 217,920 with string value: Politics has been clicked
+new View has been created with view id: 5
+button with id: 0f8025d9-3ab8-4932-bd5b-33d983f4588bwith location: 0,72 with string value:  has been clicked
+button with id: f6635c3f-5725-456f-a53a-278b95b1a133with location: 49,480 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b5147282-0898-4425-8843-4ab5b65eeb3fwith location: 960,84 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 3d03c43a-106c-41a9-8622-969edd680e4ewith location: 493,843 with string value: Log In or Create Account has been clicked
+button with id: bd3d8b87-9a7b-4cbd-bdf3-889e7b32a23fwith location: 688,1648 with string value: Create One has been clicked
+button with id: bba8da64-35df-4fd7-9742-fb36cae62cf3with location: 849,899 with string value:  has been clicked
+new View has been created with view id: 12
+EditView with id: 8af645b4-3c94-4b47-a901-ce2a73c6dcc5 has been clicked and filled with string: 
+EditView with id: 8af645b4-3c94-4b47-a901-ce2a73c6dcc5 has been clicked and filled with string: 
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

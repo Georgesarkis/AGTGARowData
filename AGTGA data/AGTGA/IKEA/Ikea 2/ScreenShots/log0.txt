@@ -1,0 +1,24 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: c3c35c56-78a0-45c0-9527-18e85826258cwith location: 592,80 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: feec4717-350b-4212-90a1-ab31dc80abd7with location: 88,256 with string value: Din sök- och bläddringshistorik används bara för att göra resultaten mer relevanta has been clicked
+button with id: 15d0630d-a310-4935-bca8-2b2eb1393801with location: 32,56 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 5375a7eb-a543-4914-992f-62211b14f8a1with location: 0,737 with string value:  has been clicked
+button with id: 15c4ec1c-ed9e-4e3b-b323-635989dcd767with location: 32,264 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 6a4ed0e7-09fe-43b9-84d4-754097487938with location: 608,1200 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 1adfe12d-e430-4083-aec3-a775fa32642bwith location: 334,1200 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: ac494f9a-6029-4eb5-82f7-548bfc1d7f76with location: 640,737 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: bd96fff7-e70c-4f1e-aaa1-24084c70182awith location: 48,754 with string value: Dina datakontroller has been clicked
+button with id: 0f0ca0d3-2854-4c0b-a720-7d6bed8c08eawith location: 48,869 with string value: Din data tillhör dig. Därför kan du välja när du vill dela den. Hantera dina datapreferenser nedan. has been clicked
+button with id: b0e8f08c-8ae3-4309-9ba4-e4f6bc22c817with location: 197,1200 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 46109ea4-7d58-4a1c-8f70-d486ea524e76with location: 48,1079 with string value: Förvaring has been clicked
+new View has been created with view id: 9
+button with id: 4d7bcb88-80ab-4bd0-9e61-11d1d9547ffdwith location: 592,56 with string value:  has been clicked
+new View has been created with view id: 10

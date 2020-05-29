@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: 16f25ea8-1bdb-4234-a67c-4535cbef6741with location: 96,835 with string value: Good evening, sakogeorge has been clicked
+button with id: de126e16-433e-454f-90fb-00572c03aa5awith location: 44,834 with string value:  has been clicked
+button with id: e71ab7a3-85d7-4000-a094-1a393c8e7297with location: 224,1124 with string value: The Natural Wonders of the World has been clicked
+button with id: 15b53e89-0127-425a-8418-c953bc051888with location: 30,1197 with string value: For You has been clicked

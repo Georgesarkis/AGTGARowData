@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: fba9f7ac-fa5c-4c45-bf11-b04d3cc535e0with location: 618,286 with string value: Boys has been clicked
+button with id: 1ba82c19-dc2d-4df0-987f-15249ffcb6bawith location: 72,658 with string value: Sale has been clicked
+new View has been created with view id: 4
+button with id: a015c924-cb5b-408c-9230-fa462e6bdd00with location: 834,120 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 3ed8712a-470e-43d5-b182-aeb6c01f60e7with location: 0,72 with string value:  has been clicked
+button with id: eb27203c-5534-41ca-b8f3-569d792cc876with location: 0,240 with string value:  has been clicked
+button with id: 864a957b-b598-4cc7-be6e-df0cb53df2b6with location: 216,123 with string value: SHOP has been clicked
+button with id: 3b70ff6d-dc6c-4a13-b0c6-beb8397a917ewith location: 72,1242 with string value: Featured has been clicked
+new View has been created with view id: 4
+button with id: e022458f-fa7b-4f7f-88d8-69ce4271db3awith location: 834,120 with string value:  has been clicked
+button with id: ab690dca-6e60-4a61-9666-e4ff61120c8dwith location: 654,1571 with string value: Photos has been clicked
+new View has been created with view id: 6

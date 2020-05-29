@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: 513adbd0-3f7e-4270-8430-950855a38ee8with location: 237,1621 with string value: 50% has been clicked
+new View has been created with view id: 2
+button with id: f04517c8-1e4e-4c14-80e3-8d9b93ebf89awith location: 48,1560 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: bd041d91-f7c7-449e-ba4d-bdd9addb2fd9with location: 144,1213 with string value: SPARA has been clicked
+new View has been created with view id: 4
+button with id: 64d34813-8bbb-45ce-a59d-e56c3c1f0588with location: 0,72 with string value:  has been clicked
+button with id: fc14f826-b517-4fbe-aad4-f98c400be31awith location: 48,1560 with string value:  has been clicked
+button with id: a375dc59-7376-4d21-a29d-297c2bf1f665with location: 200,283 with string value: PROFIL has been clicked
+button with id: 575f3822-854c-4811-9766-b0810839a0cfwith location: 405,920 with string value:  has been clicked
+button with id: e433b43d-efd8-4d6e-b40c-297819897639with location: 48,954 with string value: Hjälp & Support has been clicked
+button with id: 1589968d-8e48-40e8-a39c-b4d41b6f3700with location: 216,115 with string value: Hjälp och support has been clicked
+button with id: 8c20d4de-dbdf-4b6a-912a-8c930bb5088dwith location: 936,640 with string value:  has been clicked

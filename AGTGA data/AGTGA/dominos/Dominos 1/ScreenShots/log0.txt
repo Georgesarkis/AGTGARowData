@@ -1,0 +1,9 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: eecb1adf-5535-47c7-8f0e-c8957b2abbebwith location: 459,1614 with string value: SIGN IN has been clicked
+new View has been created with view id: 2
+EditView with id: 3d402266-7fa6-4f47-aeee-1bd72cd49ac7 has been clicked and filled with string: 
+EditView with id: 3d402266-7fa6-4f47-aeee-1bd72cd49ac7 has been clicked and filled with string: 
+button with id: bd214245-86f9-46bf-9b0a-2619a0f708e8with location: 48,601 with string value: SIGN IN has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

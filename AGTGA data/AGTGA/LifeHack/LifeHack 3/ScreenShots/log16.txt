@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: e5b9dd8e-5d6b-4605-aa2f-6c5f11a7d50fwith location: 66,366 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: f11d2a80-8e29-4aa0-a3a7-d802d1d99c19with location: 198,370 with string value: Locket is an Android app that displays ads on your lock screen, this means you get paid every time you unlock your phone. has been clicked
+button with id: 10be52b1-f893-4300-900b-9838aa0278bewith location: 161,302 with string value:  has been clicked
+button with id: de40cd4c-cb84-47a6-8a90-5385e6a84594with location: 570,1255 with string value:  has been clicked
+button with id: 4645b7b8-eded-44e7-9335-752e99ffe92ewith location: 12,87 with string value:  has been clicked

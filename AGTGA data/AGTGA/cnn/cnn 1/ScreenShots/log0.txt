@@ -1,0 +1,24 @@
+New View Has been Created, The activity name is .features.splash.SplashActivity
+new View has been created with view id: 1
+button with id: 7db36498-51bf-4d67-8bc1-0663873ba056with location: 714,1452 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: bc8bd6c5-2b18-4dc4-8896-5938034f4decwith location: 24,1088 with string value: Trump still seems to not understand how bad the coronavirus crisis is has been clicked
+new View has been created with view id: 3
+button with id: 9539468b-3030-4080-b34d-745128dd1fafwith location: 639,1656 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: bdf45d3c-b5a7-49fa-abb6-1d5acfd9aab9with location: 639,1656 with string value:  has been clicked
+button with id: a8383da5-39b8-4d74-9eb3-4aac7e3faf4dwith location: 99,1656 with string value:  has been clicked
+button with id: 8592a5eb-de3b-45ff-bfa4-e1146f96a3e5with location: 972,111 with string value:  has been clicked
+button with id: a0d197c7-f5b8-4329-9fb0-230e6cbc53f6with location: 0,234 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: a5a62653-fd75-42ac-96cf-3bb9d0e4a4dbwith location: 54,867 with string value: Trump still seems to not understand how bad the coronavirus crisis is has been clicked
+new View has been created with view id: 5
+button with id: 7a03d533-d17d-4a08-9559-2d3dfb5e7937with location: 48,72 with string value:  has been clicked
+button with id: 9c135aae-bcf5-4ef2-912b-f66e3e17397ewith location: 714,1452 with string value:  has been clicked
+button with id: 5095cfdc-e827-4c73-ac3b-7795433ccb42with location: 330,277 with string value: World has been clicked
+new View has been created with view id: 3
+button with id: f80eab0d-11d7-428b-a31c-46d53bb53094with location: 330,277 with string value: World has been clicked
+button with id: b20ef608-197b-431a-a3e7-5ab834f2ed16with location: 99,1656 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 29bed7f9-00a6-485a-8ab9-6e952136b59bwith location: 894,1452 with string value:  has been clicked
+new View has been created with view id: 5

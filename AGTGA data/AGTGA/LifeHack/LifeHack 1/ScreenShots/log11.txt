@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: dd637f0d-9132-4398-98bf-c4bae22d725dwith location: 66,813 with string value:  has been clicked
+button with id: f88d1e10-574e-4b6f-b7a3-3b436a78afb5with location: 570,1255 with string value:  has been clicked
+button with id: 5c26c262-0d8d-4ec2-a77c-6f5188b1639ewith location: 198,370 with string value: Microwave a Nature Valley bar for 30 seconds to prevent crumbs when you eat it. has been clicked
+button with id: 33a73ecb-1079-4275-856c-37665693820bwith location: 161,302 with string value:  has been clicked
+button with id: 9b2def2f-4512-40ed-aed0-5f1d37aa416dwith location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: a6db9f53-7194-46d6-9c56-8df30bfa2ea8with location: 128,511 with string value:  has been clicked
+button with id: ef64ce3f-2c4c-4b40-9821-fe7699a9955cwith location: 686,1071 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 036ecb37-2881-41c7-bf8b-2be37330ea11with location: 198,370 with string value: Poke a fork through the creamy part of an Oreo so you can dip the whole Oreo in milk without getting your fingers wet. has been clicked
+button with id: 044bd969-7140-4ea7-8efa-bd08eede491fwith location: 918,87 with string value:  has been clicked
+new View has been created with view id: 7

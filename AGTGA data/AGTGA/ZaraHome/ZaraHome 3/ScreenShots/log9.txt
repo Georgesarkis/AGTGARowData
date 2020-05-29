@@ -1,0 +1,4 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 4c20ebe3-4857-474b-acca-b5d058302d02with location: 238,1240 with string value: Wishlist has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

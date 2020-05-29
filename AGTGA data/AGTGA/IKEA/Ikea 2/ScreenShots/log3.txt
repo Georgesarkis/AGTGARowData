@@ -1,0 +1,36 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 9be18880-e5bf-4765-811f-04b87a3067d1with location: 344,508 with string value: Erbjudanden has been clicked
+new View has been created with view id: 2
+button with id: aed98b19-ea4a-49ca-9169-6a9d6c9e11c0with location: 392,913 with string value: IKEA Family pris has been clicked
+new View has been created with view id: 3
+button with id: 8bbf57b2-b05d-4549-be17-738541b6341dwith location: 608,1200 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: d6e3d768-0afb-4949-9198-e8ac3f51487fwith location: 48,210 with string value:  has been clicked
+button with id: 6333ecf7-882b-46bf-8602-a7a13071154fwith location: 48,859 with string value: Nytt lägre pris has been clicked
+button with id: dfa2d6bc-4f18-4694-a69a-382086f40701with location: 608,1200 with string value:  has been clicked
+button with id: b4f5fccb-ec07-4a90-bbea-8478018d9d4cwith location: 32,1008 with string value: Till kassan has been clicked
+new View has been created with view id: 5
+button with id: d80c5b52-a776-4ae7-bd38-88b6c1a68455with location: 16,48 with string value:  has been clicked
+button with id: 32dae00b-6e44-4730-a3ab-7752485f982cwith location: 471,1200 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 6afd6dd6-604c-4416-b214-3a01393d0ebawith location: 368,1008 with string value: Logga in has been clicked
+new View has been created with view id: 6
+button with id: 4ce850b9-6558-4d99-9c60-478f34bc4d1ewith location: 474,80 with string value: Registrera dig has been clicked
+new View has been created with view id: 7
+button with id: b8753320-eeed-4d25-a9c0-0ade49c08084with location: 48,88 with string value:  has been clicked
+button with id: 018bf5c2-26a5-45e4-87c1-408d13d76dbdwith location: 48,88 with string value:  has been clicked
+button with id: 82458507-539b-4c2a-a595-93095c9d79e4with location: 32,1008 with string value: Registrera dig has been clicked
+button with id: 3fa00f8b-8f0b-4a40-a7c2-8914b86d3af9with location: 512,80 with string value: Logga in has been clicked
+button with id: ea11eb34-3a19-44a7-88aa-da5d914e2699with location: 32,1088 with string value: Logga in has been clicked
+button with id: d832a49d-4076-40ea-beed-548ce6c51940with location: 0,208 with string value: Logga in has been clicked
+button with id: 3a27c2c5-54ba-44fb-9429-3587b7bd6aa9with location: 48,873 with string value: Glömt lösenordet? has been clicked
+new View has been created with view id: 7
+button with id: 181beac4-8a65-495d-89f9-487d9644ad3fwith location: 32,1104 with string value: Fortsätt has been clicked
+button with id: 7800b1fc-fc72-43d6-80c6-b61703050511with location: 48,88 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 211ad982-b378-4543-b5fb-2462384ef35fwith location: 48,873 with string value: Glömt lösenordet? has been clicked
+button with id: 6d991b7e-6bbb-4feb-b14a-7e6c29a0585awith location: 48,272 with string value: Återställ ditt lösenord has been clicked
+button with id: 4721dff8-c8e9-49b0-bdc7-6421bbe4756fwith location: 48,451 with string value: Vi skickar en länk för att återställa ditt lösenord. has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

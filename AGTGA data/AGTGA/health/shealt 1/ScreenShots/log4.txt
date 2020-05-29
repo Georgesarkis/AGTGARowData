@@ -1,0 +1,32 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 43351b4f-6d9e-4f24-a60f-39e4a13af771with location: 564,1033 with string value: Paused has been clicked
+button with id: 41003f11-ee49-433a-92d4-fbe7a9542782with location: 304,202 with string value: Duration has been clicked
+new View has been created with view id: 5
+button with id: bedb51c6-0a24-41d7-87a2-4d9fa85e1584with location: 112,78 with string value: Select data to show has been clicked
+button with id: fa9cd7fd-ac2e-47d1-af56-5dc9769230e3with location: 133,203 with string value: Duration has been clicked
+button with id: ca8a32c9-989b-4f48-835d-cd9edca86f08with location: 112,78 with string value: Treadmill has been clicked
+button with id: d532b7e9-79dc-478f-8b4f-2117fb9fdbbewith location: 90,1174 with string value: Resume has been clicked
+button with id: fd81e486-1b55-4b8a-b474-dac1dc661dd0with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 8ad0c319-3cf2-4f66-b3c5-81465fe5167dwith location: 109,1178 with string value:  has been clicked
+button with id: 4d608bf6-dafc-4e32-a081-480525de2024with location: 0,48 with string value:  has been clicked
+button with id: 26ec2025-707e-42aa-a272-75b5bb32fecewith location: 496,104 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 01fc77f7-2180-4c46-a6c3-f3909271ef84with location: 0,48 with string value:  has been clicked
+button with id: cca7ba04-4cf3-4d31-925d-6cfa447037aewith location: 84,729 with string value:  has been clicked
+button with id: 930905d7-df47-457e-8505-49a805ae4345with location: 325,1095 with string value: 1072 kcal has been clicked
+button with id: 2a564ac9-6d17-48fb-a8c9-c428e54e8d56with location: 48,1095 with string value:  has been clicked
+button with id: 8e023ee8-6912-40b2-ba0b-c1ab1ad13473with location: 182,538 with string value:  has been clicked
+button with id: 65e88fb2-f1bf-4fe5-b010-9d937ede02a7with location: 112,1161 with string value: Activity has been clicked
+button with id: f8384032-45ed-4cc3-91e1-29b842768357with location: 48,1258 with string value:  has been clicked
+button with id: be308eeb-f3a0-4c8e-8379-1044a19cabc6with location: 36,160 with string value: Track has been clicked
+button with id: 0d66871d-760f-4de7-9504-473d74e9901awith location: 48,690 with string value: Daily activity has been clicked
+button with id: a6a7067a-a738-4e42-9569-bb0f9ed8ab34with location: 360,160 with string value: Trends has been clicked
+new View has been created with view id: 5
+button with id: 2fc68f63-807e-47ce-9411-89673db149b2with location: 112,78 with string value: Active time has been clicked
+button with id: c813b070-f0d6-47fd-ac9f-a2ed0263ef96with location: 360,160 with string value: Trends has been clicked
+button with id: de06a367-d1ce-4393-acf0-97de5a79d780with location: 0,736 with string value:  has been clicked
+button with id: 06c73b9a-c821-48b6-a0a2-fa7b54f94838with location: 626,48 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

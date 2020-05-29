@@ -1,0 +1,55 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 6f038e99-c104-4b36-897f-9bd78bbe0dbewith location: 60,1200 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 5862cf54-f345-410b-986d-8ff23ebbb1c2with location: 344,264 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: a9cad3a1-3349-467b-a743-481b5a9736eewith location: 592,569 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 79654c26-ada5-4fac-bec8-79cc78370642with location: 48,830 with string value: Registrera dig eller logga in för att visa och spara shoppinglistor från valfri enhet has been clicked
+button with id: 07b92f8a-c9b0-4949-bf95-e8c89341717cwith location: 48,727 with string value: Få ut det mesta av din IKEA-app has been clicked
+button with id: b429b193-63f7-48d5-83c8-d414e8f81baewith location: 48,1120 with string value: Kanske senare has been clicked
+button with id: 35e5558c-b9c2-45cb-b66a-db4fc1d0e0f8with location: 392,947 with string value: PHALAENOPSIS has been clicked
+new View has been created with view id: 4
+button with id: bf51ab94-372e-45e5-ad58-dfc9f170e7c0with location: 16,48 with string value:  has been clicked
+button with id: e9d2042a-3337-4e09-bf52-f7b4b5608802with location: 32,945 with string value: PHALAENOPSIS has been clicked
+new View has been created with view id: 4
+button with id: 11a4f3f6-1fd4-4dff-b20c-4e9081ac4ab5with location: 16,48 with string value:  has been clicked
+button with id: 2341248b-173c-449e-b286-69734867e811with location: 334,1200 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: bcc9a69b-2189-4717-a891-7881cb4e9072with location: 334,1200 with string value:  has been clicked
+button with id: 32a979ec-ddd3-4704-8f8d-4d57213edbebwith location: 32,495 with string value: Registrera dig has been clicked
+new View has been created with view id: 5
+button with id: 92774237-aa11-4eb1-98bc-4f8ed883e4ccwith location: 48,88 with string value:  has been clicked
+button with id: d8964e12-1fdc-4e34-bed1-226296bf92ddwith location: 368,495 with string value: Logga in has been clicked
+new View has been created with view id: 5
+button with id: 3b55a2e1-ceb6-41a9-ac7d-6c998edad422with location: 474,80 with string value: Registrera dig has been clicked
+button with id: 0f9ef8e0-7c02-4479-b0f3-99dbbd4b8ff8with location: 0,208 with string value: Skapa ett konto has been clicked
+button with id: 705d8ebf-afda-4e87-b4c3-eca9d987354cwith location: 512,80 with string value: Logga in has been clicked
+button with id: 97f41860-9acd-4a29-8f77-9126ccf721cfwith location: 32,1088 with string value: Logga in has been clicked
+button with id: 1a0c5c12-7066-46ec-9a7d-82c94229a41cwith location: 48,88 with string value:  has been clicked
+button with id: 80add602-3a0b-462b-89b7-0ed6370d25b5with location: 471,1200 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 744dfd80-a775-4a39-be47-ae4d0ea559c0with location: 48,288 with string value: Spara dina favoriter has been clicked
+button with id: ae21ce28-2bed-49a6-9d28-62b4ebe95c1fwith location: 368,1008 with string value: Logga in has been clicked
+button with id: 8feb1102-23b5-4349-ad85-a4d48ab03af3with location: 48,873 with string value: Glömt lösenordet? has been clicked
+new View has been created with view id: 6
+button with id: 595742db-c184-433a-aa0d-f2a27884e342with location: 48,88 with string value:  has been clicked
+button with id: 6dca4df0-d7fe-4640-8c72-b5d71be08909with location: 0,208 with string value: Logga in has been clicked
+button with id: 02cf34f8-2bfe-4da4-b5b3-6bf18dccd8f1with location: 32,1008 with string value: Registrera dig has been clicked
+new View has been created with view id: 6
+button with id: 7ccfc69b-b112-49b6-ab37-cfca76601dc1with location: 48,371 with string value: Registrera dig eller logga in för att se och spara dina favoriter i inköpslistor. has been clicked
+new View has been created with view id: 7
+button with id: efb40539-05bb-4e9d-a1c6-1d8d9cac2256with location: 48,288 with string value: Spara dina favoriter has been clicked
+button with id: bf60b750-7fa3-403e-b4f1-3b10cf2a1ed4with location: 334,1200 with string value:  has been clicked
+button with id: 95051eae-4729-4998-8f0c-bd555a6c6afcwith location: 640,1093 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 3f2733ea-d8e3-417a-a3f1-c0304da92430with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: b79dc9b0-e95a-40f7-a2c4-9129def1520fwith location: 197,1200 with string value:  has been clicked
+button with id: 708ecda7-d125-4ebd-8b9d-0cc3bfa438e4with location: 672,208 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 6a6748f1-d867-49a5-827e-cb233167b1b8with location: 50,613 with string value: Gillar du IKEA-appen? has been clicked
+button with id: e83fdc95-f39a-4502-92bb-4bcfccb25739with location: 518,717 with string value: Ja! has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

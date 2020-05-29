@@ -1,0 +1,67 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: 8aaf660c-435d-44df-a4cd-55c4ef48a501with location: 330,951 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 7df12cae-1108-4670-b5d1-9e5d159c4ba2with location: 20,425 with string value: Åklagaren om sjuksköterskans död: "Utreder vållande till annans död" has been clicked
+new View has been created with view id: 3
+button with id: ee7b1583-77c9-47f7-979c-43dd33824fe6with location: 10,652 with string value:  has been clicked
+button with id: f0700dd9-e5ad-4f65-9560-1332b759d993with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 3363e7b4-d476-49cf-a985-89cd727bb777with location: 20,425 with string value: Åklagaren om sjuksköterskans död: "Utreder vållande till annans död" has been clicked
+new View has been created with view id: 5
+button with id: fe9605ad-ab16-43e8-8417-5de91e7b9629with location: 360,594 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 934be267-6e12-45bd-8a5a-facb55795051with location: 0,964 with string value: Toppnyheter has been clicked
+button with id: 6b10f2fe-425c-4fc6-8cdd-97b2b281f004with location: 0,964 with string value: Toppnyheter has been clicked
+new View has been created with view id: 5
+button with id: bf8102df-4cdb-40cf-8291-79fe6982bcb5with location: 450,811 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 08e8752e-22de-4391-b188-c5b40d4ff88bwith location: 276,1148 with string value: 29 apr. 2020 has been clicked
+new View has been created with view id: 7
+button with id: 2a2e16f4-5bca-4a6f-b49f-2f1d8d29ca52with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 95ce7bf7-fc29-4df2-b8b0-8fb7d004289bwith location: 276,1148 with string value: 29 apr. 2020 has been clicked
+new View has been created with view id: 9
+button with id: e6613395-006e-4c10-a43d-3c781315073dwith location: 508,845 with string value: Klipp has been clicked
+new View has been created with view id: 10
+button with id: 54aafb54-6e28-4384-a5ac-27cc6bcd26dbwith location: 32,490 with string value: 29 apr. 2020 has been clicked
+new View has been created with view id: 11
+button with id: 7de8263e-19a0-4786-8517-764283967426with location: 0,928 with string value: Senaste nytt has been clicked
+new View has been created with view id: 12
+button with id: 5df5b217-77d5-4ea8-9f75-0dc4f1f513abwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 13
+button with id: 1f073bba-c838-496a-9afd-98e57d43a4bawith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 14
+button with id: 26e320cb-4028-40fd-98b6-0dcc9532163dwith location: 417,1161 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: 80dc5bfd-e5d1-405c-8ecc-94d3ee5c85f3with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: 71a603d9-7f99-40cc-9609-cd0b8277d04cwith location: 508,891 with string value: Klipp has been clicked
+new View has been created with view id: 17
+button with id: 4595f53c-c24d-49d8-9c00-b416af094f5bwith location: 508,891 with string value: Klipp has been clicked
+new View has been created with view id: 18
+button with id: 8f222ca0-7671-4c5e-b930-7221680090dawith location: 16,1097 with string value:  has been clicked
+new View has been created with view id: 19
+button with id: 64295bc5-5611-4cdd-a665-39f3ab977248with location: 276,1103 with string value: Nya skatten på påsar slår hårt mot branschen: ”Plasten är inte boven” has been clicked
+new View has been created with view id: 20
+button with id: 05019850-366a-427c-b641-e2ad7b9a6ebawith location: 620,468 with string value:  has been clicked
+new View has been created with view id: 21
+button with id: 2674cc27-e452-4d6a-8ab4-611fd7bac085with location: 0,877 with string value: Den införda skatten på plastpåsar har redan fått stora effekter för flera svenska företag, trots att prishöjningen inte syns i butikerna förrän nu på fredag  den 1 maj. has been clicked
+button with id: 1dfd850e-4d94-4dde-8532-1c3e8ab8c8c3with location: 0,734 with string value: Nya skatten på påsar slår hårt mot branschen: ”Plasten är inte boven” has been clicked
+button with id: 36352867-1202-4e32-9f63-9e78277e5df0with location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: 74d1f708-cb04-439e-8093-87068e44fe1ewith location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: 50ee39fa-2d1e-4e2c-96ce-ac9cda4ae448with location: 0,835 with string value: nyheter-debatt • 1 min 46 sek has been clicked
+new View has been created with view id: 22
+button with id: 673d8927-9efb-461c-9f74-77ebf12544d9with location: 136,58 with string value:  has been clicked
+new View has been created with view id: 23
+button with id: 06ca9ab4-c22c-4c40-a887-4dc6622f7cebwith location: 508,891 with string value: Klipp has been clicked
+new View has been created with view id: 24
+button with id: 8a3185c7-8c94-4340-bd04-33c3ba6d3d71with location: 32,536 with string value: 29 apr. 2020 has been clicked
+new View has been created with view id: 25
+button with id: 979ed10f-0aca-4819-a0dd-e142d73fdb05with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 26
+button with id: 64d3c4a5-8e8d-41a2-a91c-a3bfd13bc322with location: 276,1194 with string value: 29 apr. 2020 has been clicked
+new View has been created with view id: 27
+button with id: 4710c665-0c5f-4948-9fe7-b6ff822502dcwith location: 417,1207 with string value:  has been clicked
+new View has been created with view id: 28
+button with id: f88bd8a7-48df-47e6-8730-d63c93ce8c00with location: 199,552 with string value:  has been clicked

@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 796f87b4-37aa-4a2a-8275-3fa80d5e487awith location: 504,1632 with string value:  has been clicked
+button with id: 42d5c67a-4457-4d1d-98b0-3a365ad7605awith location: 72,913 with string value:  has been clicked
+button with id: b36ed73c-ae33-4529-be53-a60cf6c753dbwith location: 0,606 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 1e8fd06b-ddce-4d7e-9ec6-90c3f899e394with location: 0,72 with string value:  has been clicked
+button with id: 3ab10cd7-6306-48a9-aad8-72ea10b36c63with location: 96,240 with string value: Recipe inspiration from Food Editor Sam Sifton. has been clicked
+button with id: 57ddf15f-a58c-4408-899f-5c640e9cbc5dwith location: 78,1460 with string value: The Indisputable King of Bean Dishes has been clicked
+button with id: 6c35dfc3-37f9-4f3f-b8b8-2e4461099e88with location: 96,1025 with string value: See My Options has been clicked
+new View has been created with view id: 10
+button with id: 4fc4d74c-c849-48d7-a35a-9432c32bab6bwith location: 45,1643 with string value: We're having trouble connecting to the Google Play store. has been clicked
+button with id: 66555501-f03f-49b5-a61e-1e55feec8c49with location: 45,318 with string value: Your subscription helps support our journalists as they seek the truth and help people understand the world. You can cancel anytime. has been clicked
+button with id: 07631e2d-f099-46a6-b0f6-eb93d976c52awith location: 0,582 with string value: Basic has been clicked
+button with id: 3365eb20-3522-47fe-902f-05e30b78fc84with location: 108,1187 with string value: NYT Cooking, featuring guides, lessons and 19,000+ recipes, available in a dedicated app and online	 has been clicked
+button with id: 23095a25-14f4-4fdc-98f7-ab53b7ad22f4with location: 45,1196 with string value:  has been clicked
+button with id: 125e7c91-45e2-4328-9dcf-d693da9ef0d6with location: 45,810 with string value:  has been clicked
+button with id: 5bbf74d0-a5e7-4c8f-aa23-6ded8f37b2d6with location: 108,964 with string value: The Crossword, with over 20 years of puzzles that you can solve in a dedicated app and online	 has been clicked
+button with id: bbd2b015-2cd1-472f-a729-36deca469abawith location: 45,1419 with string value:  has been clicked
+button with id: 423fabf7-9e37-49ea-a5ac-c94bddaa1580with location: 540,582 with string value: All Access has been clicked
+new View has been created with view id: 11
+button with id: 22c3f7ba-2d3c-4993-bb9a-17539c2c9571with location: 0,582 with string value: Basic has been clicked
+button with id: 6c5139d8-78a2-4864-b639-9f3861596712with location: 173,222 with string value: Support independent journalism has been clicked
+button with id: 7a669478-4a42-4f27-b65e-ee0735b45a16with location: 48,124 with string value:  has been clicked
+button with id: 429cb6af-aa3f-46d8-a5d4-522ec02be313with location: 816,84 with string value:  has been clicked
+new View has been created with view id: 10

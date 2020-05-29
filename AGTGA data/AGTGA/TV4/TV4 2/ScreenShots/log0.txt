@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: f7e56346-0096-4d7f-b597-e4039aec3f5bwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 49c871c3-d104-4f38-ba3d-b0dcaa59cd4fwith location: 552,510 with string value: Visa alla has been clicked
+new View has been created with view id: 3
+button with id: 5e27b9c2-c16d-44f8-865d-8b9bf57a5d95with location: 0,48 with string value:  has been clicked
+button with id: b00960aa-fdd3-4b35-898e-3a1dd3042c13with location: 64,498 with string value: Start has been clicked
+button with id: fa5e2ae7-21a3-4951-9db0-578088c7433ewith location: 330,742 with string value:  TV4Nyheterna LIVE has been clicked
+new View has been created with view id: 4
+button with id: 1a10b3e2-6829-4655-a317-62a79747c198with location: 635,1031 with string value: LIVE has been clicked
+new View has been created with view id: 5
+button with id: 4c0d748e-96c3-4505-8156-57b4571b232awith location: 0,964 with string value: Toppnyheter has been clicked
+new View has been created with view id: 6
+button with id: 40917fe7-f1f9-4ee5-9285-93d26851c89awith location: 0,964 with string value: Toppnyheter has been clicked
+new View has been created with view id: 7
+button with id: e8e511b0-920d-407b-8f82-59d06da1f455with location: 20,1240 with string value: Spelas nu: has been clicked
+new View has been created with view id: 8
+button with id: c66c8061-5fab-4d96-9c39-b49a8e2ec70bwith location: 450,652 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: c5d16dc0-7057-4b09-80fb-781a903fddf8with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: f5d0cc4a-d322-4ebf-abdf-310bef7f920cwith location: 450,811 with string value:  has been clicked
+button with id: 00432914-a405-42d9-88ea-b4be019e5afawith location: 217,490 with string value: 34 min has been clicked
+button with id: d0b099de-0298-4a83-8fba-a908016bb11awith location: 528,8 with string value:  has been clicked
+new View has been created with view id: 10

@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 0227ddbd-7d13-452f-b402-fb89efe2bb76with location: 0,143 with string value:  has been clicked
+Exception aquired with message: Message: An element could not be located on the page using the given search parameters
+

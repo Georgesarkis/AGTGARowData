@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: e4923dec-6453-43d1-b1b7-99d418ab3c2fwith location: 0,1168 with string value:  has been clicked
+button with id: ccea9197-7c1a-477e-8c2d-3cbf8e181c05with location: 620,72 with string value:  has been clicked
+button with id: 8d966e18-1ca9-4fe6-bffa-88eba24069b1with location: 355,885 with string value: CHAT has been clicked
+button with id: 4191ce7c-6a0d-4be9-b0d2-75e6e39c60f9with location: 310,400 with string value:  has been clicked
+button with id: 96122386-a153-40d5-9cbb-e61901cb16e7with location: 295,882 with string value:  has been clicked

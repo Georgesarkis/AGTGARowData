@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: 1b9f20d3-5994-468a-95f6-22fb3b9ec99dwith location: 492,1243 with string value: CARRYOUT has been clicked
+button with id: 6ec59aa9-43d0-46cb-a026-4d69abb66401with location: 384,430 with string value: to your pizza profile to access saved contact and payment information. has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

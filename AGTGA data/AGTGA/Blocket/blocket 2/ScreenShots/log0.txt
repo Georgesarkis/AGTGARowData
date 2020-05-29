@@ -1,0 +1,16 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 1cd4b4bf-cb6a-4198-a53a-23a7bd5b1c60with location: 415,690 with string value: Idag 14:22 has been clicked
+new View has been created with view id: 2
+button with id: c4e2023c-5a54-47e7-b1a4-be5f5af09a95with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 17673b29-db76-4370-ba12-a893b8520bbawith location: 304,683 with string value: 2 900 kr has been clicked
+button with id: d934b6b5-3fde-466e-ad02-5dbe346e7e62with location: 32,693 with string value: Audi BMW MB Vinterhjul 17 has been clicked
+button with id: f7d3eabf-43bd-4bbe-8fb7-03b8acb148c4with location: 32,1130 with string value: Inför köpet has been clicked
+new View has been created with view id: 3
+button with id: 57755e82-3bd1-47c2-ba5b-a891cc255bcdwith location: 32,590 with string value: 4st fina vinterhjul med nästan nya Michelin dubbdäck, ca 10mm gummi kvar. 
+Dimension däck 225/45/17
+Suttit på en Audi A3 men passar många andra med bultcirkel 5/112.
+Fälgar Dezent 17 tum, bra skick. has been clicked
+button with id: 96eb7199-ce74-40f2-a77d-fd220f47f791with location: 32,1199 with string value: Skicka meddelande has been clicked
+new View has been created with view id: 4

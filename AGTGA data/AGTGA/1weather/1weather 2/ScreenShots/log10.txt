@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 09edcf95-2ca5-427d-98db-00ecd56bb00fwith location: 787,929 with string value: UV - Moderate has been clicked
+new View has been created with view id: 2
+button with id: 8e31dccc-e88a-418c-bb20-6c80d38e5579with location: 221,1033 with string value: The UV Index provides a daily forecast of the expected risk of overexposure to the sun. The Index predicts UV intensity levels on a scale of 1 to 11+, where 1 indicates a low risk of overexposure and 11+ signifies an extreme risk. has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

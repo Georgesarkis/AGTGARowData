@@ -1,0 +1,19 @@
+New View Has been Created, The activity name is .features.splash.SplashActivity
+new View has been created with view id: 1
+button with id: 7113c158-6981-42c5-9212-49019944346dwith location: 330,277 with string value: World has been clicked
+new View has been created with view id: 2
+button with id: 6d2ffd61-3777-43d2-8f35-4c2788e1e142with location: 454,112 with string value:  has been clicked
+button with id: 564f16a7-b9c0-4deb-be1b-72561da471cdwith location: 99,1656 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: beb55973-c4ff-4196-ba39-7806c135559awith location: 909,1656 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 5d57e0ee-318d-4986-bd7d-0d4d2cd02bdewith location: 48,1220 with string value: A sound effect when you open the app has been clicked
+button with id: 6ac3058a-ec44-44a8-8e9f-1b2aaa56be5awith location: 48,444 with string value: Alerts has been clicked
+new View has been created with view id: 5
+button with id: 0569c66d-842f-40a2-9d31-330f90b3da06with location: 909,1656 with string value:  has been clicked
+button with id: 3808429e-bf0b-4e68-b59f-019c3d6fabf2with location: 48,365 with string value: International has been clicked
+new View has been created with view id: 5
+button with id: 01cf3cb1-2273-4638-a876-126a6a398995with location: 909,1656 with string value:  has been clicked
+button with id: 9190c9a7-7f41-4101-8b2f-237b156a7ca4with location: 99,1656 with string value:  has been clicked
+button with id: e9e613e1-ac76-4229-9fb9-2ae77131c627with location: 369,1656 with string value:  has been clicked
+new View has been created with view id: 4

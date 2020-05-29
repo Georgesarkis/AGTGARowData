@@ -1,0 +1,127 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: 98f2762e-052c-4f2f-bbe4-8241f05ca5c7with location: 15,264 with string value: Brukare has been clicked
+new View has been created with view id: 2
+button with id: b464e412-bc90-4e5e-a60c-36bfaa36dff8with location: 15,455 with string value: Larmmottagare has been clicked
+new View has been created with view id: 3
+button with id: 33081d70-e49f-4272-9492-92f778c9d90cwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 62eeb59a-3028-496e-bad5-144629eaec24with location: 15,519 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 25009c0a-3994-4dbd-a065-03f9fcf89e11with location: 48,310 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 7e264671-1950-428a-a135-28dfee744559with location: 39,489 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 3e0887f1-3d22-4ba6-823a-5455de22e36bwith location: 405,920 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 28a6870d-65af-407b-8b58-99d16c6607bbwith location: 549,115 with string value: Carina has been clicked
+new View has been created with view id: 9
+button with id: 97825a94-8a95-4cae-8a42-ffead9199f66with location: 39,1588 with string value: Anhörig has been clicked
+button with id: 1c51ca37-46a4-475e-8d82-7fa5877957e0with location: 39,1671 with string value: - has been clicked
+button with id: 2d13b4fb-379d-4c55-9c82-73b4e04a00b7with location: 39,1144 with string value: -asdf
+asdf
+asdf
+asdf has been clicked
+button with id: fc479e6f-1535-479b-93cb-87c9be93ef06with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: b28a067e-4f37-4c15-8d66-406ef0a1c25cwith location: 0,72 with string value:  has been clicked
+button with id: b9c4449f-5224-42d1-a9fb-c9f166ae85cbwith location: 405,96 with string value:  has been clicked
+button with id: 56b33c2d-514b-4f6d-810b-668824a3381ewith location: 15,408 with string value: Information has been clicked
+button with id: 034b3874-32e9-446b-ab61-c40af8fab52dwith location: 200,283 with string value: PROFIL has been clicked
+button with id: 4de37889-d6b2-483b-b1f3-b7a0b75c8a05with location: 969,456 with string value:  has been clicked
+button with id: 58202fdd-6c5c-4085-9eba-e38815a47c79with location: 405,920 with string value:  has been clicked
+button with id: 43f7814d-eada-45e1-b33d-0737cc30cc90with location: 936,84 with string value:  has been clicked
+button with id: 558fda04-6c89-49a3-b45b-a6e0506bd71fwith location: 237,753 with string value: 93% has been clicked
+new View has been created with view id: 7
+button with id: 092b62e6-16c3-46d4-810e-7f1fd987dd73with location: 15,1695 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 76289c27-9acb-4803-aca8-d57582d2fbd3with location: 48,1560 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 848ff94e-9804-47e1-a804-2111950b0710with location: 144,1213 with string value: SPARA has been clicked
+button with id: e2d5a232-daa0-4e0b-be4c-afc5e9257672with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: d13bc588-1e9f-407c-9df9-a4d60df5e7b0with location: 398,96 with string value:  has been clicked
+button with id: 0894f4df-4461-4e55-ad27-ff9e4ddf467fwith location: 200,283 with string value: PROFIL has been clicked
+button with id: e6215fa7-c69b-48c7-a1e4-d24aa684336fwith location: 0,72 with string value:  has been clicked
+button with id: 8fee7dd8-fad7-4a15-81dd-7a101c6e537fwith location: 48,954 with string value: Hjälp & Support has been clicked
+new View has been created with view id: 10
+button with id: d19fad6a-9c6b-4243-8769-88bf397e16b3with location: 72,729 with string value: 0313608770 has been clicked
+button with id: c68bbd4e-a384-4962-aa9f-2604f5433c7dwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: 4fd5f7d8-ff0a-452f-ad48-c8cb44889c98with location: 0,72 with string value:  has been clicked
+button with id: a6a8eea8-ec8c-49a5-a801-72bf50849af9with location: 48,513 with string value: Mina avdelningar has been clicked
+button with id: 653390be-2ca2-4ff0-9d28-31a4a9cc14a1with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: c19a99d4-b043-4c4b-a82a-ea44647c5fc9with location: 936,304 with string value:  has been clicked
+button with id: 7040d395-6c4e-44f1-94e1-e960fe97974dwith location: 936,84 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 8e1a70bf-9f09-4b40-b22e-5d89b7e8a7f9with location: 0,72 with string value:  has been clicked
+button with id: f5f0eac8-bce4-4dc8-aff0-fb521aae08e9with location: 936,304 with string value:  has been clicked
+button with id: 2a4648ce-bbf1-471f-9a0b-c8a5721e7e2bwith location: 177,1556 with string value: Robert Henriksson has been clicked
+button with id: 953e359c-c5fc-4915-8dbb-e2f794365ec2with location: 864,1560 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 57a62d80-4440-4c74-8be5-10c05c1379f4with location: 398,96 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: c1585989-5f2c-457c-853f-84909d731738with location: 542,115 with string value: Robert has been clicked
+button with id: 5183f474-0e52-4775-b8a6-de7d7d19208cwith location: 936,84 with string value:  has been clicked
+button with id: ca49937e-f0f9-4326-b4cc-bb62fcb0f36awith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: c0568863-7b5b-420b-8f5d-4face2b161d5with location: 177,688 with string value: Charlie Lundh has been clicked
+button with id: b3a119ce-00de-4096-bb51-d70f33f9f6eewith location: 39,682 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: d26e3024-6fa8-4617-a117-8e9d1fda1440with location: 15,1695 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 9b4e342e-fa3e-463e-9f7e-1990b07f0aedwith location: 200,283 with string value: PROFIL has been clicked
+button with id: dc283943-b9cd-4764-9123-ac2459c47605with location: 405,920 with string value:  has been clicked
+button with id: 06b8e731-f21d-4f41-951b-0417ab9d2d6awith location: 200,283 with string value: PROFIL has been clicked
+button with id: 9b1824ce-cdcd-41bd-8692-edf8e15828b6with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: 325c96e0-1e25-41fb-b23b-66237b62b2eewith location: 731,283 with string value: KARTVY has been clicked
+button with id: 92dc6796-42e5-4c16-8f4d-e4b0d8e22609with location: 39,682 with string value: 0730000000 has been clicked
+button with id: bc3efe15-0ee5-44b8-86fe-b35065545215with location: 969,312 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: c64e14bf-90f7-4b5b-ad01-4c691dc6028dwith location: 969,312 with string value:  has been clicked
+button with id: df301dc0-7323-4cd4-83f9-5449827ba7fewith location: 237,450 with string value: Sam Larsson has been clicked
+new View has been created with view id: 7
+button with id: a00702df-0fe6-403b-86f0-ce151e2166a9with location: 15,1695 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: f76c2869-9a69-44bf-b195-4568d9a27c86with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: dd5f12b3-25f8-42cd-be10-3e0a6198c1bcwith location: 0,72 with string value:  has been clicked
+button with id: 96219e18-a2ad-499b-aaec-ab931ef05d87with location: 731,283 with string value: KARTVY has been clicked
+button with id: e4a32f2d-2cdc-4619-832a-74c1ae3170aawith location: 405,920 with string value:  has been clicked
+button with id: e1cfb7b5-c839-48e5-b64c-0d93726f5b11with location: 200,283 with string value: PROFIL has been clicked
+button with id: 8f3137d7-e19b-41b7-ab99-29b570a503aewith location: 48,513 with string value: Mina avdelningar has been clicked
+new View has been created with view id: 10
+button with id: ae0b1ab6-4fb4-44cd-b234-30ac93cb90a7with location: 48,310 with string value:  has been clicked
+button with id: 21f85cd0-81d3-4d38-b449-5f981727dff0with location: 15,264 with string value: Brukare has been clicked
+button with id: d8a95ca1-d404-4b87-9e2f-0eed434dab46with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 81b5f1a8-3215-42b2-85d0-e8c4754db1abwith location: 15,264 with string value: Brukare has been clicked
+button with id: d5b39e9d-5417-4777-9791-3a2ed4c6f1dawith location: 48,660 with string value: Larmlista has been clicked
+button with id: f8e19aad-775c-4fad-b10c-ca428b1a3386with location: 237,830 with string value: Manuellt larm has been clicked
+new View has been created with view id: 7
+button with id: b05c3f87-8bd8-457f-8e3f-74bb19ef028fwith location: 540,1584 with string value: AVSLUTA has been clicked
+new View has been created with view id: 8
+button with id: 8328402b-30c7-481d-8a7d-56b16d7ef020with location: 75,843 with string value: Ett ohanterat fel uppstod has been clicked
+button with id: 23ca68fc-359f-41f0-a1f5-4a9f6d3ea341with location: 147,746 with string value: Kunde inte hämta information. has been clicked
+button with id: 2216e0ee-aaa7-4229-9d98-a81125f48893with location: 777,999 with string value: OK has been clicked
+button with id: 4f7fc83c-9280-44c1-9bc3-e061b2fa7669with location: 504,1488 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: f40d1964-5ab0-4559-aec1-1a01836e29b4with location: 15,1695 with string value:  has been clicked
+button with id: 3f7ff191-48e5-44ef-a3f4-7d3c89dac96dwith location: 405,920 with string value:  has been clicked
+button with id: bb07fb8a-2710-4342-9cf6-79215a526c59with location: 156,1584 with string value: HOS PERSONEN has been clicked
+new View has been created with view id: 10
+button with id: 41f7c609-ca47-426d-9fa3-2349c6ada53ewith location: 144,811 with string value: Tagit kontakt med personen? has been clicked
+button with id: d4c281c9-b656-4d4b-9179-4eba087ebc6fwith location: 552,1012 with string value: AVBRYT has been clicked
+new View has been created with view id: 11
+button with id: 23fc62fe-baea-4499-91f0-6698698dbd4cwith location: 48,881 with string value:  has been clicked
+button with id: c3a2c435-5659-4a3d-92bf-63b3851cf515with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 12
+button with id: 380c0a0c-7fa0-4c8d-b131-7ddddf87127bwith location: 204,1026 with string value:  has been clicked
+button with id: 534e9147-84c9-499b-9f39-44d00cea8043with location: 540,1584 with string value: AVSLUTA has been clicked
+button with id: 420bd8ea-e73f-49f7-a591-e5d50461ee3bwith location: 322,1416 with string value:  47% has been clicked
+button with id: 387dd909-d6f6-4955-b2d6-d6ba751cbd30with location: 48,954 with string value: Hjälp & Support has been clicked
+button with id: acf4cdde-5a67-478d-966a-a8830e91aa95with location: 72,476 with string value: Guide till appen has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

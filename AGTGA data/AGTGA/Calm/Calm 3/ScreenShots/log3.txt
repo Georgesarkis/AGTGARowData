@@ -1,0 +1,30 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: bcb93955-c882-4780-9499-285caf69f0e5with location: 604,1040 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: a3443913-2b3f-4ca3-9101-acd3a668f0dawith location: 259,56 with string value:  has been clicked
+button with id: c3bce988-686b-4545-b53c-3adf244ad977with location: 604,1040 with string value:  has been clicked
+button with id: e7f02cfe-ac59-4fb1-a3fb-02547cf27426with location: 24,1233 with string value: For You has been clicked
+button with id: 2ca22acf-cb09-4f26-b3b0-018e90e8111dwith location: 44,834 with string value:  has been clicked
+button with id: 0607d618-b88c-405e-911f-2a246aba2906with location: 310,1237 with string value: Meditate has been clicked
+new View has been created with view id: 3
+button with id: 92fbc732-ace1-4224-b2e3-8e6252cc2583with location: 64,822 with string value: 7 Days of Calm has been clicked
+new View has been created with view id: 4
+button with id: 114b86d8-3194-4c19-999a-c33111b8acdfwith location: 624,1184 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: cfd66ad8-27ed-4db8-99d9-3ecf2022239cwith location: 670,395 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 8944ed96-6729-4a8f-bf5f-c521cc144d55with location: 624,1180 with string value:  has been clicked
+button with id: 4afc9c6b-4cb4-41cc-9175-f81ff4a7a4c4with location: 604,1040 with string value:  has been clicked
+button with id: 47cef6f8-3f04-4d27-8df1-1b3e4cf2849cwith location: 32,848 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 8b4415ba-6258-4c9a-896a-45eb39b70590with location: 32,398 with string value: Sign up or Log in has been clicked
+new View has been created with view id: 7
+button with id: a459842d-db86-4b43-ad8e-2d6a7a9421c4with location: 64,493 with string value:  has been clicked
+button with id: 629e3ded-4d75-4417-9ac5-473a5675131ewith location: 0,0 with string value:  has been clicked
+button with id: 1d37aa44-6a00-4efb-bb25-72a3719ac434with location: 670,755 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 98991e00-21fb-4aa3-89cc-5dd4eb5a04f5with location: 48,368 with string value: Scenes has been clicked
+button with id: b4eba496-d72f-4738-99dc-912b4609a7d5with location: 648,274 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 05336fb2-608a-43a5-905f-fb7b02e5ee26with location: 0,0 with string value:  has been clicked

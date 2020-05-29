@@ -1,0 +1,31 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 0f9ff806-6bfc-40c6-92c7-ba41712c7bacwith location: 0,1966 with string value: VIBER IMAGES has been clicked
+new View has been created with view id: 2
+button with id: 73f43007-f302-4469-ba39-b41693e8e3a8with location: 348,564 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 491c5ddb-9c7e-420a-a435-a6cc016e258dwith location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: 62c8cad4-6091-4200-86e3-656fec51a670with location: 412,1 with string value:  has been clicked
+button with id: 938f1a73-4347-41aa-9d67-c909e5b486e1with location: 720,1966 with string value: RECENTS has been clicked
+button with id: d61d5c46-ae36-450c-9fdd-3c0eaa4c8486with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 6
+button with id: fcd270e9-c918-4923-a176-8503fb5f57b3with location: 156,0 with string value: CHOOSE LAYOUT has been clicked
+new View has been created with view id: 7
+button with id: 1590dc68-3d55-4956-bb93-0ea52383509bwith location: 156,0 with string value: CHOOSE LAYOUT has been clicked
+button with id: 74217cc3-6634-4bb4-bb9a-a54f29377137with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 8
+button with id: f61b55a3-5cde-4792-84d3-eea377916dbcwith location: 348,564 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 58f80ed5-9a42-42dd-9c35-6e2aced462dbwith location: 0,0 with string value:  has been clicked
+button with id: 8a888784-8ec8-4d0c-9099-f58200c84011with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 9
+button with id: 43dcb30e-4541-43cf-9c55-a9efbbc26f61with location: 348,564 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: e6bf6e57-5ee3-4290-9907-c786995822b0with location: 348,564 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: dc4a7f6d-b2ee-4bd7-95ba-5d793077a8bfwith location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 12
+button with id: ac6f974c-12a3-43f3-87e8-3f523ab54669with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 13
+button with id: 4a1c996d-deb8-4fc2-ac74-69947b051bafwith location: 0,924 with string value:  has been clicked
+new View has been created with view id: 14

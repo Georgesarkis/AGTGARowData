@@ -1,0 +1,81 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 05bcd563-4851-4d4c-9e26-007f7e01a3e6with location: 0,61 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: a43f17c7-1981-4f89-96c8-0c37a67da0c6with location: 0,61 with string value:  has been clicked
+button with id: fa83a2fe-02b3-456f-9e67-0a659a797f1ewith location: 787,929 with string value: UV - Moderate has been clicked
+button with id: 1bfb62b8-4fe4-4d0d-be27-dd9b55462d13with location: 215,244 with string value: FORECAST has been clicked
+new View has been created with view id: 1
+new View has been created with view id: 2
+button with id: 05c73946-0b49-4dea-9ed3-10d97ccf2ae2with location: 498,1238 with string value: 20% has been clicked
+new View has been created with view id: 3
+button with id: b4db5462-87e7-4dc9-99df-a912e745aaf1with location: 132,1735 with string value:  has been clicked
+button with id: 580a66dd-a215-4ded-b01e-07cfc3e152a7with location: 877,285 with string value: SUNDAY has been clicked
+new View has been created with view id: 4
+button with id: 4d1791b5-21de-493f-858e-13dcd82b266ewith location: 0,61 with string value:  has been clicked
+button with id: 81c1cf58-f8fc-47ab-9d5d-ccf80008ed94with location: 0,61 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 409784c0-b490-4408-b72e-36a9ef3c022fwith location: 0,61 with string value:  has been clicked
+button with id: 705ffefd-8633-45c3-b10e-3d8b64e55c22with location: 714,71 with string value:  has been clicked
+button with id: 6b44059b-61fe-4c3b-a00d-240ce613f1c4with location: 217,1981 with string value:  has been clicked
+button with id: f8884a4b-0ac7-4a30-9740-fa56131e6f37with location: 183,114 with string value: Majorna has been clicked
+button with id: f74c9e37-26fc-44f9-abe4-86c367a9e99bwith location: 0,61 with string value:  has been clicked
+button with id: 3e2a1bfd-a55c-4e45-a98b-a32abf1369a8with location: 58,642 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 5f90f4bc-6e9e-46bc-83cb-d7fc5f272ef6with location: 0,61 with string value:  has been clicked
+button with id: 0cd2d24f-62ab-4afc-991a-df4be8e5ba48with location: 52,1677 with string value: WED has been clicked
+new View has been created with view id: 3
+button with id: 40c3110b-2525-444d-9ab3-07fd05078932with location: 741,1942 with string value: 0% has been clicked
+button with id: adc10558-41f0-410f-ba78-c97ecb1b37b7with location: 582,818 with string value: 11° / 6° has been clicked
+button with id: d9858d16-50ec-4128-a040-65045fc7b43awith location: 38,992 with string value: FEELS LIKE 9° has been clicked
+button with id: bbbebe47-7a92-43d3-9924-b99a74321501with location: 582,1782 with string value: 8° has been clicked
+button with id: 08bb8220-6855-468b-a3b0-cf1b1515c8b1with location: 0,61 with string value:  has been clicked
+button with id: d949282b-26d0-4bd4-b917-74c96fc4c408with location: 500,812 with string value: 13° has been clicked
+button with id: b401eab6-a601-4e30-b8f5-ea6afe42915awith location: 0,204 with string value:  has been clicked
+button with id: 6685e059-2bbe-4e3a-b72b-ab0894d322d0with location: 1058,285 with string value: MONDAY has been clicked
+new View has been created with view id: 4
+button with id: 45133340-d83a-4959-87f3-7512cccd20bbwith location: 0,61 with string value:  has been clicked
+button with id: cb0c19d1-2999-4537-a9fd-91593641e451with location: 342,642 with string value:  has been clicked
+button with id: 81465e5b-27b2-45eb-9f54-373f4ddc1aafwith location: 689,1942 with string value:  has been clicked
+button with id: 9b3c40af-fccf-4dc6-852d-8ae088acc22fwith location: 31,285 with string value: TUESDAY has been clicked
+button with id: 4b150d65-9b62-493a-942b-3fedb3a58835with location: 857,285 with string value: SATURDAY has been clicked
+new View has been created with view id: 4
+button with id: e05e5722-c350-4f0c-9a85-ab5ed7e4a6a9with location: 132,1735 with string value:  has been clicked
+button with id: d0879cb7-bc44-484b-be16-06d07ee924acwith location: 689,1942 with string value:  has been clicked
+button with id: f767824c-2f24-4063-8340-a663fd0b48cewith location: 0,61 with string value:  has been clicked
+button with id: a812a201-3663-4ea7-8363-4a79788487a7with location: 783,1726 with string value: 0% has been clicked
+button with id: b73a075d-420f-47f9-a172-a86edf1d2d1awith location: 643,1095 with string value:  has been clicked
+button with id: d4ef6bf3-15ca-45b0-88dc-2f4552586f75with location: 684,285 with string value: FRIDAY has been clicked
+button with id: 1fad8e4d-e6e2-4ec5-8e31-0cb40c2fd99bwith location: 641,1095 with string value:  has been clicked
+button with id: 3fbbda67-95d8-4ed4-9872-0b5a7bbe19fcwith location: 579,1243 with string value: 10:51 PM has been clicked
+button with id: 2f70b844-2c8c-413e-a678-35e857f371d5with location: 490,285 with string value: FRIDAY has been clicked
+button with id: a3a6f9cc-5de2-4a1a-89d8-24d8ff9eea4awith location: 119,592 with string value:  has been clicked
+button with id: 57aee303-4b05-4575-a447-be73a18bc06dwith location: 436,372 with string value: MAY 8, 2020 has been clicked
+button with id: 15813b5b-a555-4262-a9e0-27e876564bbewith location: 802,992 with string value: WSW 18 KM/H has been clicked
+button with id: ac3ba576-7143-4599-9491-a50cae1cfc99with location: 160,1078 with string value:  has been clicked
+button with id: 8fe023f5-6fb5-4b39-8e36-13af4183629awith location: 725,818 with string value:  has been clicked
+button with id: 2ed0c649-0813-4003-8a88-51b8faebd942with location: 27,1520 with string value: Morning has been clicked
+button with id: 2abffed7-ca5a-4b8f-bffc-d98fca45ee90with location: 292,1257 with string value: 09:13 PM has been clicked
+button with id: a12e263a-31ce-4b0c-bb14-e4c13ca5a95dwith location: 582,818 with string value: 13° / 7° has been clicked
+button with id: bad5c44f-044e-40ea-a5fc-ef3520a68753with location: 582,1942 with string value: 13 / 7 has been clicked
+button with id: 68074db7-4fe8-4c20-afe2-661be102c7dbwith location: 265,285 with string value: THURSDAY has been clicked
+button with id: cbcb4a1c-c268-4e72-92dd-55b7250cb39ewith location: 1900,1243 with string value: 05:54 AM has been clicked
+button with id: c9261bc7-6e89-4d1c-b754-d70a8d7e13cewith location: 1835,818 with string value: 20% has been clicked
+button with id: 62170650-3e8b-4f5b-b5de-9ca37ba244f0with location: 857,285 with string value: SATURDAY has been clicked
+button with id: fd7bed55-18c6-48e1-b893-36db5ba11334with location: 836,71 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: a7821cd6-ccad-416f-b7a2-ab6a52b29b4dwith location: 0,61 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 124252ca-d63b-4efc-8210-09ff57321676with location: 643,1095 with string value:  has been clicked
+button with id: 355c3b9d-3c8d-4f3c-9c12-b57d8dadf7bfwith location: 0,204 with string value:  has been clicked
+button with id: 2f61b7ed-7f1b-4bc2-b953-8b0d8349ad5ewith location: 725,818 with string value:  has been clicked
+button with id: 32f25e83-fd30-4cd6-a445-c0a4e5c0eea2with location: 0,61 with string value:  has been clicked
+button with id: a2a1c35d-1726-4e80-952f-214f0ecc5562with location: 649,1181 with string value:  has been clicked
+button with id: cdf5821d-94be-44f0-9dc7-95af8aa5ccd5with location: 582,1873 with string value: Partly cloudy has been clicked
+button with id: dbf600ba-28ef-4e4c-970c-766b2f932c8bwith location: 0,204 with string value:  has been clicked
+button with id: c3e588f8-26cb-41b5-a933-d82f1dee18a7with location: 1047,285 with string value: TUESDAY has been clicked
+button with id: 65381abe-fde9-4b91-9eff-ee8c5126729dwith location: 582,1782 with string value: 4° has been clicked
+button with id: 4de67f77-5fbc-479c-9a3b-9b2f8385d915with location: 0,285 with string value: SATURDAY has been clicked
+button with id: 9af5836a-b3ef-4053-a8df-d050f5fa7e99with location: 0,285 with string value: WEDNESDAY has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

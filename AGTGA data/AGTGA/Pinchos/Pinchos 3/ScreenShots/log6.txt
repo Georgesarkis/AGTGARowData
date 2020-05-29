@@ -1,0 +1,22 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: e756ca92-f0c7-4f8a-a90a-fca7cbf88203with location: 48,1650 with string value: ALINGSÅS has been clicked
+new View has been created with view id: 2
+button with id: b6933a99-18d7-4863-b93f-24ff542351c3with location: 349,110 with string value: INSTRUCTIONS has been clicked
+new View has been created with view id: 3
+button with id: 0ce76b34-286e-4972-ac2a-0454fca6aeb2with location: 349,110 with string value: INSTRUCTIONS has been clicked
+button with id: d7b648b7-f831-41dc-835a-847c2261069dwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 43af1bbe-3340-4be8-ab13-dd95920360d2with location: 48,312 with string value: GÖTEBORG MAGASINSGATAN has been clicked
+new View has been created with view id: 5
+button with id: 2c0793d6-df78-4f72-9a2b-6e02deaa3fefwith location: 972,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: f6a9957a-14c3-4639-ae5a-bde5f03f81f0with location: 0,1433 with string value: MESSAGES has been clicked
+button with id: 895e5d6d-1cdc-4f91-b58a-dd6346eaba8ewith location: 0,1624 with string value: You have no messages has been clicked
+button with id: 6ebd7666-a969-4f41-90ba-9fb78ddf26e1with location: 936,1462 with string value:  has been clicked
+button with id: 0a8a5856-ba64-4064-87ec-3711b1904463with location: 120,283 with string value: HOME has been clicked
+button with id: 882f0992-b1a0-4e17-98da-f2f281c124bcwith location: 841,283 with string value: FOOD  has been clicked
+new View has been created with view id: 6
+button with id: dfc43983-4ee7-4e4c-8d0c-5a9bee4a25a3with location: 120,283 with string value: HOME has been clicked
+button with id: bbf7f43b-1a24-4e3c-9024-8f27f6a16fb4with location: 0,72 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

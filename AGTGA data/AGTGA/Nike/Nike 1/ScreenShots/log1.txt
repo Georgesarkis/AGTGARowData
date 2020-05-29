@@ -1,0 +1,36 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: eaa5a075-9faa-41b1-bfdd-4436ff710f30with location: 0,408 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 008af8c4-3df7-4ca2-a95d-1660cb4ace5bwith location: 0,1250 with string value: Shop Sale Shoes has been clicked
+new View has been created with view id: 3
+button with id: 43c2fdae-a234-4c29-b283-06825bdd22fcwith location: 0,384 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: bfc94c72-50e2-4d9d-b6d1-3f5178c838d7with location: 216,123 with string value: NIKE AIR MAX 270 REACT has been clicked
+button with id: 3144ecfb-bd79-469e-a538-bb55e8906f65with location: 0,1602 with string value:  has been clicked
+button with id: 731eba81-ddcf-4c23-9573-99ad3b26c530with location: 834,120 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 14761555-c419-42b9-9fb3-ecbce8b12470with location: 143,1571 with string value: Camera has been clicked
+new View has been created with view id: 6
+button with id: ceed5c52-c4b5-49b0-8e80-a11954699fd5with location: 168,1234 with string value: Position a shoe inside the frame and take a photo. Best results come from getting a side profile. has been clicked
+button with id: 99598356-9d4a-4bef-8514-4163415cfb2awith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 348498f1-add8-4be3-b0c5-8a0e54a3087fwith location: 948,126 with string value:  has been clicked
+button with id: 36093049-c959-409e-a5ad-9ffc38c0f4efwith location: 143,1571 with string value: Camera has been clicked
+button with id: ceaa11ea-88f6-4495-9b9f-9a5b3a1d1318with location: 0,72 with string value:  has been clicked
+button with id: d2a4f121-5c49-4504-a231-8e743e65e8eawith location: 216,129 with string value: SHOE SEARCH has been clicked
+button with id: 3fcaa54d-e1b7-4c43-b7fe-45ffa54fe937with location: 0,72 with string value:  has been clicked
+button with id: 6eea13b2-c5e0-4506-ace1-74a2adc6ffc6with location: 0,240 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 45238683-03b1-4435-836f-2a4375e70034with location: 906,126 with string value:  has been clicked
+button with id: 276ce49d-af0e-400b-8f10-f28774f1b9dfwith location: 0,72 with string value:  has been clicked
+button with id: f1a0bb37-c3e9-423f-9e77-bc5d00c34582with location: 0,1033 with string value: Men's Shoe has been clicked
+button with id: 308ed031-b62c-4b35-b57f-ef6ac93ca8b5with location: 951,120 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: b56a5383-56c2-4849-aa7f-98da0993ff1cwith location: 450,624 with string value:  has been clicked
+button with id: 17fc8152-0420-40ef-bfdf-58d5b0960eaawith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 195fda21-8bdc-4bf5-9055-b69e42fdddc7with location: 0,72 with string value:  has been clicked
+button with id: 11fc3672-6fdf-404f-83b1-5928e9671e72with location: 402,420 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

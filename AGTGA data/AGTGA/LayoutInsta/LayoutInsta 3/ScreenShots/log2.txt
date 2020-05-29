@@ -1,0 +1,16 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: ff73e102-c893-49c2-9af7-0cf80576b3fcwith location: 348,564 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 4f1dbb05-e452-4d80-9d39-e8ac52606605with location: 0,0 with string value:  has been clicked
+button with id: 7b2172ee-ce5d-4f73-a981-e0f4cfa847ecwith location: 348,564 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: e504f508-2b92-4651-8e40-60c94c52e20fwith location: 412,1 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 3c64bc33-6a76-4aeb-9773-067c6a47e794with location: 0,0 with string value:  has been clicked
+button with id: ca6de637-2eb8-4c8a-a7d9-25a2e4d87025with location: 412,1 with string value:  has been clicked
+button with id: 7c789d57-790f-4edf-976c-d6bc31cac33dwith location: 360,1966 with string value: FACES has been clicked
+button with id: 1349d7ed-f7f6-4bb6-9179-d73e00313ab2with location: 0,1966 with string value: VIBER IMAGES has been clicked
+button with id: 8681d915-deb6-40f7-b002-e6e76d6199d4with location: 0,1966 with string value: VIBER IMAGES has been clicked
+new View has been created with view id: 4
+button with id: 5e172cd6-06de-461d-8d10-22499a99bbe6with location: 1023,1875 with string value: 2 has been clicked

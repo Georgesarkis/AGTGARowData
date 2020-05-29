@@ -1,0 +1,12 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: b9702556-199a-413d-a596-7900c5760af3with location: 481,1051 with string value: DELIVERY has been clicked
+button with id: 92342f36-536e-4897-9daa-124ba846f9d2with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: d8753cc1-862a-482b-91f8-e463525a3cd0with location: 0,406 with string value: All Deliveries Are Contactless. has been clicked
+button with id: f66b2590-226e-4666-818c-4505052e8493with location: 0,72 with string value:  has been clicked
+button with id: bb390d5d-c791-486a-9bd9-6b454daf4ef7with location: 48,1434 with string value: Legal has been clicked
+new View has been created with view id: 3
+button with id: 6f62e30e-b7e8-4c75-89dc-52ce9c7e6815with location: 24,228 with string value: Review Terms of Use  has been clicked
+button with id: 2c8a9a0c-b218-4d18-a2a0-30999053b8aewith location: 435,228 with string value: . has been clicked
+new View has been created with view id: 4

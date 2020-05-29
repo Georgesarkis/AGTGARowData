@@ -1,0 +1,25 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: d6944262-bacb-48a5-8946-e2a5a022a47dwith location: 864,1632 with string value:  has been clicked
+button with id: d92c8993-3e1d-4f63-8736-2c3012c2a733with location: 217,632 with string value: World has been clicked
+new View has been created with view id: 15
+button with id: 0a1c91e7-6c17-4300-a2b9-0fa54e24196awith location: 0,72 with string value:  has been clicked
+button with id: 7b6cbfe9-f7bb-498c-88da-34ff7c4edad2with location: 144,1632 with string value:  has been clicked
+button with id: 12d4b8d0-a84f-490b-8407-b095c800d8f1with location: 864,1632 with string value:  has been clicked
+button with id: ccd8ae8b-a379-4262-8e3c-f8fbcbb9a704with location: 131,1707 with string value: Today has been clicked
+new View has been created with view id: 15
+button with id: cb3d4db6-8ea0-45d9-a629-2f78e0345ab4with location: 830,1707 with string value: Sections has been clicked
+new View has been created with view id: 16
+button with id: df8552e4-46b3-4e92-b2a2-541a66bc80e3with location: 830,1707 with string value: Sections has been clicked
+button with id: 3e1c4521-661b-4e53-ab3e-2813cf032b95with location: 217,1208 with string value: New York has been clicked
+new View has been created with view id: 17
+button with id: 2c4da05d-60df-493d-9f4c-ae35898e3f16with location: 48,1323 with string value: The governor, referring to a newspaper image of homeless people on the subway, said it was “disgusting” and “disrespectful” to essential workers. has been clicked
+new View has been created with view id: 18
+button with id: 0dfcff65-9088-4eac-9fdc-5d08a1c721ccwith location: 60,939 with string value: The governor, referring to a newspaper image of homeless people on the subway, said it was “disgusting” and “disrespectful” to essential workers. has been clicked
+new View has been created with view id: 19
+button with id: 6c039038-0d0f-4262-a4e4-2f8c724b8dccwith location: 960,84 with string value:  has been clicked
+new View has been created with view id: 20
+button with id: 960c25b7-2f7d-41ff-86e2-5985742fc2dawith location: 493,843 with string value: Log In or Create Account has been clicked
+new View has been created with view id: 21
+button with id: 88858489-8350-47ae-ada5-90194f01dc3ewith location: 849,555 with string value:  has been clicked
+new View has been created with view id: 22

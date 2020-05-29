@@ -1,0 +1,13 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: d3556c01-cd22-4199-ba64-72b1d19f3cd3with location: 0,1168 with string value:  has been clicked
+button with id: db32882a-441d-43e6-9130-255f18caebdbwith location: 626,66 with string value:  has been clicked
+button with id: 68cf5248-d427-4a05-8c01-9bc4d4056b56with location: 310,400 with string value:  has been clicked
+button with id: 96609124-b814-4443-a1ed-4a00661cd444with location: 295,882 with string value:  has been clicked
+button with id: c2adc4ca-e560-4fba-85d1-8d0336ad665cwith location: 355,885 with string value: CHAT has been clicked
+button with id: f806d270-79f9-4048-beb5-7278ee61b1a2with location: 0,568 with string value: Your shopping bag is empty has been clicked
+button with id: b4a1c3b9-5639-4aba-9a81-896e65c09e68with location: 0,56 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 55e403d7-47fa-4078-a12e-53b12f3d2c58with location: 0,48 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.TextView' do not exist in DOM anymore
+

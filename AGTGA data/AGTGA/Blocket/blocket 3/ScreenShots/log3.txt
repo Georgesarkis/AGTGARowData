@@ -1,0 +1,19 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 3b188d52-a216-40cd-92f4-3590a141e62fwith location: 0,162 with string value: Allt i hela Sverige has been clicked
+new View has been created with view id: 2
+button with id: 0074b65c-1817-4c7f-9427-eb0c9fe9df43with location: 16,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 96359150-1462-472c-a826-51890b37e2cbwith location: 576,1026 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 734f461b-ebb4-4796-bbcd-763d85f9f3d1with location: 536,162 with string value:  has been clicked
+button with id: 632ab7c9-6f79-4dec-b611-49910cfbea0awith location: 624,162 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: b4df66df-252d-4c05-b050-3f07501d9e1ewith location: 576,1026 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: ed16b574-5aa3-4fa6-aca1-dd36627741f7with location: 592,914 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: ac9709ba-afba-4ca7-912e-04eca706205fwith location: 110,953 with string value: NEJ TACK, INTE DEN HÄR GÅNGEN has been clicked
+new View has been created with view id: 7
+button with id: 44d12f0b-68e0-4d35-8772-4eb41440ed5cwith location: 276,816 with string value:  has been clicked
+new View has been created with view id: 8

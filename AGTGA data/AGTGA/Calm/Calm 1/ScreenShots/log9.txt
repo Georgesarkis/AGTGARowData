@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: 773fa09e-1f56-4f6a-ab5f-190e44ed0b2awith location: 480,1144 with string value:  has been clicked
+button with id: e682cd30-6265-48b8-9a1c-1a27d035b34dwith location: 618,1197 with string value: More has been clicked
+button with id: e66f0a2f-897a-403b-a279-b06d70d9e26awith location: 136,628 with string value: Breathing Exercise has been clicked
+button with id: 0e285c3d-0477-432e-8c0c-a6a6d392c887with location: 670,755 with string value:  has been clicked
+button with id: c9f6d2ca-dcb9-4bfa-a57b-613b468caf79with location: 193,32 with string value: Breathing Exercise has been clicked
+button with id: f6d92e20-26f9-47d2-9251-aee2ed934a92with location: 136,628 with string value: Breathing Exercise has been clicked
+button with id: 3a52fd4d-5bd6-4f54-af32-80d0d9f5f585with location: 269,934 with string value: 2 has been clicked
+button with id: aeac1a48-ef5d-4c05-a3ce-14696bf88984with location: 136,508 with string value: Calm Body has been clicked
+button with id: 4b993f35-10dc-40ce-912f-d9333669a787with location: 48,1148 with string value: Start breathing has been clicked
+new View has been created with view id: 6
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageView' do not exist in DOM anymore
+

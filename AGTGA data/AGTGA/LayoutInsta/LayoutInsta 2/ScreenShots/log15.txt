@@ -1,0 +1,20 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: 93bcf67b-fe69-4d72-858b-31d6d40297d4with location: 348,564 with string value:  has been clicked
+button with id: cedc7ce3-823e-4c40-81f6-9b5615e95b34with location: 901,1900 with string value: 3 has been clicked
+button with id: 0b0035e2-4af2-4d5b-a383-99241d6ada15with location: 412,1 with string value:  has been clicked
+button with id: d6597aa5-43d0-4fde-9e7f-c99116986639with location: 720,1966 with string value: RECENTS has been clicked
+button with id: c10b20e5-d068-4bbd-8bd7-f816dac851eewith location: 0,1966 with string value: PHOTO BOOTH has been clicked
+button with id: 9facdf0d-453f-42ee-8967-ebde9ca8eb8bwith location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 4
+button with id: cfe74408-0b2e-400f-a686-2985d22a662dwith location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 5
+button with id: 06e8773e-cba3-4db7-965a-8d707953128dwith location: 1024,827 with string value: 3 has been clicked
+new View has been created with view id: 6
+button with id: 525c1cc6-4991-4288-af49-965aa2380cf1with location: 0,1966 with string value: INSTAGRAM has been clicked
+new View has been created with view id: 7
+button with id: 7e9cd57a-3dee-4495-92ed-5dd94de04d0ewith location: 164,1482 with string value: Messenger has been clicked
+new View has been created with view id: 8
+button with id: d0289a6a-861c-4c2f-a9a8-b929572c0aaawith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 66a83c21-bfcf-4cd9-9316-40b44a40a7a5with location: 360,1966 with string value: FACES has been clicked

@@ -1,0 +1,36 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 9f55526b-1bea-4266-85e2-f2d59cadcb83with location: 864,1632 with string value:  has been clicked
+button with id: ce1c744b-1f8e-4ea9-ae63-1dcc9143b837with location: 49,336 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 86782d0b-7d27-428c-82b1-2a201f2f5ab2with location: 0,72 with string value:  has been clicked
+button with id: 4a4b7014-69cc-4dfb-bf5d-afc0a1d6c3f1with location: 429,119 with string value: Sections has been clicked
+button with id: d45778b1-8ccf-482a-af85-9ba990a95485with location: 217,344 with string value: Most Popular has been clicked
+button with id: 1e0611b5-d8d6-44a6-9921-43fa6aa30fecwith location: 0,270 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: b238e289-f66a-4fc4-a108-3fbfcde2839awith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: d198ff66-5200-4a74-83af-728b45648e0awith location: 48,1123 with string value: 1. has been clicked
+button with id: 0026f7aa-2831-4210-b3f5-7b93a23d6e0awith location: 960,84 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: c268b59d-1348-4c7e-8357-aa5cbb4e63aawith location: 493,123 with string value: Comments has been clicked
+new View has been created with view id: 8
+button with id: 9bdfcf71-401d-4c1d-89a5-8757b4d4871fwith location: 402,285 with string value: READER PICKS has been clicked
+new View has been created with view id: 9
+button with id: 8c7f3943-eadc-4496-8c95-0fd38933b062with location: 0,1068 with string value: Flag has been clicked
+new View has been created with view id: 10
+button with id: c751588e-ef0c-45e3-9e9b-eab320b592ebwith location: 75,847 with string value: To use this feature, please log in or create a free account. has been clicked
+button with id: c9750438-1ba8-49ce-8263-f6876d24ebdewith location: 534,1003 with string value: CANCEL has been clicked
+button with id: 4e1a52f2-3a65-48df-9745-2bc482b900abwith location: 902,1620 with string value: Reply has been clicked
+button with id: 1f8e7796-9239-4911-9e90-c33431f41625with location: 147,742 with string value: Please log in or register has been clicked
+button with id: 157e1562-11e0-4ddb-9ee2-64e072ebf45awith location: 765,1003 with string value: LOG IN has been clicked
+new View has been created with view id: 11
+button with id: d9ff9b08-18a7-408b-a456-9fde463efa51with location: 0,72 with string value:  has been clicked
+button with id: 5be871b3-a400-462d-9d61-2f8523aa28c9with location: 864,1560 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: ec28bedb-6fb0-4fd0-a217-d4d6f8456f39with location: 75,847 with string value: To use this feature, please log in or create a free account. has been clicked
+button with id: 9e6c2add-c13e-4e63-93c6-bfbde6db9339with location: 534,1003 with string value: CANCEL has been clicked
+button with id: 893bf418-7368-4d05-919e-b4f289fd5d5dwith location: 902,1068 with string value: Reply has been clicked
+button with id: 52059706-b1b2-4877-a530-4b1c49fdc25awith location: 765,1003 with string value: LOG IN has been clicked
+button with id: 68c6e69e-83c1-4709-8518-a843f489d311with location: 849,555 with string value:  has been clicked
+new View has been created with view id: 12

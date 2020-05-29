@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 590782d9-49b0-4d2b-b62a-f37265044ecewith location: 822,144 with string value:  has been clicked
+button with id: 5208f560-fc7d-4fea-ae4a-0abe86b34fd5with location: 30,222 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 4860d0db-ed05-48de-9948-93f9494081efwith location: 128,511 with string value:  has been clicked
+button with id: 79ce2db6-6a5d-4e1b-a44a-aa428c335659with location: 686,1071 with string value:  has been clicked
+new View has been created with view id: 4

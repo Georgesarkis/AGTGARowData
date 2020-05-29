@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 98cc132e-34f0-4b79-84fa-bea9f9ef5426with location: 492,1243 with string value: CARRYOUT has been clicked
+new View has been created with view id: 2
+button with id: 0aa5b6e7-2802-4315-aae9-7089805ae7c0with location: 338,1123 with string value: No stores found has been clicked
+button with id: c785dd17-d9bc-4dd7-9f44-07ae7b5f8592with location: 915,252 with string value:  has been clicked
+button with id: 089b51ea-ff38-4172-a7cc-8d504e73958cwith location: 57,429 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

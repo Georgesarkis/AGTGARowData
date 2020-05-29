@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: d60cd40b-0182-4662-8a8c-30b8e29935e7with location: 644,1044 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 7f8c233b-69fe-4c6f-9b29-9807ad6340e0with location: 304,690 with string value: Idag 15:10 has been clicked
+button with id: 703bcf66-1315-4c7b-b732-15d3374be5f4with location: 576,1026 with string value:  has been clicked
+button with id: bb6d1d46-d7b9-4225-8b65-fb3ba05179c7with location: 304,563 with string value: Sten bortskänkes has been clicked
+button with id: 5ca3c65a-b2ba-4f9b-b4d1-91b918acceeewith location: 576,1168 with string value: Logga in has been clicked
+new View has been created with view id: 4
+button with id: 1262045c-bc4c-42c8-ae9a-d06a5f5d995bwith location: 162,780 with string value: Logga in & kom igång! has been clicked
+new View has been created with view id: 5

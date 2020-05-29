@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: c82af5ec-254f-4787-b452-1a8f50d6e554with location: 540,1168 with string value:  has been clicked
+button with id: 8d63fdd2-58ed-4b51-93a0-2c0dbb3be778with location: 64,434 with string value: Temporarily unavailable for online order pick-up has been clicked
+new View has been created with view id: 9
+button with id: 788aa7eb-36a2-47fe-8f38-5a39341fd439with location: 114,529 with string value: 031-303 41 40 has been clicked
+new View has been created with view id: 10

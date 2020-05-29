@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: 5db40530-4830-4ba1-97ec-b5f04c83f274with location: 492,1036 with string value: 64% has been clicked
+new View has been created with view id: 2
+button with id: b9009aca-3e5a-4f6f-b8f3-9f86b0247685with location: 12,812 with string value: Humidity is the amount of water vapor in the air. Humidity indicates the likelihood of precipitation, dew, or fog. has been clicked
+Exception aquired with message: Message: A session is either terminated or not started
+

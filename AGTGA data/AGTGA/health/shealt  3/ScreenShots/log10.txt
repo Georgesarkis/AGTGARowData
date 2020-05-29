@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: a7cbb325-0c5a-4c0e-bd80-78ccb5144654with location: 146,735 with string value: Active time has been clicked
+new View has been created with view id: 2
+button with id: 4992ee3d-d825-4e53-9ae2-ef3243d60d77with location: 118,522 with string value: 0 has been clicked
+button with id: bc1eeeeb-6126-419f-a006-b8434738ded5with location: 275,390 with string value: 0 has been clicked
+button with id: bd0373bc-0e01-48fa-b916-58a62de2b3d4with location: 182,538 with string value:  has been clicked
+button with id: bff6f980-15f3-4348-9619-5d8996ed2d27with location: 138,539 with string value:  min has been clicked
+button with id: 60735f6e-4eb1-4631-a41c-d17337332204with location: 626,48 with string value:  has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

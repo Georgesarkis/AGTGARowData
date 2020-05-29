@@ -1,0 +1,12 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: fa52f8fa-a77d-4eff-87ab-7b7f4c4c6011with location: 412,1 with string value:  has been clicked
+button with id: 084d7fae-dceb-48e3-87e1-f801d3df8d66with location: 348,564 with string value:  has been clicked
+button with id: 72f55383-91a3-43a1-8f60-cbe4b4e2b429with location: 0,1966 with string value: GALLERY has been clicked
+new View has been created with view id: 4
+button with id: 90285988-6c23-47b4-9233-606fe18d2b1ewith location: 901,1900 with string value: 4 has been clicked
+button with id: 65a8d178-c712-404f-b471-f43da498eafawith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: fba080f4-28aa-471e-aabf-97ef60a63540with location: 164,2006 with string value: WhatsApp Images has been clicked
+button with id: 1e0f6183-6846-4a91-9d24-dc68975beb3bwith location: 360,1966 with string value: FACES has been clicked
+button with id: 61f0fa31-f31a-4c3f-ab55-d24b0a56fc3awith location: 0,1966 with string value: GALLERY has been clicked

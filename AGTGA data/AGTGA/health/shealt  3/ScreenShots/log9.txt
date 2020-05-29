@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 99c14bce-479e-49cd-93f1-6793fdd18bc5with location: 0,48 with string value:  has been clicked
+button with id: 6e63ad09-4a6b-4edb-bd58-7dc726e26af4with location: 64,479 with string value: Weekly summary has been clicked
+new View has been created with view id: 3
+button with id: 7ca06fd5-0efe-4d2f-9984-432a34f9d885with location: 0,48 with string value:  has been clicked

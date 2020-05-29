@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 3951273f-8957-4dd1-906d-4e5d182d7572with location: 0,737 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: b5bf1d33-febf-451d-abbb-7a8a8be035dfwith location: 592,80 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 24ac6fd8-bf9d-439a-9b2d-4637762eed1dwith location: 32,56 with string value:  has been clicked
+button with id: f63d1130-5099-4caa-b531-7731b5e90468with location: 471,1200 with string value:  has been clicked
+button with id: d24abc31-6db1-4c89-9d9c-bc63437370cfwith location: 48,288 with string value: Spara dina favoriter has been clicked
+button with id: e9c4e8e1-6d12-4f2e-975c-7b4544cbc5f2with location: 48,371 with string value: Registrera dig eller logga in för att se och spara dina favoriter i inköpslistor. has been clicked
+button with id: b59bd22b-5a3b-4e26-965f-dedbc261a2a8with location: 32,1008 with string value: Registrera dig has been clicked
+button with id: cbb11dfb-7958-430f-8ded-498d68fc97ecwith location: 368,1008 with string value: Logga in has been clicked
+button with id: cc2981c5-7cbf-4b97-ab1c-d059c49e2e18with location: 474,80 with string value: Registrera dig has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

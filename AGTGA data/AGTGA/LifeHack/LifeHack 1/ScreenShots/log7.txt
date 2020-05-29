@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 3005c3f0-c67d-4d57-ac7a-e082b9cdac0fwith location: 66,1260 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 919c32ae-886c-414e-8724-7c4a234bccd1with location: 198,370 with string value: Eat an orange before working out. Not only does it keep you hydrated, but it also prevents your muscles from getting sore. has been clicked
+button with id: cd16d2eb-f228-48ec-9b10-b52d506804e8with location: 570,1255 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 6b1db8ea-be85-4312-bd4c-11fc2384b263with location: 198,370 with string value: You can heal paper cuts and immediately stop the pain by rubbing the area with chapstick. has been clicked
+button with id: 9745dc24-7aa4-4aaf-81cb-e26f2a197062with location: 161,302 with string value:  has been clicked
+button with id: 43eaec93-b2b2-4aa0-87d1-e1280bb4ed42with location: 918,87 with string value:  has been clicked
+new View has been created with view id: 4

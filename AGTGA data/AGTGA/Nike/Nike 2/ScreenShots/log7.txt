@@ -1,0 +1,49 @@
+New View Has been Created, The activity name is com.nike.mynike.ui.MainActivity
+new View has been created with view id: 1
+button with id: 655a7736-e154-49f0-893c-5c313311e25bwith location: 0,992 with string value:  has been clicked
+button with id: f46f8216-33b4-459d-8a2d-5c7e48ebf080with location: 0,1049 with string value: 25% Off Full Price has been clicked
+new View has been created with view id: 5
+button with id: d663927d-72ec-4f2b-86dd-885047682d1fwith location: 0,240 with string value:  has been clicked
+button with id: ddae09b6-14cf-4e06-bb25-004aa57150f2with location: 0,72 with string value:  has been clicked
+button with id: 84f9bf03-e40c-4b18-97b7-9d2a9ad0ab4awith location: 0,1250 with string value: Sale has been clicked
+new View has been created with view id: 5
+button with id: b5903f92-0ae8-42cd-a5e2-75864ce4384dwith location: 948,420 with string value:  has been clicked
+button with id: 4ef8902d-9a1e-4363-b4e4-dcb6ad471d07with location: 402,420 with string value:  has been clicked
+button with id: 163afd4d-3145-4dcb-b95e-82f158701e94with location: 858,1554 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: ad68b376-71f6-46c0-a2eb-9be7477a62ccwith location: 0,384 with string value:  has been clicked
+button with id: 456b7c97-b29f-4689-b46d-72250f8802a5with location: 0,300 with string value:  has been clicked
+button with id: 4a9f9453-1ed6-400a-be36-f224ce8f1e59with location: 402,1390 with string value:  has been clicked
+button with id: 96bc3645-dd53-4b78-aa66-0a191769bbbdwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 80b34b13-8944-4671-bf5b-5edc9dcf9dcawith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: f0bfc9e3-ea93-47b9-89d7-57861343f469with location: 48,1050 with string value: Inbox has been clicked
+new View has been created with view id: 8
+button with id: 6161e32b-0b13-44c4-b1a7-48178a0e3b1fwith location: 381,285 with string value: Welcome to the Nike app has been clicked
+new View has been created with view id: 9
+button with id: 780ed005-a98c-4b97-b2cb-7f07ada5c399with location: 0,72 with string value:  has been clicked
+button with id: b639017e-84ce-47a1-b6c8-bcdd5934f6c8with location: 216,123 with string value: INBOX has been clicked
+button with id: 4a259502-8e61-4e31-9a90-4fae7940655ewith location: 381,371 with string value: All you need to be your best has been clicked
+new View has been created with view id: 9
+button with id: 2598f139-cca3-46a9-8c3e-b89b70ac2ff8with location: 72,1458 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: d5890cc0-145a-4de2-972e-fb36849aa15awith location: 72,1458 with string value:  has been clicked
+button with id: 4b08213c-7596-48c6-a105-603a7da01fe2with location: 0,72 with string value:  has been clicked
+button with id: 36d0613a-715f-4853-83dc-1bf909f45239with location: 381,454 with string value: 1 hour ago has been clicked
+new View has been created with view id: 9
+button with id: 79b59cde-29d0-43b3-893d-4a529388d67fwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: 05968c9c-1319-4f7c-a043-9d2731fed416with location: 54,300 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: 3729b800-cfdc-4175-9dbb-3cbb4e7f7888with location: 72,1458 with string value:  has been clicked
+new View has been created with view id: 12
+button with id: 46922b1a-f042-464a-84b0-618fd4c35770with location: 72,1458 with string value:  has been clicked
+button with id: 63020952-101c-47c0-aded-d4a19e8d54b1with location: 0,72 with string value:  has been clicked
+button with id: e7ad6253-99d1-4868-9c71-9498212ef69fwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: 8af9573c-129d-4494-b883-e4ebde62be2awith location: 381,371 with string value: All you need to be your best has been clicked
+button with id: 646c4fc0-76bc-41e1-951f-9528bd61a984with location: 405,330 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: a50e4826-b55f-4d70-af0d-a6bf6bd3f7f5with location: 147,1030 with string value: Choose photo has been clicked
+new View has been created with view id: 5

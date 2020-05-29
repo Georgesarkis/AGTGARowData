@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .ui.activities.MainActivity
+new View has been created with view id: 1
+button with id: ac944e2e-e9a9-4a56-a938-6c2298e00968with location: 0,61 with string value:  has been clicked
+button with id: 13ebd2cb-f460-4373-9376-d8f455c1c752with location: 427,244 with string value: PRECIPITATION has been clicked
+button with id: 88165a2e-8174-491a-a059-9d51980d4639with location: 855,1036 with string value: 4 has been clicked
+button with id: 038abde7-f77f-496c-9683-c219b2a2efbcwith location: 839,849 with string value:  KM/H NNW has been clicked
+button with id: ddbaa1bf-12ce-439a-b357-a055f0aac619with location: 0,61 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 9fd1d87a-fe4d-4bd2-ae9b-1915c2a6b3ffwith location: 0,61 with string value:  has been clicked
+button with id: 92613e0d-b8e3-483c-a521-04519a5b49c6with location: 136,1299 with string value: 45 Km has been clicked
+new View has been created with view id: 3
+button with id: e88dd6a9-5f26-4fd4-8188-54ffa1643f3fwith location: 0,61 with string value:  has been clicked
+button with id: f18ff378-6e10-4132-a6e9-58edc16c34a0with location: 958,71 with string value:  has been clicked
+new View has been created with view id: 2

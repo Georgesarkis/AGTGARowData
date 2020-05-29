@@ -1,0 +1,39 @@
+________________________________________________________________________________________
+First Iteration 30 min
+________________________________________________________________________________________
+
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=123 pointers=549 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1736725ms (0ms mobile, 0ms wifi, 1736725ms not connected)
+// Monkey finished
+
+
+
+________________________________________________________________________________________
+Secound Iteration 30 min
+________________________________________________________________________________________
+
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=97 pointers=446 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1745939ms (0ms mobile, 0ms wifi, 1745939ms not connected)
+// Monkey finished
+
+
+________________________________________________________________________________________
+Third Iteration 30 min
+________________________________________________________________________________________
+
+
+
+Events injected: 200000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=112 pointers=473 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1789776ms (0ms mobile, 0ms wifi, 1789776ms not connected)
+// Monkey finished
+
+
+
+
+________________________________________________________________________________________

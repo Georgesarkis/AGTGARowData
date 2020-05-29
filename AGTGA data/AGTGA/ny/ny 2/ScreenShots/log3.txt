@@ -1,0 +1,30 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: eb8e351d-d860-45da-9003-6adc9de3f036with location: 504,1632 with string value:  has been clicked
+button with id: 64df771a-988f-4f57-b315-bd00e17875bcwith location: 217,1381 with string value: FOLLOW has been clicked
+new View has been created with view id: 7
+button with id: 43f0da7e-bbfb-40ba-8346-6ec871039517with location: 721,1381 with string value: FOLLOW has been clicked
+button with id: d87ed43a-3cfe-4c58-a6bf-33b05431a695with location: 440,119 with string value: For You has been clicked
+button with id: f262fbb2-0c97-49c8-b7d1-84f6c0ba94f9with location: 131,1707 with string value: Today has been clicked
+new View has been created with view id: 8
+button with id: 38c52f2a-6653-4f0b-b273-6883dbcac652with location: 864,1632 with string value:  has been clicked
+button with id: 4a599ebc-e601-4c42-8ccc-aad13d6e9d8bwith location: 49,1488 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: c6c63d34-da53-4ced-9c21-0b0b0a71695cwith location: 768,1600 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 9b79ee75-65c1-4d50-a0b2-ad7984647edcwith location: 75,777 with string value: To save articles, please log in or register for a New York Times account. has been clicked
+button with id: 39e00caf-8d49-4c5d-a9c6-5f2ec5dd6f06with location: 765,968 with string value: LOG IN has been clicked
+button with id: 19ee393f-60a0-4ed2-a7a8-72cccb31b080with location: 239,920 with string value: Log in with email instead » has been clicked
+new View has been created with view id: 11
+EditView with id: 55bd46ff-1a74-47b9-89dd-4f017e0316ee has been clicked and filled with string: 
+EditView with id: 55bd46ff-1a74-47b9-89dd-4f017e0316ee has been clicked and filled with string: 
+button with id: adb29193-d113-414c-bdfb-5afd8605e005with location: 90,948 with string value: Log In has been clicked
+button with id: b78b096f-1941-4b28-a3b4-cbd3fd9ec8d9with location: 846,756 with string value:  has been clicked
+EditView with id: 55bd46ff-1a74-47b9-89dd-4f017e0316ee has been clicked and filled with string: 
+EditView with id: 55bd46ff-1a74-47b9-89dd-4f017e0316ee has been clicked and filled with string: 
+button with id: adb29193-d113-414c-bdfb-5afd8605e005with location: 90,948 with string value: Log In has been clicked
+button with id: 5e9f6da0-af79-4240-a4db-6c0d0849250fwith location: 0,72 with string value:  has been clicked
+button with id: 704f5fec-5f25-4960-8f99-178b0ba75c65with location: 133,1648 with string value: Don't have an account? has been clicked
+new View has been created with view id: 11
+button with id: 13fb6463-1bf2-4baf-914c-9931321f68c8with location: 849,725 with string value:  has been clicked
+new View has been created with view id: 12

@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is com.dominos.activities.InitialLaunchActivity
+new View has been created with view id: 1
+button with id: 801f2e96-02cc-421a-8566-ae0b39d48e7dwith location: 409,1044 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: ea59efd8-ec28-4e88-93a0-b12a47abb004with location: 57,312 with string value: SIGN IN has been clicked
+new View has been created with view id: 3
+EditView with id: 1e39c35b-855c-42f6-8a9c-6ee4736512cb has been clicked and filled with string: 
+EditView with id: 1e39c35b-855c-42f6-8a9c-6ee4736512cb has been clicked and filled with string: 
+button with id: cdee52db-bc42-4ab0-883b-b7f24de870d1with location: 48,601 with string value: SIGN IN has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.ImageButton' do not exist in DOM anymore
+

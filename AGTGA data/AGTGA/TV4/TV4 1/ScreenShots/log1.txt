@@ -1,0 +1,12 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: 65fb90ac-ef50-4441-a9c4-fffde571b134with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: b4219e67-c750-4138-8536-50a2ac900ff7with location: 16,1167 with string value:  has been clicked
+button with id: 39fa4601-a129-4aff-99bf-e6cf38152fa9with location: 0,48 with string value:  has been clicked
+button with id: 4221bc2d-92d7-481c-b47c-26bc8bd3f362with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 4bd34323-7dfe-42f4-a18f-1bd022bed2b5with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: d1ae76f8-1766-43de-9a9e-0454fd265481with location: 64,1088 with string value: Prova TV4 utan reklam has been clicked
+new View has been created with view id: 5

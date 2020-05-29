@@ -1,0 +1,33 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: dbc67339-f4c0-4909-9aee-3e8c243dcc87with location: 0,1168 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: bf16fae1-4409-4d9c-a781-7c2960dfe07ewith location: 360,1168 with string value:  has been clicked
+new View has been created with view id: 3
+EditView with id: e8e18600-9db6-4d4d-8c7f-5dfe359d3d37 has been clicked and filled with string: 
+EditView with id: e8e18600-9db6-4d4d-8c7f-5dfe359d3d37 has been clicked and filled with string: 
+button with id: 09f95095-dd95-4364-ba88-513da36f7cbawith location: 64,629 with string value: LOG IN has been clicked
+button with id: b459e8a4-cd52-4eda-a4a1-9b602699181ewith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 729abc14-e06d-4109-87c4-350752dd8063with location: 620,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 120f86eb-4ff7-423f-b092-cd2f3ed2c21bwith location: 355,885 with string value: CHAT has been clicked
+button with id: 6952d3cc-1cd6-4291-be39-4fb88b33c70awith location: 295,882 with string value:  has been clicked
+button with id: c252d1e9-2951-4bdc-8569-598cd893e078with location: 0,568 with string value: Your shopping bag is empty has been clicked
+button with id: cea6c901-27f0-4949-b316-b742d5ceee4cwith location: 0,56 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: bb439af8-e70b-478e-9c3a-ef52ffa785b8with location: 600,1180 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 24280532-65bd-4bb5-b254-fb4659af8b70with location: 540,1168 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 3df15652-a74a-4bd2-bf71-c5a33b082800with location: 600,1180 with string value:  has been clicked
+button with id: d375264c-a3df-40f9-82e9-74b87f9478c1with location: 0,1168 with string value:  has been clicked
+button with id: 5eea3ba6-09aa-44cb-8efa-b2a6438b3d9dwith location: 0,160 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 2b997567-e42c-4139-908e-a62e90746c38with location: 94,1019 with string value: Scan History has been clicked
+new View has been created with view id: 5
+button with id: 955aa787-bc10-49c8-b948-49e62ebeadc6with location: 0,48 with string value:  has been clicked
+button with id: 514aadf0-0e65-48e9-bc2b-fa89a6b976e6with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: f07ca81a-35ac-4f45-a96b-9a9618d76ec8with location: 404,1240 with string value: My account has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

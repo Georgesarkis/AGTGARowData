@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: c92baea8-b766-419c-85ad-f6f0bec8057dwith location: 237,1404 with string value: 1% has been clicked
+button with id: b2ed3b7e-c32d-4dad-92bf-ae7bdd8bdf24with location: 554,115 with string value: Kenny has been clicked
+new View has been created with view id: 8
+button with id: 800e286a-5621-493f-b437-a746ae56ccccwith location: 0,72 with string value:  has been clicked
+button with id: a1854b7e-237e-4632-9766-adceea34b35dwith location: 39,900 with string value: - has been clicked
+button with id: b7f1dce1-2cba-47b0-b3cd-996fef35d233with location: 39,1144 with string value: - has been clicked

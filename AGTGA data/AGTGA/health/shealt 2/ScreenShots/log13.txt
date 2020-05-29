@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is com.samsung.android.app.shealth.home.HomeDashboardActivity
+new View has been created with view id: 1
+button with id: 668b5ffd-99d4-4cfa-8ce0-17c028309b4fwith location: 545,1228 with string value: Discover has been clicked
+new View has been created with view id: 2
+button with id: 252ed273-73d7-436b-b5ac-04df79079e89with location: 91,220 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: a6c40e51-e88f-40dd-8cb4-1126aa052597with location: 0,177 with string value: [Important Notice]
+Samsung Health programmes are provided by third parties, and those third parties are solely responsible for their content. From time to time, we may add, remove, or change programmes, but we always try to offer options for every fitness goal.
+Only you can judge whether a programme is safe for you. Before starting any programme, be sure to read and understand its terms of use and talk to your doctor if you are concerned about your ability to perform the exercises in the programme. Samsung Health is intended for fitness and wellness purposes only, and should not be used to treat medical conditions nor to diagnose diseases or other conditions, nor in the cure, mitigation, treatment, or prevention of disease. has been clicked
+button with id: cf496e39-fdd3-4ba0-9824-36c1482bd7f5with location: 48,128 with string value: Disclaimer has been clicked
+button with id: 956da026-41cb-41c5-9e58-90e49d7e07afwith location: 48,1144 with string value: Confirm has been clicked
+new View has been created with view id: 4
+button with id: 2f413f21-75d0-44d8-8719-73230cd62438with location: 0,48 with string value:  has been clicked
+button with id: b80fa976-45b1-4262-af2e-ec8b1d1bd753with location: 109,1178 with string value:  has been clicked

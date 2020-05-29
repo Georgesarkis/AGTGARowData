@@ -1,0 +1,29 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: e3cc4404-29cd-4d66-ba89-cac8f860f1a1with location: 388,1435 with string value: DOMINO'S HOTSPOTS® has been clicked
+button with id: 09652802-92c7-49ce-9910-51f1843b4d77with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 2701a2bc-253a-4411-81bf-f97e630e003dwith location: 409,1044 with string value:  has been clicked
+button with id: b761588b-8f28-4553-b4b2-21c7e03e9ca1with location: 48,910 with string value: Campus/Base has been clicked
+new View has been created with view id: 3
+button with id: eff0cd09-8370-4d2d-82a2-020874cf49b2with location: 123,690 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 6e4b246d-0976-4485-9669-b1c669d50064with location: 75,1048 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 5
+EditView with id: 04f14949-778c-453d-8acd-b39c410c9f58 has been clicked and filled with string: 
+EditView with id: 04f14949-778c-453d-8acd-b39c410c9f58 has been clicked and filled with string: 
+button with id: b5e34acb-5dda-44c7-9fbf-824a5fb6a6f2with location: 390,495 with string value: Select a School/Campus/Base - Required has been clicked
+new View has been created with view id: 6
+button with id: 1c896fe8-1ae1-485e-bd45-cacf59ee3f4ewith location: 390,480 with string value: Select a School/Campus/Base - Required has been clicked
+new View has been created with view id: 7
+button with id: 11ed9daf-a29b-4bf2-af3f-aff0a6737d4dwith location: 957,630 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 64a85806-a7ab-4632-b6bc-41260f98b744with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 8cc73cd0-f465-4a0c-a0d3-788b5faa2d85with location: 242,108 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: b29418fc-ddbe-4320-a2c3-015c4383d794with location: 481,1051 with string value: DELIVERY has been clicked
+button with id: 6c0618d3-e61e-4274-b8d5-c100da9ff971with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 44d83d14-15c5-4771-9d23-a72c81257ab5with location: 459,1614 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

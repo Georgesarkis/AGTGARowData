@@ -1,0 +1,41 @@
+New View Has been Created, The activity name is .ui.misc.SplashActivity
+new View has been created with view id: 1
+button with id: 85cde5f3-805c-4f71-a9c1-763006c78210with location: 24,1193 with string value: For You has been clicked
+new View has been created with view id: 2
+button with id: 27b08ebf-2079-4b35-813b-fff72f33eb71with location: 44,834 with string value:  has been clicked
+button with id: c198c3fe-c821-4fd8-9923-c6123517964bwith location: 24,1193 with string value: For You has been clicked
+button with id: 6f77628c-b8f4-4993-a7db-23281970927dwith location: 224,1226 with string value: New Sleep Story by Eva Green has been clicked
+new View has been created with view id: 3
+button with id: 594365c9-975c-44f2-8199-9d327778cff0with location: 480,1140 with string value:  has been clicked
+button with id: 68ead589-8f40-4039-8793-86397dbfa779with location: 0,208 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 8b358a23-1c0a-465f-a038-702e62ecf826with location: 0,0 with string value:  has been clicked
+button with id: 51e5e6c1-211e-454a-8104-9ee9eb862eb4with location: 618,1197 with string value: More has been clicked
+new View has been created with view id: 4
+button with id: cf870bc1-bb64-457a-9d1e-efe3471dd02ewith location: 30,1197 with string value: For You has been clicked
+new View has been created with view id: 5
+button with id: 0f8f56ae-6470-4579-923e-3ca952116c36with location: 472,1197 with string value: Music has been clicked
+button with id: d705d434-d5c6-40f3-aae8-5b369a0e4a62with location: 344,143 with string value: Featured has been clicked
+new View has been created with view id: 4
+button with id: 91266168-787f-4712-bc93-e5e51dd6a1bfwith location: 336,1144 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 53348914-ef70-4fb4-a8d5-85911e1816acwith location: 278,32 with string value: Meditate has been clicked
+button with id: a3540cf5-7d93-4d04-b0ed-43b96e3456f6with location: 30,1197 with string value: For You has been clicked
+button with id: e8e64b40-7134-4f9b-84de-313e75725ccawith location: 480,1144 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 6aca8bad-8b40-41f8-bc3c-7e1aec786f56with location: 336,1144 with string value:  has been clicked
+button with id: 967a7dab-045a-4979-a864-05a0ea9286d5with location: 32,1052 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: c9980c25-a7d3-4f64-b113-2c1b37adaf9awith location: 624,1144 with string value:  has been clicked
+button with id: 7d629c04-3c46-428c-96bd-eafc22c1cc46with location: 32,608 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 93ed9943-dee9-4a54-83fc-30595704823awith location: 0,0 with string value:  has been clicked
+button with id: 561e5899-d6f2-4367-896c-359dab90ad3dwith location: 136,268 with string value: Calm Kids has been clicked
+new View has been created with view id: 5
+button with id: 9d930ef0-3740-445c-a839-3449f2600200with location: 0,0 with string value:  has been clicked
+button with id: 17bd6d19-6fdb-403d-8dca-4245fad618cbwith location: 32,248 with string value:  has been clicked
+button with id: 1f0541b5-4b3a-42ff-aead-39c39cd80fa6with location: 30,1197 with string value: For You has been clicked
+button with id: 097e908c-a572-437f-9373-b062f08f0c01with location: 32,896 with string value:  has been clicked
+button with id: 4232ebef-acb1-4df0-934f-6500797754b4with location: 48,844 with string value:  has been clicked
+button with id: 744a2a38-efae-4249-b68a-ebacd8caa43fwith location: 32,1047 with string value: CONTINUE has been clicked
+new View has been created with view id: 5

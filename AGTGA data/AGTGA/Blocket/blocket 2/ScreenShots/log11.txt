@@ -1,0 +1,15 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: dad1eea8-6407-4fe0-af6a-cd191ac28153with location: 16,48 with string value:  has been clicked
+button with id: 683ff12f-8e65-49dc-85c8-2e234e674377with location: 48,538 with string value: Rensa (1) has been clicked
+button with id: 3ef66a42-09c8-44f5-9bde-f3530485d5ffwith location: 471,48 with string value: FILTRERA has been clicked
+new View has been created with view id: 5
+button with id: aa67a608-3cb9-476c-aa04-ca78ab1a3034with location: 584,306 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 2af1a97d-69cf-4e98-bb1b-05727e3a7e9awith location: 489,801 with string value: STÄNG has been clicked
+button with id: efc5df04-d1c9-45d1-9ea2-80671d39331ewith location: 64,846 with string value: ANNONSÖR has been clicked
+new View has been created with view id: 6
+button with id: ba7ebc18-50dc-44ea-ad18-11e8970ceba2with location: 50,569 with string value: Alla has been clicked
+button with id: d33f2b18-270b-4429-84ee-a22c97595715with location: 576,168 with string value:  has been clicked
+button with id: 47c95de2-9375-4ee7-b331-88b74210d6e5with location: 32,160 with string value: Allt i hela Sverige has been clicked
+button with id: d5034209-9ef2-4875-b821-ce0fec6d368cwith location: 16,48 with string value:  has been clicked

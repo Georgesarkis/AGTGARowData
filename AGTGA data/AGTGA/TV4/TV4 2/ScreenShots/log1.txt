@@ -1,0 +1,146 @@
+New View Has been Created, The activity name is se.tv4.tv4play.view.main.MainActivity
+new View has been created with view id: 1
+button with id: 7614e0d7-7847-4e8b-bc1e-de351a22b1e1with location: 381,412 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: ff707214-5c8f-47c7-aa19-a536b8a78932with location: 604,1167 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 27028796-da85-415a-b582-813c51249e88with location: 32,1188 with string value:  has been clicked
+button with id: a54daa1e-1790-4af6-b917-6f6555b308fcwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: ad5b7840-88e4-437e-bb9f-9b4bf23cdae9with location: 0,48 with string value:  has been clicked
+button with id: 39d499bd-2cda-462f-90c8-2b99054ef2f1with location: 0,1044 with string value: Säsong 2020 has been clicked
+new View has been created with view id: 3
+button with id: 7c346eb4-bd1f-4599-92eb-4e89b76e5ba3with location: 32,146 with string value: Säsong 2020 has been clicked
+button with id: 13ce92ef-837b-43a3-863b-c9f9ddc6cdfewith location: 0,0 with string value:  has been clicked
+button with id: f023b121-ffbe-46ff-9c79-a632fd41752bwith location: 16,570 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: d7918c8b-eb66-4313-97da-fa7d58946875with location: 670,610 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 8ec25aaa-f9d6-4306-8651-0bbd8002eee2with location: 435,1206 with string value: 2 min has been clicked
+button with id: cc3d0d0a-48b7-4c42-8f8f-fb009fb4c470with location: 0,1276 with string value: Det här kan du göra med ditt gratiskonto has been clicked
+button with id: f9297bb2-5abc-44bd-a7f2-86f0dcff26fawith location: 144,48 with string value: Skaffa gratiskonto has been clicked
+button with id: 422471fc-8c89-4424-a34f-1ef2406702f9with location: 0,871 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: ad5a6d3b-e6dd-4d90-8405-d492b7041393with location: 620,445 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 8c481f22-1869-4f2f-9e33-4ca72f34e02awith location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: b48f56b9-96c5-464d-92f3-c379e5d183e1with location: 0,1048 with string value:  • 30 sek has been clicked
+button with id: baabd290-626a-4964-a528-7cffe65f8f11with location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: 152c7d36-72b8-4345-8439-4796d67a5016with location: 0,994 with string value: Pär Lernström förklarar TV4 Play has been clicked
+new View has been created with view id: 6
+button with id: 38accb76-a2a8-4577-a9e6-4ddf1aaf827ewith location: 42,695 with string value: OK has been clicked
+new View has been created with view id: 7
+button with id: f3f9d9ad-6bd8-41d1-80ce-939be0fbb654with location: 36,302 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: b83f1633-86ba-43a2-a0c9-2018dae7c71dwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 28838abd-ed23-478e-8d27-1268dbc63522with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: 056ed204-6152-44aa-9ea9-465ebd277b4cwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 11
+button with id: b27514cb-23c8-44dd-b3f5-dfdfc9ae83e9with location: 372,214 with string value:  has been clicked
+new View has been created with view id: 12
+button with id: 43be3eda-b13e-4b37-b695-94bb4b1eb962with location: 32,594 with string value: Om programmet has been clicked
+new View has been created with view id: 13
+button with id: 15bb9a5a-f439-444a-a9f4-d582ec4fef52with location: 201,506 with string value:  has been clicked
+new View has been created with view id: 14
+button with id: fa547f79-386e-47fc-9669-2a8947adc963with location: 36,214 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: 671bf5f4-5a19-4781-9dfa-4b0b1f9458c5with location: 201,552 with string value:  has been clicked
+new View has been created with view id: 16
+button with id: 3344ad8a-8342-4105-8cb5-422d0fc58051with location: 32,536 with string value: 3 mars 2020 has been clicked
+new View has been created with view id: 17
+button with id: 64ddfd8f-4842-4d01-a7a8-cd85901bf505with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 18
+button with id: 55775624-2049-40b7-9547-c38ac1f02518with location: 372,14 with string value:  has been clicked
+new View has been created with view id: 19
+button with id: 6e160156-98c8-4752-92fe-bfa629f2ad45with location: 32,490 with string value: 21 nov. 2017 has been clicked
+new View has been created with view id: 20
+button with id: 213fa70c-5f26-41ce-9a99-626706a12545with location: 0,0 with string value:  has been clicked
+new View has been created with view id: 21
+button with id: 19358f8f-8955-4e22-a6fd-87aa19f134bcwith location: 32,594 with string value: Om programmet has been clicked
+new View has been created with view id: 22
+button with id: aeb36044-5e3e-4ab1-8a71-8fd735025e33with location: 304,146 with string value:  has been clicked
+button with id: f6393b4c-8528-4148-850b-6e7d1687b952with location: 32,594 with string value: Om programmet has been clicked
+button with id: 72340084-89cf-44c1-8f9e-2562222e5cecwith location: 588,30 with string value: 0:30 has been clicked
+new View has been created with view id: 23
+button with id: 53f142e2-a10d-48a0-8591-9b72def6be05with location: 201,506 with string value:  has been clicked
+new View has been created with view id: 24
+button with id: 5629e96a-7032-4786-8147-2f2e9ab310b2with location: 32,490 with string value: 20 maj 2016 has been clicked
+button with id: c8692607-5418-4f00-ad4f-71b1b4d69d8cwith location: 32,594 with string value: Om programmet has been clicked
+button with id: 8acd9498-edb2-4413-811d-b53d54a3da5fwith location: 36,302 with string value:  has been clicked
+new View has been created with view id: 15
+button with id: 597c805b-d9dc-4b6d-a1fd-fb3b6acbc7c6with location: 32,640 with string value: Om programmet has been clicked
+new View has been created with view id: 16
+button with id: be69f4c7-d5cf-43ac-8a3e-0983cacc0289with location: 32,437 with string value: Trailer från C More: Manhunt: Deadly Games has been clicked
+new View has been created with view id: 17
+button with id: 5a1b77ca-a9a3-44be-92ef-2ef6f81bcb18with location: 137,813 with string value: Avsnitt has been clicked
+new View has been created with view id: 18
+button with id: 85e2b654-aae9-4dd8-9c80-f6f52f828d6cwith location: 508,813 with string value: Klipp has been clicked
+new View has been created with view id: 19
+button with id: 81cbaf70-dce4-4b32-89eb-7ce1f2111a83with location: 372,302 with string value:  has been clicked
+new View has been created with view id: 20
+button with id: 13c14c9c-2dc3-41df-bb98-734857192d93with location: 32,490 with string value: 20 maj 2016 has been clicked
+new View has been created with view id: 21
+button with id: 58a08b32-5ae0-4fb3-ab06-662363747a83with location: 588,230 with string value: 01:45 has been clicked
+new View has been created with view id: 22
+button with id: c980cea9-cb19-4a2b-8cea-40bc469ef0d8with location: 202,506 with string value:  has been clicked
+new View has been created with view id: 23
+button with id: f4c6dd0f-822d-4326-b6d4-9247b1541948with location: 620,445 with string value:  has been clicked
+new View has been created with view id: 24
+button with id: 646ca3a4-efa0-4c5e-adf7-e4ced3a8f2a5with location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: 780ac4eb-558b-4293-8392-6b7c4c2d47cdwith location: 0,1015 with string value: 2157584 has been clicked
+button with id: ff14dba5-961c-4d12-8d86-647d73ed34fawith location: 0,973 with string value:  • 1 min 45 sek has been clicked
+button with id: a69a3e59-1cca-497d-83ee-ca09bfa4c370with location: 0,919 with string value: Pangbulle - Kundtjänst has been clicked
+button with id: df1d982b-9669-4ede-9890-e6277591fffdwith location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+new View has been created with view id: 25
+button with id: dc910ccf-dc39-482d-bdf8-6fa3f9c1c224with location: 66,516 with string value: Felmeddelande has been clicked
+new View has been created with view id: 26
+button with id: 7a9c4f50-0cc7-4d76-9664-5d52c6989e1bwith location: 18,586 with string value: Tyvär gick det inte att ladda programmet nu has been clicked
+new View has been created with view id: 27
+button with id: 88a7d432-de22-4e08-873e-ba9f994cda3awith location: 18,586 with string value: Tyvär gick det inte att ladda programmet nu has been clicked
+new View has been created with view id: 28
+button with id: bf3f8d8c-78aa-46c1-a9c7-28d0be1ef6d3with location: 42,695 with string value: OK has been clicked
+new View has been created with view id: 29
+button with id: a55ad7e2-8bdc-48e0-b945-c3e493e7734awith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 30
+button with id: 1457673b-8cf9-406a-ba91-d1036a099ab1with location: 388,103 with string value: TV4 Play- Börja här! has been clicked
+new View has been created with view id: 31
+button with id: 0a2ba186-7042-4cc8-8748-d5cdd7c61065with location: 223,490 with string value: 45 sek has been clicked
+button with id: be57bef4-06c8-40cc-91e7-2cb8c375d12awith location: 620,445 with string value:  has been clicked
+new View has been created with view id: 21
+button with id: 30333283-15d5-4ed1-9403-15c0b571667ewith location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: f7619a9b-3ddb-42e1-a927-457739fc1689with location: 0,969 with string value: Titta var som helst, när som helst. Helt gratis! Börja när du vill, börja här! has been clicked
+button with id: ad839aa2-3ad9-4cdb-be80-35e680ce5f23with location: 0,927 with string value:  • 45 sek has been clicked
+button with id: de05265f-cd3f-49c3-805c-8e3747ae9761with location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: 041a34af-587e-429d-a433-afebf8f11f1awith location: 0,873 with string value: TV4 Play- Börja här! has been clicked
+new View has been created with view id: 22
+button with id: f6c546e1-70e4-40f5-8662-df6a7cad9aa3with location: 378,695 with string value: FÖRSÖK IGEN has been clicked
+new View has been created with view id: 23
+button with id: 1d253397-d13a-40c7-ab25-1d1f26216cf5with location: 42,695 with string value: OK has been clicked
+button with id: d2df56db-4345-4499-994f-6321273d6821with location: 388,303 with string value: Pangbulle - Kundtjänst has been clicked
+new View has been created with view id: 23
+button with id: ca96cce6-4aab-4f60-9ece-f850a47a7418with location: 0,0 with string value:  has been clicked
+button with id: 487963ad-da99-4918-920d-b76ba0e7564bwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 24
+button with id: 5f6a1b6d-b798-46d4-9c44-2e08100b107fwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 25
+button with id: b96af2f2-40e4-45f2-8a52-080671889a6ewith location: 508,767 with string value: Klipp has been clicked
+new View has been created with view id: 26
+button with id: 45fcf0f5-7868-486b-aa05-96878f40bf47with location: 202,506 with string value:  has been clicked
+new View has been created with view id: 27
+button with id: ca13e574-561b-4609-afd2-ac7e33d5541fwith location: 620,445 with string value:  has been clicked
+new View has been created with view id: 28
+button with id: faca9d23-8360-4b66-9523-7305eced2e49with location: 0,1015 with string value: 2157584 has been clicked
+button with id: 3141d927-c0af-4096-9c13-09d3534a8f2awith location: 0,1090 with string value: Tillgänglighet: Mer än 30 dagar till has been clicked
+button with id: 19b6f1d6-2ec6-493b-b8e3-1593a77faa1ewith location: 0,919 with string value: Pangbulle - Kundtjänst has been clicked
+button with id: 4bf94ae2-95d4-44fc-bf0e-7b82aa77c9e7with location: 0,1160 with string value: Rättigheter: Kan ses utomlands has been clicked
+button with id: 5ecebba4-8eca-4559-a4e6-5b0457fb1136with location: 0,973 with string value:  • 1 min 45 sek has been clicked
+new View has been created with view id: 29
+button with id: 3f7c0763-19ae-4864-91ef-047b75f94fa2with location: 18,586 with string value: Tyvär gick det inte att ladda programmet nu has been clicked
+new View has been created with view id: 30
+button with id: 458c587e-3c4d-4a80-914e-b176d2c70a62with location: 18,586 with string value: Tyvär gick det inte att ladda programmet nu has been clicked
+button with id: 423346ac-b6f5-4f38-b39d-04d146e63db3with location: 66,516 with string value: Felmeddelande has been clicked
+button with id: 9cdc1b3d-41de-4c47-9aa2-dcd61f27f801with location: 378,695 with string value: FÖRSÖK IGEN has been clicked
+Exception aquired with message: Message: Cached elements 'By.clazz: android.widget.Button' do not exist in DOM anymore
+

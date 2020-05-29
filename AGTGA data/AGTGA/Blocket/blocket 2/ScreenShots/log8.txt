@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 61235b4c-695c-4b6a-965b-1ab07534b76cwith location: 432,550 with string value: Meddelanden has been clicked
+Exception aquired with message: Message: A session is either terminated or not started
+

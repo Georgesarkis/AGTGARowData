@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is .MainActivity
+new View has been created with view id: 1
+button with id: 9fff2cea-b412-41a5-bff3-a7d4b616978bwith location: 385,208 with string value:  has been clicked
+button with id: d89291b4-dd8a-450d-9058-fabd7fd67376with location: 66,366 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: b670017e-1a52-4733-8d5d-3d01e333a75fwith location: 198,370 with string value: Spam texts bothering you? Forward them to 7726, your carrier will reply asking for the number it came from to help stop spam. has been clicked
+button with id: 0535d1e9-0cfc-43b6-be85-d2a880fcc052with location: 190,1255 with string value:  has been clicked
+button with id: 5fbe09e7-f969-4539-a288-9dfdc28bafd2with location: 12,87 with string value:  has been clicked

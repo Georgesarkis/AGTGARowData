@@ -1,0 +1,30 @@
+New View Has been Created, The activity name is md5723d437ff2209a41c908fc03feb28dd0.SplashLoadingActivity
+new View has been created with view id: 1
+button with id: 269bb4fb-2f65-4aa6-99f4-5913b63221c0with location: 177,1339 with string value: Kenny Svensson has been clicked
+new View has been created with view id: 2
+button with id: f7940165-045d-44f1-94b7-71f21d52121fwith location: 731,283 with string value: KARTVY has been clicked
+new View has been created with view id: 3
+button with id: cb463a56-3dcd-46e5-a0f0-e16b344d5605with location: 731,283 with string value: KARTVY has been clicked
+button with id: 141fa804-47c5-458b-9c8e-f8d0fc132ae6with location: 405,920 with string value:  has been clicked
+button with id: 1e990a1c-e757-4729-b055-62271d9aa5c0with location: 864,1560 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: c5237ab5-20ad-4d8c-84c1-701951083fedwith location: 200,283 with string value: PROFIL has been clicked
+new View has been created with view id: 5
+button with id: 32c290a1-7446-4398-9595-6a18aa17073fwith location: 39,599 with string value: Telefon has been clicked
+button with id: 402c493e-067f-4514-90a4-418ee2095bbdwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: c4ee1e71-db52-4caf-b794-b7b958aad161with location: 521,621 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 4044606f-b37e-4052-8754-89a9d145622cwith location: 237,572 with string value: Larm hanterat has been clicked
+new View has been created with view id: 8
+button with id: 270fb880-691d-4bff-8363-f5ea4248508cwith location: 0,1280 with string value: Laddar... has been clicked
+new View has been created with view id: 9
+button with id: 4f17742d-33e8-40d8-a089-64c3632a3f83with location: 200,283 with string value: PROFIL has been clicked
+button with id: 5afc8f7e-ce95-4287-911a-6001b01dac24with location: 39,900 with string value: 43658 has been clicked
+button with id: c3bc8aa6-4d34-47bd-9a19-6aad02d9d01awith location: 936,84 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 348ac086-5ed5-47fe-a3b8-c91250ba2b94with location: 316,1193 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 46595fe7-c848-4a21-8b08-f9d7591c7436with location: 200,283 with string value: PROFIL has been clicked
+button with id: ebcffb6a-e5ef-487c-8e57-b3c8cebc4d53with location: 521,621 with string value:  has been clicked
+new View has been created with view id: 6

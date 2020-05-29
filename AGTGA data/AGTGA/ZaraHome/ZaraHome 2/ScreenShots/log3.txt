@@ -1,0 +1,5 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: e8ceb55e-9030-470a-9686-8ed553068754with location: 0,48 with string value:  has been clicked
+button with id: 276ca938-130e-45c2-8043-b45fdcc0632cwith location: 180,1168 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

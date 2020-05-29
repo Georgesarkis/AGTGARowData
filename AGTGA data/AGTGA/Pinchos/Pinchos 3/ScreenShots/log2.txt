@@ -1,0 +1,27 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: fc2e52df-cc8c-4756-8bb8-6e00aaf92f25with location: 48,1450 with string value: ARANÄS ALLE 2 has been clicked
+new View has been created with view id: 2
+button with id: 3bd5f845-171a-490c-98ea-a7cae6e23f5ewith location: 972,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: cda870e6-2548-4a13-bae9-7263338e4f21with location: 0,1624 with string value: You have no messages has been clicked
+button with id: 4bfd40f3-8f9f-4d04-ae30-ca9275c36c65with location: 0,1433 with string value: MESSAGES has been clicked
+button with id: bab82f25-6a11-451f-b68b-0130c09d97acwith location: 936,1462 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 3386bc75-e6bc-4cd8-8c2e-2678a81da78cwith location: 362,110 with string value: KUNGSBACKA has been clicked
+button with id: 36496f72-66a3-4451-bb5d-2d10fb749fafwith location: 972,72 with string value:  has been clicked
+button with id: 19f65bd7-30b9-424a-81a7-6ee282a32552with location: 841,283 with string value: FOOD  has been clicked
+new View has been created with view id: 5
+button with id: d9192668-2589-4f7e-9157-7b9431a0b0b5with location: 978,411 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: e0ad9074-b89b-4e3b-9105-7bc6be9de0abwith location: 48,1079 with string value: READ MORE has been clicked
+new View has been created with view id: 7
+button with id: c177f02b-7ce1-4669-a112-af070fc1450fwith location: 381,110 with string value: READ MORE has been clicked
+button with id: a68fb7c6-5fa4-4323-bda5-4a2d92cfc574with location: 0,72 with string value:  has been clicked
+button with id: b3fb2bf9-872a-4a92-bd9a-6c5080c5bb88with location: 0,72 with string value:  has been clicked
+button with id: dee0bc9e-22a6-47ca-9a08-a55d832cabedwith location: 978,520 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 9836df84-b0cb-4b55-a13b-7f45aae185bfwith location: 48,1235 with string value: DESSERT has been clicked
+new View has been created with view id: 7
+button with id: 708a4b59-f738-4865-b12f-b08544d982d5with location: 0,72 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

@@ -1,0 +1,17 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 02092276-42ff-49e8-8dc6-5d14698a5bf1with location: 592,80 with string value:  has been clicked
+button with id: 9f55ac87-b025-4993-a105-a9063db28d8bwith location: 48,256 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 873ce9cc-607c-4023-aae3-d14e4fdebfdfwith location: 334,1200 with string value:  has been clicked
+button with id: 2d210a6f-f295-448f-a519-53edeaa68703with location: 640,1093 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 0a0c1e4a-e589-4093-a2e4-f41e18b02fbawith location: 16,48 with string value:  has been clicked
+button with id: b2fb3da7-1044-41ab-8229-2427586c721bwith location: 48,225 with string value: Registrera dig eller logga in för att få tillgång till specialrabatter, dina favoriter och ditt IKEA Family-kort. has been clicked
+button with id: de1a4559-05ac-4b2c-a0bf-55931d1fa83dwith location: 48,128 with string value: Välkommen till IKEA has been clicked
+button with id: 5210b981-dd7c-41d4-991d-21c58aeb4566with location: 48,1098 with string value: Hjälp has been clicked
+button with id: e19170a1-ab4d-401c-9cc0-6118e0e7aa93with location: 197,1200 with string value:  has been clicked
+button with id: bca2590b-46f7-4e19-bbc3-71d171f6685awith location: 360,208 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: 0e7473c7-af7c-48ac-aa6c-ec1f375f06f4with location: 32,80 with string value:  has been clicked
+button with id: 3696a750-9df7-467b-8096-ca6cdbb68d47with location: 592,56 with string value:  has been clicked

@@ -1,0 +1,26 @@
+New View Has been Created, The activity name is md5dccfc7716c9297b278a85628ec83026a.LoginActivity
+EditView with id: c6562408-0cd0-47bc-84f7-3b13ee3a6431 has been clicked and filled with string: demo4@konto.se
+EditView with id: c6562408-0cd0-47bc-84f7-3b13ee3a6431 has been clicked and filled with string: Sommar2018
+button with id: dd245b5b-4b87-41ab-bb6e-1176ebc55601with location: 216,1479 with string value: LOGGA IN has been clicked
+button with id: 7ef26ed6-f3c6-4042-bd02-ec7b8ab8312ewith location: 777,1017 with string value: JA has been clicked
+new View has been created with view id: 1
+button with id: 3e3af68b-8630-4c47-ac4a-6a41928bdedawith location: 39,923 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: 336fdc58-abc1-4c74-a391-b3c7b615be11with location: 423,96 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 81691f32-909d-437c-b9c1-365005b6bfdewith location: 969,456 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: 821755f7-1b2f-43b1-8421-128d1efbd2ccwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 57e2823d-fc1c-4839-a88a-a75bd82cde0fwith location: 969,647 with string value:  has been clicked
+button with id: 636cf8c4-3383-4453-8d37-537f4947de46with location: 567,115 with string value: Anna has been clicked
+button with id: c4e5d531-1458-4513-b312-1d248eaad500with location: 0,1280 with string value: Laddar... has been clicked
+button with id: 06755485-80a6-4133-a9fa-9f55395ed94fwith location: 405,920 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: e1b8c6fa-b9d1-4235-83da-bee996080d70with location: 936,84 with string value:  has been clicked
+button with id: cf8ede82-6481-4952-a1c7-6435c72b7155with location: 177,471 with string value: Carina Bergqvist has been clicked
+button with id: d40cb9b8-5bd1-4414-aa62-bad6f25ad02cwith location: 405,920 with string value:  has been clicked
+button with id: 52bdf4b8-1c28-46d4-a9cb-10a01dcbe2e2with location: 0,72 with string value:  has been clicked
+button with id: 9a97bc36-d7e2-44ac-80c9-dc82cc3e0993with location: 731,283 with string value: KARTVY has been clicked
+button with id: e89264a3-95b1-4a52-8d87-dcae4129f6acwith location: 405,920 with string value:  has been clicked
+button with id: 179ca910-1d42-4d68-bdca-6e3a1062193awith location: 0,72 with string value:  has been clicked

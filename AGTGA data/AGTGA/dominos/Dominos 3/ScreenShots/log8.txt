@@ -1,0 +1,8 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 25129c42-3111-4293-a7df-c9965b3e4948with location: 292,1416 with string value:  has been clicked
+button with id: bd47702c-3586-496b-b834-fc1797915a4dwith location: 45,1420 with string value:  has been clicked
+button with id: 47b701e7-147c-46c7-b100-6226d9e5031cwith location: 273,1692 with string value: CHANGE TO DELIVERY OR CARRYOUT has been clicked
+new View has been created with view id: 4
+button with id: 9645de08-9bad-4d49-a846-41a9b7ee3df2with location: 0,72 with string value:  has been clicked
+button with id: 7848d415-2b0c-4287-97bf-e25414a6ef13with location: 1008,298 with string value:  has been clicked

@@ -1,0 +1,3 @@
+New View Has been Created, The activity name is .activity.MainActivity
+new View has been created with view id: 1
+button with id: 4062f38f-a02b-4039-bec6-424ebadce8d7with location: 48,1717 with string value: LILLA TORGET 3 has been clicked

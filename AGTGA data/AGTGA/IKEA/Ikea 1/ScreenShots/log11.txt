@@ -1,0 +1,14 @@
+New View Has been Created, The activity name is .welcomescreen.WelcomeActivity
+new View has been created with view id: 1
+button with id: 8570a1da-e362-4294-a906-ab1720bb8e5cwith location: 592,80 with string value:  has been clicked
+new View has been created with view id: 2
+button with id: a40cfa46-94f2-425b-a68a-255a2181f633with location: 640,505 with string value:  has been clicked
+button with id: c214d7f9-8b1a-4648-8d53-f6473926e255with location: 32,1008 with string value:  has been clicked
+button with id: 9da853b4-d385-4bfd-aabd-42945a7d758bwith location: 334,1200 with string value:  has been clicked
+button with id: 3b4e5f46-13b0-4d92-87c8-42de1b6c6d1dwith location: 640,915 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 4a448c12-ae2f-4c4b-aed7-cfeefb9f5cb1with location: 197,1200 with string value:  has been clicked
+button with id: 8dc94988-9014-4a3b-b462-0efa87ce88ffwith location: 197,1200 with string value:  has been clicked
+button with id: 55e42e3b-1f58-417d-a022-38d434ea208fwith location: 640,505 with string value:  has been clicked
+button with id: f697d0e1-9bb8-40cd-8f43-a4029049ce48with location: 496,56 with string value:  has been clicked
+new View has been created with view id: 3

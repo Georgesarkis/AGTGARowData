@@ -1,0 +1,11 @@
+New View Has been Created, The activity name is se.blocket.activities.MainActivity
+new View has been created with view id: 1
+button with id: 8f81b64a-8ccf-4f1d-a3dc-3ddddeb5f40bwith location: 304,423 with string value: 2017 • Diesel • Automat has been clicked
+new View has been created with view id: 2
+button with id: 3db28864-4af4-402b-9991-d8c0be89a7bcwith location: 470,1270 with string value: 6 000 - 6 499 has been clicked
+button with id: 5b65b751-14bf-41cf-8203-273394166d87with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 227ea7e9-5d3a-439f-8093-0f2528f1181dwith location: 644,306 with string value:  has been clicked
+button with id: ce2d047d-d5dc-409d-8b21-7a56e2f21f06with location: 448,530 with string value:  has been clicked
+button with id: 181e4da5-5d42-4ea3-b317-286b3aa4f8cewith location: 592,530 with string value:  has been clicked
+new View has been created with view id: 3

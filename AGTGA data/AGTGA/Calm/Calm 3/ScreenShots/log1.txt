@@ -1,0 +1,6 @@
+New View Has been Created, The activity name is .ui.home.MainActivity
+new View has been created with view id: 1
+button with id: f2539dc5-9408-4278-9776-80088a4e6000with location: 224,1226 with string value: New Sleep Story by Eva Green has been clicked
+button with id: f0178fb7-17cd-4f02-95b8-85a43095ff5awith location: 376,240 with string value:  has been clicked
+Exception aquired with message: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+

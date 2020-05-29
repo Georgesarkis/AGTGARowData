@@ -1,0 +1,22 @@
+New View Has been Created, The activity name is com.dominos.activities.HomeActivity
+new View has been created with view id: 1
+button with id: 2d2cdbe7-ca46-433c-ae26-e65907eafcfcwith location: 481,1051 with string value: DELIVERY has been clicked
+new View has been created with view id: 2
+button with id: 2df06661-2eed-4375-a7a8-4556d4eb3f9fwith location: 957,775 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: 5ea361c3-cc82-45af-8de4-87385e35f6a7with location: 330,1560 with string value: CONTINUE has been clicked
+new View has been created with view id: 4
+button with id: 5d7dfb37-d91b-4550-92d2-90f50c9165b0with location: 75,854 with string value: State is required. 
+ has been clicked
+button with id: de9927e3-57c9-42a3-bc53-3b7b0e0be9a6with location: 123,690 with string value:  has been clicked
+button with id: 64e66738-be6a-4456-bd41-15208747e3ecwith location: 270,708 with string value: Heads Up! has been clicked
+button with id: 06797b2b-6815-4b14-ae1f-6eb3be2f0bc6with location: 75,1048 with string value: Got it. Thanks. has been clicked
+new View has been created with view id: 5
+button with id: 95d2ebea-ee74-4e7d-a7c8-c4b2d41fc275with location: 0,72 with string value:  has been clicked
+new View has been created with view id: 6
+button with id: 47b2669d-cbf4-492c-ad59-b23e963bb11fwith location: 384,1218 with string value:  has been clicked
+button with id: 49a5010e-3136-4f90-8fbc-eddda1c29cdfwith location: 0,72 with string value:  has been clicked
+new View has been created with view id: 3
+button with id: d245390b-0d07-4767-807e-1138e27962f4with location: 409,1044 with string value:  has been clicked
+button with id: c21a036c-c2e1-441a-b287-f71a401230cdwith location: 57,312 with string value: SIGN IN has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

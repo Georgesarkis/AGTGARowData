@@ -1,0 +1,39 @@
+adb shell ps | awk '/com\.android\.commands\.monkey/ { system("adb shell kill " $2) }'
+
+adb shell monkey -p posifon.Care -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.fireshooters.lifetips -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.nytimes.android -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.cnn.mobile.android.phone  -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.nike.omega  -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.ingka.ikea.app -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p se.tv4.tv4playtab -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p se.appcorn.Blocket -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.sec.android.app.shealth  -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.calm.android  -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.dominospizza  -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p se.viento.pinchos -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.instagram.layout -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.handmark.expressweather  -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+adb shell monkey -p com.inditex.ecommerce.zarahome.android -v 200000 --throttle 30000 --ignore-crashes --ignore-timeouts --wait-dbg --script-log
+
+
+
+
+
+
+
+

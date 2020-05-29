@@ -1,0 +1,29 @@
+New View Has been Created, The activity name is .LayoutActivity
+new View has been created with view id: 1
+button with id: c4a738ec-c413-4604-add1-ededaadd2ae5with location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: 4853fc22-a275-47a7-a5d9-c8d9edec9764with location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 4
+button with id: a60d047b-f00b-4736-992a-72da12349aa2with location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 5
+button with id: 649dcdfb-573a-4752-ab2f-a1bcbf74068bwith location: 360,1966 with string value: FACES has been clicked
+new View has been created with view id: 6
+button with id: 1fcd1756-e4d3-4780-94ca-9849d0548d86with location: 0,0 with string value:  has been clicked
+button with id: 4c8b8c07-976d-4e24-a2df-a6772f48563bwith location: 360,1966 with string value: FACES has been clicked
+button with id: cd9879e6-6006-4030-83d8-c9d2e46ef153with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 3
+button with id: 5a690be1-242b-4c6e-ab43-ad84ebccbc52with location: 348,564 with string value:  has been clicked
+button with id: dd726dad-99f5-4dad-9b31-e9741ab16490with location: 720,1966 with string value: RECENTS has been clicked
+new View has been created with view id: 4
+button with id: 9e1bac9b-0653-417a-91fa-829c6dd98243with location: 901,1900 with string value: 3 has been clicked
+button with id: 35e68c18-b0ee-4b18-b09a-ef8a405827afwith location: 0,0 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: de79d63a-b78e-486c-aca9-e0f88c9f9a50with location: 412,1 with string value:  has been clicked
+button with id: 6d555c76-1014-4323-a7de-7a00e567d0f1with location: 0,1966 with string value: PHOTO BOOTH has been clicked
+button with id: d5ab5080-0681-4618-8c72-313a7fec40e8with location: 412,1 with string value:  has been clicked
+new View has been created with view id: 4
+button with id: b6c34bb0-169d-4d26-bb25-b149b464532bwith location: 0,1966 with string value: PHOTO BOOTH has been clicked
+new View has been created with view id: 5
+button with id: ecd6c3f3-967c-4703-9714-141f8632af90with location: 164,1482 with string value: Messenger has been clicked
+new View has been created with view id: 6
+button with id: a60be121-6f63-4605-a780-8b1261c11b55with location: 424,559 with string value: PHOTO BOOTH has been clicked
+button with id: 6a8b4fc9-02d4-40c0-9482-34c4e6760783with location: 412,1 with string value:  has been clicked

@@ -1,0 +1,24 @@
+New View Has been Created, The activity name is es.sdos.sdosproject.ui.splash.activity.LaunchActivity
+new View has been created with view id: 1
+button with id: 9c002679-d30b-4cd3-acbf-f2a2414f8af1with location: 0,1168 with string value:  has been clicked
+button with id: 388badfc-17a8-4927-a761-0341efd9b2d5with location: 0,48 with string value:  has been clicked
+button with id: 2ddcd020-5d5e-4264-b429-514b2e460c24with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 5
+button with id: 70f3ca70-b895-4851-acce-f4e8ce5f1a3ewith location: 374,373 with string value: Rug has been clicked
+new View has been created with view id: 6
+button with id: 4c55ca14-aa89-4371-925c-61660943728fwith location: 592,56 with string value:  has been clicked
+new View has been created with view id: 7
+button with id: 102a8fa2-1f51-4f37-bd36-89a44347155fwith location: 0,56 with string value:  has been clicked
+new View has been created with view id: 8
+button with id: 6c03f8c0-2da7-43bb-8771-9184a74f7559with location: 592,56 with string value:  has been clicked
+button with id: fae57c2e-2ae8-4ba9-bb2f-35a1c239c491with location: 310,400 with string value:  has been clicked
+button with id: 1e35e0cb-0b70-4f93-a593-726a8b5e3dccwith location: 205,849 with string value:  has been clicked
+button with id: f4c75e02-637f-4f9c-8ea9-82cbfc5e72ecwith location: 295,882 with string value:  has been clicked
+button with id: 9fbabd01-b342-4ea0-b19f-2d7ed3126018with location: 355,885 with string value: CHAT has been clicked
+button with id: c47ef2ca-c74e-4f0b-ade7-10cc2dc27becwith location: 0,568 with string value: Your shopping bag is empty has been clicked
+button with id: 75404971-8874-4d6d-809b-1c9c0f52d3ffwith location: 0,48 with string value:  has been clicked
+new View has been created with view id: 9
+button with id: d2ff36ac-9489-404f-b402-bb22deadd3d7with location: 0,48 with string value:  has been clicked
+new View has been created with view id: 10
+button with id: 138ff068-cbfd-4414-b160-131407526025with location: 180,1168 with string value:  has been clicked
+Exception aquired with message: 'NoneType' object has no attribute 'id'

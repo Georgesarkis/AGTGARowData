@@ -1,0 +1,7 @@
+New View Has been Created, The activity name is .CCPADialogActivity
+new View has been created with view id: 1
+button with id: 1925ea8c-2c2f-4083-a534-0961403743a8with location: 327,1841 with string value: Continue has been clicked
+new View has been created with view id: 2
+button with id: 84b9ad1d-21bd-4d1c-ba33-a52e710c53c0with location: 687,849 with string value: Wind has been clicked
+new View has been created with view id: 3
+button with id: 1b295c01-5ea1-4895-87dd-385b84d169ddwith location: 38,887 with string value: Wind speed is typically judged as the velocity of wind. Average wind speed is often determined by an anemometer. has been clicked
